@@ -1,0 +1,44 @@
+/*Faça um programa que recebe uma string e transforma 
+alguns dos caracteres em maiúsculos e outros em minúsculos. 
+Faça sorteios com a função rand() para gerar números aleatórios em C,
+que serão usados para escolher os índices dos caracteres que serão alterados.*/
+
+#include <stdio.h>
+#include <string.h>
+#include <stdlib.h>
+#include <time.h>
+#include <ctype.h>
+#include <locale.h>
+
+#define N 100
+
+int main(){
+    setlocale(LC_ALL, "Portuguese_Brazil");
+
+    srand(time(NULL));
+
+char text[N];
+int i, tam;
+
+printf("Digite um texto qualquer: ");
+fgets(text, N, stdin);
+fflush(stdin);
+
+size_t len = strlen(text);
+    if (len > 0 && text[len-1] == '\n') {
+        text[len-1] = '\0';
+    }
+
+tam=strlen(text);
+
+for (i = 0; i < tam; i++) {
+    if (rand()%2) {
+        text[i] = toupper(text[i]);
+        } else {
+            text[i] = tolower(text[i]);
+        }
+    }
+
+printf("Texto com maiusculas e minusculas randomizados: %s", text);
+    
+}

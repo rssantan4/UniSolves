@@ -1,0 +1,42 @@
+/*Crie uma função que mostra os caracteres de uma string que são repetidos.*/
+
+#include <stdio.h>
+#include <string.h>
+#include <locale.h>
+
+#define N 100
+
+void repcarac(char str[]) {
+    int i, j, rep, tam=strlen(str);
+    for (i = 0;i < tam; i++) {
+        if(str[i] == '\0' || str[i] == '\n') continue;
+        rep=0;
+            for (j=i+1;j < tam; j++) {
+                if (str[i] == str[j]) {
+                rep=1;
+                break;
+                }
+            }
+            if (rep) {
+            printf("Repetidos: %c ", str[i]);
+            for (j=i+1;j < tam; j++) {
+                if (str[i] == str[j]) {
+                    str[j] = '\0';
+                }
+            }
+        }
+    }
+}
+int main(){
+    setlocale(LC_ALL, "Portuguese_Brazil");
+
+char text[N];
+
+printf("Digite um texto qualquer: ");
+fgets(text, N, stdin);
+fflush(stdin);
+
+repcarac(text);
+
+return 0;
+}

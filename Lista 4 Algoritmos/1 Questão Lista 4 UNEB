@@ -1,0 +1,33 @@
+/*Faça um programa que conta e imprime o número de ocorrências de uma letra, 
+fornecida pelo usuário, em uma dada string, também digitada pelo usuário.*/
+
+#include <stdio.h>
+#include <locale.h>
+#include <string.h>
+#define N 50
+
+int main(){
+    setlocale(LC_ALL, "Portuguese_Brazil");
+
+char text[N];
+char letra;
+int i, cont;
+
+printf("Digite uma letra que deseja verificar sua ocorrência na string: ");
+scanf("%c", &letra);
+
+while ((getchar()) != '\n');
+
+printf("Digite um texto qualquer: ");
+fgets(text, N, stdin);
+fflush(stdin);
+
+for (i = 0; text[i] != '\0'; i++) {
+if (text[i] == letra) {
+    cont++;
+}
+}
+
+printf("A quantidade de '%c' que aparecem no texto de digitado são: %d", letra, cont);
+
+}

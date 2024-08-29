@@ -1,0 +1,33 @@
+/*Crie uma função que receba uma string como parâmetro e duplique cada caractere da string.*/
+
+#include <stdio.h>
+#include <string.h>
+
+void duplicar_caracteres(char str[]) {
+    int n = strlen(str);
+    char resultado[2 * n + 1];  // Array para armazenar a string resultante
+    int j = 0;
+
+    for (int i = 0; i < n; i++) {
+        resultado[j++] = str[i];
+        resultado[j++] = str[i];
+    }
+
+    resultado[j] = '\0';  // Adiciona o caractere nulo no final da string resultante
+
+    // Copia a string resultante de volta para a string original
+    strcpy(str, resultado);
+}
+
+int main() {
+    char str[100];
+
+    printf("Digite uma string: ");
+    scanf("%99s", str);  // Lê a string, garantindo que não ultrapasse o tamanho do array
+
+    duplicar_caracteres(str);
+
+    printf("String com caracteres duplicados: %s\n", str);
+
+    return 0;
+}

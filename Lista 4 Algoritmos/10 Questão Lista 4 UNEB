@@ -1,0 +1,52 @@
+/*Faça um programa que leia um frase (string) e mostre quantas palavras, 
+quantos espaços e quantos caracteres de pontuação ( . , ; : ‘ “ ) tinha na frase.*/
+
+#include <stdio.h>
+#include <ctype.h>
+
+int main() {
+    char frase[1000];
+    int i, palavras = 0, espacos = 0, pontuacoes = 0;
+    int tamanho;
+
+    // Caracteres de pontuação considerados
+    char pontuacao[] = ".,;:'\"";
+    
+    printf("Digite uma frase: ");
+    fgets(frase, sizeof(frase), stdin);
+
+    // Calculando o tamanho da string
+    tamanho = 0;
+    while (frase[tamanho] != '\0') {
+        tamanho++;
+    }
+
+    for (i = 0; i < tamanho; i++) {
+        // Verificando se o caractere atual é um espaço
+        if (frase[i] == ' ') {
+            espacos++;
+        }
+        // Verificando se o caractere atual é um caractere de pontuação
+        for (int j = 0; j < 6; j++) {
+            if (frase[i] == pontuacao[j]) {
+                pontuacoes++;
+                break;
+            }
+        }
+    }
+   // Contando palavras (considera que palavras estão separadas por espaços)
+    if (tamanho > 0) {
+        palavras = 1; // Inicia com 1 palavra
+        for (i = 0; i < tamanho; i++) {
+            if (frase[i] == ' ' && frase[i+1] != ' ' && frase[i+1] != '\0') {
+                palavras++;
+            }
+        }
+    }
+
+    printf("Número de palavras: %d\n", palavras);
+    printf("Número de espaços: %d\n", espacos);
+    printf("Número de caracteres de pontuação: %d\n", pontuacoes);
+
+    return 0;
+}

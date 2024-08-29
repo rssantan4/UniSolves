@@ -1,0 +1,49 @@
+/*Faça um algoritimo que informa se a palavra inserida está
+na frase e qual é a posição do primeiro caracter*/
+
+#include <stdio.h>
+#include <string.h>
+#include <locale.h>
+
+#define N 100
+
+int palavra_esta(char str[], char pal[]) {
+    int i, j; 
+    int tam_str=strlen(str), tam_pal=strlen(pal);
+    for (i = 0; i<=tam_str-tam_pal; i++) {
+        for (j = 0;j < tam_pal; j++) {
+            if (str[i+j] != pal[j]) {
+                break;
+            }
+        }
+        if (j == tam_pal) {
+            return i;
+        }
+   }
+   return -1;
+}
+
+int main(){
+    setlocale(LC_ALL, "Portuguese_Brazil");
+
+int i, achou;
+char text[N], palavra[15];
+
+printf("Digite uma frase/texto qualquer: ");
+fgets(text, N, stdin);
+fflush(stdin);
+
+printf("Digite uma palavra qualquer para verificar se esta na frase: ");
+fgets(palavra, 15, stdin);
+fflush(stdin);
+
+palavra[strcspn(palavra, "\n")] = 0;
+
+achou = palavra_esta(text, palavra);
+
+if (achou>=0) {
+        printf("A palavra inserida está na frase e a posição do primeiro caractere é: %d\n", achou+1);
+    } else {
+        printf("A palavra inserida não está na frase.\n");
+    }
+}

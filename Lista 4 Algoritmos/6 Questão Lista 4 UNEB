@@ -1,0 +1,38 @@
+/*Faça um programa que retire todos os caracteres repetidos de uma string.*/
+
+#include <stdio.h>
+#include <string.h>
+#include <locale.h>
+
+#define N 100
+
+void limprep(char str[]){
+    int i, j, k, tam=strlen(str);
+    for (i = 0; i < tam; i++) {
+        for(j=i+1;j < tam; j++) {
+            if (str[i] == str[j]) {
+            for (k = j; k < tam; k++) {
+                if (str[k] == '\0' || str[k] == '\n') continue;
+                    str[k] = str[k + 1];
+                }
+                tam--;
+                j--;
+            }
+        }
+    }
+}
+int main(){
+    setlocale(LC_ALL, "Portuguese_Brazil");           
+
+char text[N];
+
+printf("Digite um texto qualquer: ");
+fgets(text, N, stdin);
+fflush(stdin);
+
+limprep(text);
+
+printf("Texto sem caracteres repetidos: %s\n", text);
+
+return 0;
+}

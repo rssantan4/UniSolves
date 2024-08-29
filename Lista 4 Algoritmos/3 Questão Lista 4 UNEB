@@ -1,0 +1,40 @@
+/*Crie uma função que recebe uma string e um caractere, 
+e retorne o número de vezes que esse caractere aparece na string.*/
+
+#include <stdio.h>
+#include <string.h>
+#include <locale.h>
+
+#define N 50
+
+int contcarac(char str[], char ch) {
+    int i, cont=0;
+for (i = 0; str[i] != '\0'; i++) {
+if (str[i] == ch) {
+    cont++;
+}
+}
+return cont;
+}
+
+int main(){
+    setlocale(LC_ALL, "Portuguese_Brazil");
+
+char text[N];
+char letra;
+int i, cont;
+
+printf("Digite uma letra que deseja verificar sua ocorrência na string: ");
+scanf("%c", &letra);
+
+while ((getchar()) != '\n');
+
+printf("Digite um texto qualquer: ");
+fgets(text, N, stdin);
+fflush(stdin);
+
+cont = contcarac(text, letra);
+
+printf("A quantidade de '%c' que aparecem no texto digitado é: %d\n", letra, cont);
+return 0;
+}

@@ -1,0 +1,40 @@
+/*Crie uma função que recebe uma string e um caractere, 
+e apague todas as ocorrências desses caracteres na string.*/
+
+#include <stdio.h>
+#include <string.h>
+#include <locale.h>
+
+#define N 100
+
+void apagcarac(char str[], char ch) {
+    int i, tam=strlen(str), j;
+    for (i = 0; i < tam; i++) {
+        if (str[i] == ch) {
+            for (j = i; j < tam; j++) {
+                str[j] = str[j+1];
+            }
+            tam--;
+            i--;
+        }
+    }
+}
+
+int main(){
+    setlocale(LC_ALL, "Portuguese_Brazil");
+
+char text[N], ch1;
+
+printf("Digite um texto qualquer: ");
+fgets(text, N, stdin);
+fflush(stdin);
+
+printf("Digite qual a letra que deseja apagar de todo o texto: ");
+scanf("%c", &ch1);
+
+while ((getchar()) != '\n');
+
+apagcarac(text, ch1);
+
+printf("Texto Modificado: %s", text);
+}
