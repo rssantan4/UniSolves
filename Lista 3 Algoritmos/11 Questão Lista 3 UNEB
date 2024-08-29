@@ -1,0 +1,31 @@
+/*Escrever um algoritmo que lê um vetor N[10] e o escreve. 
+Troque, a seguir, cada elemento que estiverem posição ímpar (o primeiro, o terceiro...)
+pelo elemento da posição imediatamente a seguir. Escreva o vetor modificado.*/
+
+#include <stdio.h>
+#include <locale.h>
+
+int main() {
+    setlocale(LC_ALL, "");
+
+int v[10], i, seg;
+
+for (i = 0; i < 10; i++) {
+    printf("Insira o %dº valor do vetor original:\n", i + 1);
+    scanf("%d", &v[i]);
+    }
+    printf("Vetor inserido: ");
+for (i = 0;i < 10; i++) {
+    printf("%d ", v[i]);
+    }
+for(i = 0; i < 9; i+=2) {
+        seg = v[i];
+        v[i] = v[i + 1];
+        v[i + 1] = seg;
+    }
+    printf("\nVetor modificado: ");
+for (i = 0; i < 10; i++) {
+    printf("%d ", v[i]);
+    }
+    return 0;
+}

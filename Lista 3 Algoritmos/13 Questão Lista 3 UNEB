@@ -1,0 +1,40 @@
+/*Escrever um algoritmo que lê um vetor X[10] e, após, leia um vetor Y[10]. 
+Crie, a seguir, um terceiro vetor Z com os elementos que aparecem nos dois vetores (intersecção). 
+Os elementos devem aparecer no vetor Z na mesma ordem em que aparecem no vetor X. 
+Considere que não há repetição de valores dentro do mesmo vetor. 
+Escreva o vetor Z (apenas as posições que foram preenchidas).*/
+
+#include <stdio.h>
+#include <locale.h>
+
+int main(){
+    setlocale(LC_ALL, "Portuguese_Brazil");
+
+int x[10], y[10], z[10], i, j, k;
+  
+for(i=0;i<10;i++){
+    printf("Insira o %dº valor do vetor X: \n", i+1);
+    scanf("%d", &x[i]);
+    fflush(stdin);
+}
+for(i=0;i<10;i++){
+    printf("Insira o %dº valor do vetor Y: \n", i+1);
+    scanf("%d", &y[i]);
+    fflush(stdin);
+}
+for(i=0;i<10;i++){
+    for(j=0;j<10;j++){
+        if(x[i]==y[j]){
+            z[k]=x[i];
+            k++;
+        }else{
+            z[k]=0;
+        }
+    }
+}
+printf("Os valores que estão na intersecção entres os vetores X e Y são: ");
+for(i=0;i<k;i++){
+    printf("%d ", z[i]);
+}
+return 0;
+}

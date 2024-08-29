@@ -1,0 +1,27 @@
+/*Escrever um algoritmo que lê um vetor N[10] e o escreve. 
+Troque, a seguir, o 1° elemento com o último, o 2° com o penúltimo etc. 
+Até o 5° com o 6° e escreva o vetor N assim modificado.*/
+
+#include <stdio.h>
+#include <locale.h>
+
+int main(){
+    setlocale(LC_ALL, "");
+
+int v[10], i;
+
+for (i = 0;i < 10; i++) {
+    printf("Insira o %dº valor do vetor original:\n", i+1);
+    scanf("%d", &v[i]);
+    fflush(stdin);
+}
+    printf("Vetor inserido: ");
+for (i = 0; i < 10; i++) {
+    printf("%d ", v[i]);
+}
+    printf("\nVetor modificado: ");
+for (i = 9; i >= 0; i--) {
+    printf("%d ", v[i]);
+}
+return 0;
+}

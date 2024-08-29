@@ -1,0 +1,26 @@
+/*Faça um algoritmo que leia 10 valores e os escreva na 
+ordem contrária à que foram digitados.*/
+
+#include <stdio.h>
+#include <locale.h>
+
+int main() {
+    setlocale(LC_ALL, "");
+
+    int v[10], i;
+
+    for (i = 0; i < 10; i++) {
+        printf("Escreva o numero %d do vetor: \n", i + 1);
+        scanf("%d", &v[i]);
+        fflush(stdin);
+    }
+    printf("\nEsses são os valores do vetor invertido: \n");
+    for (i = 9; i >= 0; i--) {
+        printf("%d ", v[i]);
+    }
+    printf("\nEsses são os valores do vetor: \n");
+    for (i = 0; i < 10; i++) {
+    printf("%d ", v[i]);
+    }
+    return 0;
+}

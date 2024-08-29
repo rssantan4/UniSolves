@@ -1,0 +1,29 @@
+/*Escrever um algoritmo que lê um vetor N[20] e o escreve. 
+Encontre, a seguir, o menor elemento e a sua posição no vetor N e escreva: 
+"O menor elemento de N é = ... e a sua posição é ... ".*/
+
+#include <stdio.h>
+#include <locale.h>
+
+int main(){
+    setlocale(LC_ALL, "");
+
+int v[20], i, menor, posicao;
+
+for (i = 0;i < 20; i++) {
+    printf("Insira os valores do vetor na posição %d:\n ", i);
+    scanf("%d", &v[i]);
+    fflush(stdin);
+}
+menor = v[0];
+posicao = 0;
+for (i = 1; i < 20; i++) {
+    if(v[i] < menor){
+        menor = v[i];
+        posicao = i;
+    }
+}
+printf("Esse é o menor valor do vetor inserido: %d e a sua posição é: %dº", menor, posicao);
+return 0;
+
+}

@@ -1,0 +1,33 @@
+/*Faça um algoritmo que leia 10 valores e verifique se algum 
+dos valores aparece repetido. Escreva 1 caso algum valor aparecer
+repetido e 0 se não houver nenhum valor repetido.*/
+
+#include <stdio.h>
+#include <locale.h>
+
+int main(){
+    setlocale(LC_ALL, "");
+    
+int v[10], i, j, rep=0;
+
+for (i = 0; i < 10; i++) {
+    printf("Insira o %dº valor do vetor: ", i+1);
+    scanf("%d", &v[i]);
+    fflush(stdin);
+}
+for (i = 0;i < 10; i++) {
+    for(j = i+1; j < 10; j++) {
+    if(v[i]==v[j]){
+        rep=1;
+        break;
+    }
+}
+    if (rep) {
+        break;
+    }
+}  if (rep) {
+    printf("1\n");
+} else {
+    printf("0\n");
+    }
+}

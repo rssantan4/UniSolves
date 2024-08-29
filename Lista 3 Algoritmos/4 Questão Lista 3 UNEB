@@ -1,0 +1,23 @@
+/*Faça um algoritmo que leia dez números inteiros armazenando-os em um vetor.
+ Após, escreva a posição de cada número menor que zero desse vetor.*/
+
+ #include <stdio.h>
+ #include <locale.h>
+
+ int main(){
+  setlocale(LC_ALL, "");
+
+int v[10], i;
+
+for (i = 1; i <= 10; i++) {
+    printf("Insira valores do vetor: ", i);
+    scanf("%d", &v[i]);
+    fflush(stdin);
+}
+for (i = 1; i <= 10; i++) {
+    if (v[i]<0) {
+  printf("Na posição do vetor %d possui numero negativo\n", i);      
+    }
+}  
+return 0;
+}

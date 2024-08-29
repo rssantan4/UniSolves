@@ -1,0 +1,35 @@
+/*Escrever um algoritmo que lê um vetor X[10] e, após, leia um vetor Y[10]. 
+Crie, a seguir, um terceiro vetor Z com os elementos que aparecem em um X ou em Y (união); 
+elementos que aparecem em X e Y simultaneamente devem aparecer apenas uma vez em Z. 
+Os elementos devem aparecer no vetor Z na mesma ordem em que aparecem no vetor X e Y. 
+Considere que não há repetição de valores dentro do mesmo vetor. 
+Escreva o vetor Z (apenas as posições que foram preenchidas). */
+
+#include <stdio.h>
+#include <locale.h>
+
+int main(){
+    setlocale(LC_ALL, "Portuguese_Brazil");
+
+int x[10], y[10], z[20], i, j, k;
+
+for (i = 0; i < 10; i++) {
+    printf("Digite o %dº valor do vetor X: \n", i+1);
+    scanf("%d", &x[i]);
+    fflush(stdin);
+}
+for(i = 0; i < 10; i++) {
+    printf("Digite o %dº valor do vetor Y: \n", i+1);
+    scanf("%d", &y[i]);
+    fflush(stdin);
+}
+for(i = 0;i < 20; i++) {
+    for(j = 0; j < 10; j++) {
+        for(k = 0;k < 10; k++) {
+            if (x[i] == y[j]) {
+                z[k] = x[i];
+            }
+        }
+    }
+}
+}
