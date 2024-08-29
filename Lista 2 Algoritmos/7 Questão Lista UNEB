@@ -1,0 +1,37 @@
+#include <stdio.h>
+
+int main() {
+
+float p1, p2, p3, p4, media; 
+
+printf("Digite sua primeira nota: ");
+scanf("%f", &p1);
+
+printf("Digite sua segunda nota: ");
+scanf("%f", &p2);
+
+printf("Digite sua terceira nota: ");
+scanf("%f", &p3);
+
+printf("Digite sua quarta nota: ");
+scanf("%f", &p4);
+
+float maior1=p1, maior2=p2, maior3=p3
+
+if (p4 > maior1) {
+    maior1=p4;
+    maior2=maior1;
+    maior3=maior2;
+}
+else if (p4 > maior2) {
+    maior2=p4;
+    maior3=maior2;
+}
+else if (p4 > maior3)
+    maior3=p4;
+}
+
+media = (maior1 + maior2 + maior3)/3;
+printf("Suas media retirando a pior nota das 4 provas foi: %0.1f");
+
+return 0;

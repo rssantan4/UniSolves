@@ -1,0 +1,35 @@
+/*Faça um algoritmo que leia 3 valores l1, l2 e l3 
+e verifique se formam um triângulo. Se formarem, calcule 
+e escreva a área do triângulo formado. Se não formarem, escreva -1.*/
+
+#include <stdio.h>
+#include <math.h>
+
+int main() {
+
+float l1, l2, l3, smp, area, peri;
+
+printf("Digite o Primeiro Lado do Triângulo: ");
+scanf("%f", &l1);
+
+printf("Digite o Segundo Lado do Triângulo: ");
+scanf("%f", &l2);
+
+printf("Digite o Terceiro Lado do Triângulo: ");
+scanf("%f", &l3);
+
+if (l1 <= 0 || l2 <= 0 || l3 <= 0) {
+    printf("-1 - Não forma um triangulo.");
+}
+else if (l1 + l2 > l3 && l1 + l3 > l2 && l2 + l3 > l1) {
+float smp = (l1 + l2 + l3)/2;
+peri = l1 + l2 + l3;
+area = sqrt(smp*(smp-l1)*(smp-l2)*(smp-l3));
+    printf("A area e o perimetro do triangulo informado respectivamente é: %f, %f", area, peri);
+}
+else {
+    printf("-1 - Não forma um triangulo.");
+
+}
+
+}

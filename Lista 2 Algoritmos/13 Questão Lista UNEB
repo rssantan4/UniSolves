@@ -1,0 +1,83 @@
+/*Faça um algoritmo que implemente uma calculadora de 4 operações. 
+O algoritmo deve ler, nessa ordem: o primeiro operando, o operador
+(+,-,*,/) e o segundo operando, e deve escrever o resultado da operação.
+Por exemplo, se o usuário digitar 2,+,3 o algoritmo deve escrever 5.*/
+
+#include <stdio.h>
+#include <math.h>
+
+int main() {
+
+int calculadora, j;
+float soma, sub, div, multi, pot, rai, v1, v2;
+j = 0;
+
+do{
+
+printf("Bem-Vindo a calculadora em C, digite a opreção que deseja realizar: \n 1 - Soma \n2 - Subtração \n3 - Multiplicação \n4 - Divisão \n5 - Potênciação \n6 - Radiciação \n");
+scanf("%d", &calculadora);
+
+switch (calculadora) {
+case 1:
+    printf("Digite o primeiro número que deseja somar: ");
+    scanf("%f", &v1);
+    printf("Digite o segundo número que deseja somar: ");
+    scanf("%f", &v2);
+    soma = v1 + v2;
+    printf("A soma dos operandos é: %.2f\n", soma);
+    break;
+case 2:
+    printf("Digite o primeiro número que deseja subtrair: ");
+    scanf("%f", &v1);
+    printf("Digite o segundo número que deseja subtrair: ");
+    scanf("%f", &v2);
+    sub = v1 - v2;
+    printf("A subtração dos operandos é: %.2f\n", sub);
+    break;
+case 3:
+    printf("Digite o numero que deseja multiplicar: ");
+    scanf("%f", &v1);
+    printf("Digite o seu multiplicando: ");
+    scanf("%f", &v2);
+    multi = v1 * v2;
+    printf("A multiplicação dos operandos é: %.2f\n", multi);
+    break;
+case 4: 
+    printf("Digite o numero que deseja dividir: ");
+    scanf("%f", &v1);
+    printf("Digite o seu divisor: ");
+    scanf("%f", &v2);
+    div = v1 / v2;
+    printf("A divisão dos operandos é: %.2f\n", div);
+    break;
+case 5:
+    printf("Digite o numero da base: ");
+    scanf("%f", &v1);
+    printf("Digite o numero do expoente: ");
+    scanf("%f", &v2);
+    pot = pow(v1, v2);
+    printf("O resultado da potenciação é: %.2f\n", pot);
+    break;
+case 6:
+    printf("Digite o numero que deseja tirar sua raiz: ");
+    scanf("%f", &v1);
+    rai = sqrt(v1);
+    printf("A raiz quadrada desse numero é: %.2f\n", rai);
+    break;
+default:
+    printf("Valor Inválido.\n");
+    break;
+}
+
+printf("Digite 1 se quiser calcular novamente, 2 se quiser parar.\n");
+scanf("%d", &j);
+
+if (j == 2) {
+    printf("Encerrando o programa.");
+}
+    
+} while (j !=2);
+
+return 0;
+
+}

@@ -1,0 +1,37 @@
+/*Faça um algoritmo que leia 3 valores a, b e c, lados de um triangulo,
+e verifique o tipo de triângulo formado escrevendo: 0 - se o triângulo é equilátero
+(os três lados são iguais); 1 - se o triângulo é isóscele (dois lados iguais e um diferente)
+;2 - escaleno (3 lados diferentes).*/
+#include <stdio.h>
+#include <math.h>
+
+int main() {
+
+int l1, l2, l3;
+
+printf("Digite o Primeiro Lado do Triângulo: ");
+scanf("%d", &l1);
+
+printf("Digite o Segundo Lado do Triângulo: ");
+scanf("%d", &l2);
+
+printf("Digite o Terceiro Lado do Triângulo: ");
+scanf("%d", &l3);
+
+if (l1==l2 && l2==l3) {
+    printf(" 0- Este Triângulo é Equilatero.");
+}
+else if (l1==l2 && l2!=l3) {
+    printf(" 1 - Este Triângulo é Isoscele.");
+}
+else if (l1==l3 && l3!=l2) {
+    printf("1 - Este Triângulo é Isoscele.");
+}
+else if (l2==l3 && l1!=l2) {
+    printf("1 - Este Triângulo é Isoscele.");
+}
+else if (l1!=l2 && l2!=l3) {
+    printf("2 - Este Triângulo é Escaleno.");
+}
+return 0;
+}
