@@ -1,0 +1,15 @@
+#include <stdio.h>
+
+int main(){
+    int v[20], i, soma;
+    for (i = 0; i < 20; i++) {
+        printf("Insira a %dª idade: ", i+1);
+        scanf("%d", &v[i]);
+        fflush(stdin);
+    }
+    for (i = 0; i < 20; i++) {
+      soma += v[i];
+    }
+    printf("Essa é a soma das idades fornecidas: %d", soma);
+    return 0;
+}

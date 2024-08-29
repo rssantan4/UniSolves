@@ -1,0 +1,17 @@
+#include <stdio.h>
+#include <locale.h>
+#include <string.h>
+
+int main() {
+  setlocale(LC_ALL, "Portuguese");  
+  int i;
+  char name[10];
+  
+  printf("Digite o seu nome: ");
+  fgets(name, 10, stdin);
+  fflush(stdin);
+
+  for (i = 0; i < 10; i++) {
+    puts(name);
+  }
+}

@@ -1,0 +1,26 @@
+#include <stdio.h>
+
+int main(){
+
+int i, v[20], cont, cont1, cont2;
+
+for (i = 0; i < 20; i++) {
+    printf("Insira o %dº valor: ", i+1);
+    scanf("%d", &v[i]);
+    fflush(stdin);
+}
+for (i = 0; i < 20; i++) {
+    if (v[i] >= 0 && v[i] <= 100) {
+        cont++;
+    }
+    else if (v[i]>=101 && v[i]<=200) {
+        cont1++;
+    }
+    else if (v[i]>200) {
+        cont2++;
+    }
+}
+printf("%d numero(s) no vetor estão entre 0 e 100\n", cont);
+printf("%d numero(s) no vetor estão entre 101 e 200\n", cont1);
+printf("%d numero(s) no vetor são maiores que 200\n", cont2);
+}

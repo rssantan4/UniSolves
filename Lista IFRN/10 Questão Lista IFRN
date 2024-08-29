@@ -1,0 +1,16 @@
+#include <stdio.h>
+
+int main(){
+
+    int v[10], i, num, tab;
+
+printf("Digite Qualquer Número Inteiro e saiba sua Tabuada\n");
+scanf("%d", &num);
+printf("Até qual numero de tabuada? ");
+scanf("%d", &tab);
+
+for (i = 0; i <= tab; i++) {
+printf("%d ", num*i);
+}
+return 0;
+}

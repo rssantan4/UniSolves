@@ -1,0 +1,19 @@
+#include <stdio.h>
+
+int main(){
+
+int num, soma;
+
+while(1){
+    printf("Digite uma sequência de números para somar (caso esse numero for negativo, parará a execução)\n");
+    scanf("%d", &num);
+    if (num < 0) {
+        printf("Encerrando o programa. . .");
+        break;
+    }
+    soma += num;
+    
+    printf("A soma atual está em: %d\n", soma);
+}
+
+}
