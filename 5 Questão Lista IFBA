@@ -1,0 +1,14 @@
+#include <stdio.h>
+
+int main() {
+
+int num, numsuc;
+
+printf("Escreve um número: ");
+scanf("%d", &num);
+
+numsuc = num + 1;
+
+printf("Esse é o sucessor do número digitado: %d", numsuc);
+    
+}

@@ -1,0 +1,15 @@
+#include <stdio.h>
+int main() {
+
+int Lado, Area, Perimetro;
+
+printf("Digite o Lado do Quadrado: ");
+scanf("%d", &Lado);
+
+Area = (Lado*Lado);
+Perimetro = (Lado + Lado + Lado + Lado);
+
+printf("Valor da Area: %d", Area);
+printf("\n Valor do Perimetro: %d", Perimetro);
+
+}

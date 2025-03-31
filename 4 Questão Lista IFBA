@@ -1,0 +1,20 @@
+#include <stdio.h>
+
+int main() {
+
+int Lado1, Lado2, Lado3, Perimetro;
+
+printf("Escreva o Lado 1 do Triangulo: ");
+scanf("%d", &Lado1);
+
+printf("Escreva o Lado 2 do Triangulo: ");
+scanf("%d", &Lado2);
+
+printf("Escreva o Lado 3 do Triangulo: ");
+scanf("%d", &Lado3);
+
+Perimetro = Lado1+Lado2+Lado3;
+
+printf("\n O Perimetro do Triangulo é: %d", Perimetro);
+
+}

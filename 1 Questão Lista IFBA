@@ -1,0 +1,19 @@
+#include <stdio.h>
+
+int main() {
+
+int Altura, Base, Perimetro, Area;
+
+printf("Escreva a Base: ");
+scanf("%d", &Base);
+
+printf("Escreva a Altura: ");
+scanf("%d", &Altura);
+
+Perimetro = (Base*2) + (Altura*2);
+Area =(Base*Altura);
+
+printf("\n O Valor da Area �: %d" , Area);
+printf("\n O Valor do Perimetro �: %d", Perimetro);
+
+}
