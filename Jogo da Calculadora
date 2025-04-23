@@ -23,6 +23,7 @@ void regras(){
     getchar();
     getchar();
 }
+/*Gera uma matriz aleatória com valores de 1 a 9*/
 void gerar_matriz(int matriz[linhas][colunas]){
     int i, j;
     srand(time(NULL));
@@ -32,6 +33,7 @@ void gerar_matriz(int matriz[linhas][colunas]){
         }
     }
 }
+/*Imprime a matriz e a matriz de validação (1 = disponível, 0 = indisponível)*/
 void imprimir_matriz(int matriz[linhas][colunas], int validar[linhas][colunas]){
     int i, j;
     printf("\nMatriz:\n");
@@ -49,6 +51,7 @@ void imprimir_matriz(int matriz[linhas][colunas], int validar[linhas][colunas]){
         printf("\n");
     }
 }
+/*Escolhe o operador e calcula o resultado da operação escolhida*/
 int escolher_op(int num1, int num2, char op){
     switch (op){
         case '+':
@@ -64,23 +67,24 @@ int escolher_op(int num1, int num2, char op){
             return 0;
     }
 }
+/*Imprime a quantidade de operações restantes*/
 void mostrar_contop(int contagem[]){
     printf("\nOperações restantes para completar a fase inicial:\n");
-    printf("+ : %d\n", 5 - contagem[0]);
+    printf("+ : %d\n", 5 - contagem[0]);        
     printf("- : %d\n", 5 - contagem[1]);
     printf("* : %d\n", 4 - contagem[2]);
     printf("/ : %d\n", 4 - contagem[3]);
 }
 void jogo(){
-    int matriz[linhas][colunas];
-    int validar[linhas][colunas];
-    int tentativas = 0;
-    int parescorretos = 0;
-    int i, j;
-    char ultop = '\0';
-    int contagemop[4] = {0, 0, 0, 0};
-    const int opmin_soma_subtracao = 5;
-    const int opmin_mult_div = 4;
+    int matriz[linhas][colunas];                    // Matriz principal
+    int validar[linhas][colunas];                   // Matriz de validação
+    int tentativas = 0;                             // Contador de tentativas
+    int parescorretos = 0;                          // Contador de pares corretos, usado para saber quando o jogo acabou
+    int i, j;                                       // Variáveis auxiliares
+    char ultop = '\0';                              // Operador anterior, usado para evitar operações consecutivas
+    int contagemop[4] = {0, 0, 0, 0};               // Contador de operações restantes
+    const int opmin_soma_subtracao = 5;             // Quantidade mínima de operações de soma e subtração
+    const int opmin_mult_div = 4;                   // Quantidade mínima de operações de multiplicação e divisão
 
     gerar_matriz(matriz);
 
@@ -91,23 +95,23 @@ void jogo(){
     }
     
     system("cls");
-    
+    /*Jogo*/
     while (tentativas < 24 && parescorretos < 18) {
         imprimir_matriz(matriz, validar);
-        int l1, c1, l2, c2;
+        int l1, c1, l2, c2;                         // Linha e coluna 1 e 2
         char op;
-        int result;
+        int result;                                 
 
         while (1){
             printf("Escolha o seu primeiro operando (ou -1 para retornar ao menu principal):\n");
             printf("Digite a sua coluna: ");
             scanf("%d", &c1);
-            if(c1 == -1) return;
+            if(c1 == -1) return;                   // Se o usuário digitar -1, retorna ao menu principal
             printf("Digite a sua linha: ");
             scanf("%d", &l1);
             if(l1 == -1) return;
 
-            if (l1 >= 0 && l1 < linhas && c1 >= 0 && c1 < colunas && validar[l1][c1]) {
+            if (l1 >= 0 && l1 < linhas && c1 >= 0 && c1 < colunas && validar[l1][c1]) {         // Verifica se a posição estiver disponível
                 break;
             } else {
                 printf("Posição inválida ou já utilizada. Tente novamente.\n");
@@ -130,14 +134,14 @@ void jogo(){
         }
         while (1){
             printf("Escolha a operação (+, -, *, /) (ou 'x' para sair): ");
-            mostrar_contop(contagemop);
-            scanf(" %c", &op);
+            mostrar_contop(contagemop);             // Imprime a quantidade de operações restantes
+            scanf(" %c", &op);                      // Leitura da operação
 
-            if(op == 'x') return;
+            if(op == 'x') return;                   // Se o usuário digitar 'x', retorna ao menu principal
 
             if(op == '+' || op == '-' || op == '*' || op == '/'){
                 if (op != ultop) {
-                    int indice_op = (op == '+') ? 0 : (op == '-') ? 1 : (op == '*') ? 2 : 3;
+                    int indice_op = (op == '+') ? 0 : (op == '-') ? 1 : (op == '*') ? 2 : 3;        
 
                     if ((op == '+' || op == '-') && contagemop[indice_op] >= opmin_soma_subtracao){
                         printf("Você já usou a operação '%c' o número mínimo de vezes. Escolha outra operação.\n", op);
@@ -158,7 +162,7 @@ void jogo(){
 
         int num1 = matriz[l1][c1];
         int num2 = matriz[l2][c2];
-        int resultesperado = escolher_op(num1, num2, op);
+        int resultesperado = escolher_op(num1, num2, op);           // Calcula o resultado esperado
 
         int tentativasdepares = 0;
         int correto = 0;
@@ -185,6 +189,7 @@ void jogo(){
                 }
             }
         }
+        /* Verifica se o jogador errou todas as tentativas e oferece a opção de ganhar mais 3 tentativas ou ver a resposta */
         if (!correto && tentativas < 24) {
             char escolha;
             while (1){
@@ -230,17 +235,19 @@ void jogo(){
                 }
             }
         }
+        /* Verifica se o jogador ultrapassou o limite de tentativas e interrompe o jogo */
         if (tentativas >= 24) {
             break;
         }
     }
+    /* Verifica se o jogador completou o jogo */
     if (parescorretos == 18) {
         printf("Parabéns! Você completou o jogo.\n");
     } else {
         printf("Fim do jogo. Você usou todas as suas tentativas :(\n");
     }
 }
-
+/* Função principal */
 int main(){
     setlocale(LC_ALL, "Portuguese_Brazil");
 
