@@ -1,0 +1,30 @@
+{
+  "coeficientes": {
+    "alpha": 2.0778285248367817e-05,
+    "beta": -3.230658963154372e-05,
+    "gamma": -0.002462053169001882,
+    "delta": 0.00299571468259792
+  },
+  "r2": 0.9338509440533367,
+  "posto": 4,
+  "condicao": 43438.18792106417,
+  "n_min": 256,
+  "n_max": 4096,
+  "todas_homologadas": false,
+  "avisos": [
+    "Ajuste descritivo na malha local; I varia com conteudo e K; nao extrapolar.",
+    "Nao mede diretamente I-Cache ou pipeline; nenhuma causalidade microarquitetural demonstrada.",
+    "Contem combinacoes NAO HOMOLOGADAS; ajuste exploratorio inclui todas as medias, sem ocultar falhas."
+  ],
+  "diagnostico_nk2": {
+    "coeficientes": [
+      9.556140662448453e-06,
+      -3.655856008090841e-05,
+      4.732791999475826e-05,
+      -0.0024620496731500236,
+      0.0029957041125677837
+    ],
+    "posto": 5,
+    "r2": 0.9632743117899638
+  }
+}

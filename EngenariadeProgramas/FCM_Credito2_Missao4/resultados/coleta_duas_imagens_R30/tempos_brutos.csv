@@ -1,0 +1,1801 @@
+imagem_id;imagem_fonte;variante;n;k;repeticao;tempo;ordem;arquivo
+imagem_01;images.jpeg;baseline;256;2;0;0.0036448749960982;0;entrada_16.png
+imagem_01;images.jpeg;unrolling;256;2;0;0.0032831659991643;1;entrada_16.png
+imagem_01;images.jpeg;unrolling;256;2;1;0.0031203749967971;0;entrada_16.png
+imagem_01;images.jpeg;baseline;256;2;1;0.0035913750034524;1;entrada_16.png
+imagem_01;images.jpeg;baseline;256;2;2;0.0036263329966459;0;entrada_16.png
+imagem_01;images.jpeg;unrolling;256;2;2;0.0032644169987179;1;entrada_16.png
+imagem_01;images.jpeg;unrolling;256;2;3;0.0032781249974505;0;entrada_16.png
+imagem_01;images.jpeg;baseline;256;2;3;0.0036015410005347;1;entrada_16.png
+imagem_01;images.jpeg;baseline;256;2;4;0.0036016670055687;0;entrada_16.png
+imagem_01;images.jpeg;unrolling;256;2;4;0.003245332998631;1;entrada_16.png
+imagem_01;images.jpeg;unrolling;256;2;5;0.0032582919957349;0;entrada_16.png
+imagem_01;images.jpeg;baseline;256;2;5;0.003647292003734;1;entrada_16.png
+imagem_01;images.jpeg;baseline;256;2;6;0.0036130000007688;0;entrada_16.png
+imagem_01;images.jpeg;unrolling;256;2;6;0.0032573329954175;1;entrada_16.png
+imagem_01;images.jpeg;unrolling;256;2;7;0.0037390419965959;0;entrada_16.png
+imagem_01;images.jpeg;baseline;256;2;7;0.0099402499981806;1;entrada_16.png
+imagem_01;images.jpeg;baseline;256;2;8;0.0095504579949192;0;entrada_16.png
+imagem_01;images.jpeg;unrolling;256;2;8;0.0051272920027258;1;entrada_16.png
+imagem_01;images.jpeg;unrolling;256;2;9;0.0046713750052731;0;entrada_16.png
+imagem_01;images.jpeg;baseline;256;2;9;0.0036430840045795;1;entrada_16.png
+imagem_01;images.jpeg;baseline;256;2;10;0.0036361659949761;0;entrada_16.png
+imagem_01;images.jpeg;unrolling;256;2;10;0.0032006249966798;1;entrada_16.png
+imagem_01;images.jpeg;unrolling;256;2;11;0.0032761670008767;0;entrada_16.png
+imagem_01;images.jpeg;baseline;256;2;11;0.0036670420013251;1;entrada_16.png
+imagem_01;images.jpeg;baseline;256;2;12;0.0036527500051306;0;entrada_16.png
+imagem_01;images.jpeg;unrolling;256;2;12;0.003346582998347;1;entrada_16.png
+imagem_01;images.jpeg;unrolling;256;2;13;0.0032116250004037;0;entrada_16.png
+imagem_01;images.jpeg;baseline;256;2;13;0.0036368329965625;1;entrada_16.png
+imagem_01;images.jpeg;baseline;256;2;14;0.0036432920023798;0;entrada_16.png
+imagem_01;images.jpeg;unrolling;256;2;14;0.0032802499990793;1;entrada_16.png
+imagem_01;images.jpeg;unrolling;256;2;15;0.0033539579962962;0;entrada_16.png
+imagem_01;images.jpeg;baseline;256;2;15;0.0035737919970415;1;entrada_16.png
+imagem_01;images.jpeg;baseline;256;2;16;0.0036118329953751;0;entrada_16.png
+imagem_01;images.jpeg;unrolling;256;2;16;0.0033346249983878;1;entrada_16.png
+imagem_01;images.jpeg;unrolling;256;2;17;0.003256957999838;0;entrada_16.png
+imagem_01;images.jpeg;baseline;256;2;17;0.0036215410000295;1;entrada_16.png
+imagem_01;images.jpeg;baseline;256;2;18;0.0036191660037729;0;entrada_16.png
+imagem_01;images.jpeg;unrolling;256;2;18;0.0033055829990189;1;entrada_16.png
+imagem_01;images.jpeg;unrolling;256;2;19;0.0033169169983011;0;entrada_16.png
+imagem_01;images.jpeg;baseline;256;2;19;0.0036393750051502;1;entrada_16.png
+imagem_01;images.jpeg;baseline;256;2;20;0.0036490830025286;0;entrada_16.png
+imagem_01;images.jpeg;unrolling;256;2;20;0.003280042001279;1;entrada_16.png
+imagem_01;images.jpeg;unrolling;256;2;21;0.0032877909980015;0;entrada_16.png
+imagem_01;images.jpeg;baseline;256;2;21;0.0036398750016815;1;entrada_16.png
+imagem_01;images.jpeg;baseline;256;2;22;0.0036934169984306;0;entrada_16.png
+imagem_01;images.jpeg;unrolling;256;2;22;0.0031415829944307;1;entrada_16.png
+imagem_01;images.jpeg;unrolling;256;2;23;0.0032514159975107;0;entrada_16.png
+imagem_01;images.jpeg;baseline;256;2;23;0.0036321250008768;1;entrada_16.png
+imagem_01;images.jpeg;baseline;256;2;24;0.0036104579994571;0;entrada_16.png
+imagem_01;images.jpeg;unrolling;256;2;24;0.0032859999992069;1;entrada_16.png
+imagem_01;images.jpeg;unrolling;256;2;25;0.0032843340013641;0;entrada_16.png
+imagem_01;images.jpeg;baseline;256;2;25;0.0036124589969404;1;entrada_16.png
+imagem_01;images.jpeg;baseline;256;2;26;0.0036265419985284;0;entrada_16.png
+imagem_01;images.jpeg;unrolling;256;2;26;0.0032693329994799;1;entrada_16.png
+imagem_01;images.jpeg;unrolling;256;2;27;0.0032565000001341;0;entrada_16.png
+imagem_01;images.jpeg;baseline;256;2;27;0.003570959001081;1;entrada_16.png
+imagem_01;images.jpeg;baseline;256;2;28;0.0036272500001359;0;entrada_16.png
+imagem_01;images.jpeg;unrolling;256;2;28;0.0032908330031204;1;entrada_16.png
+imagem_01;images.jpeg;unrolling;256;2;29;0.003256957999838;0;entrada_16.png
+imagem_01;images.jpeg;baseline;256;2;29;0.0035569999963627;1;entrada_16.png
+imagem_01;images.jpeg;baseline;256;3;0;0.0066505420036264;0;entrada_16.png
+imagem_01;images.jpeg;unrolling;256;3;0;0.0061102909967303;1;entrada_16.png
+imagem_01;images.jpeg;unrolling;256;3;1;0.0060944580036448;0;entrada_16.png
+imagem_01;images.jpeg;baseline;256;3;1;0.0065895000007003;1;entrada_16.png
+imagem_01;images.jpeg;baseline;256;3;2;0.0066237499995622;0;entrada_16.png
+imagem_01;images.jpeg;unrolling;256;3;2;0.0061242499941727;1;entrada_16.png
+imagem_01;images.jpeg;unrolling;256;3;3;0.0061072500029695;0;entrada_16.png
+imagem_01;images.jpeg;baseline;256;3;3;0.0067674579986487;1;entrada_16.png
+imagem_01;images.jpeg;baseline;256;3;4;0.0066660419979598;0;entrada_16.png
+imagem_01;images.jpeg;unrolling;256;3;4;0.0061312920006457;1;entrada_16.png
+imagem_01;images.jpeg;unrolling;256;3;5;0.0061410420021275;0;entrada_16.png
+imagem_01;images.jpeg;baseline;256;3;5;0.0066383329976815;1;entrada_16.png
+imagem_01;images.jpeg;baseline;256;3;6;0.0067303749965503;0;entrada_16.png
+imagem_01;images.jpeg;unrolling;256;3;6;0.0061073749966453;1;entrada_16.png
+imagem_01;images.jpeg;unrolling;256;3;7;0.0062051659988355;0;entrada_16.png
+imagem_01;images.jpeg;baseline;256;3;7;0.0069696669961558;1;entrada_16.png
+imagem_01;images.jpeg;baseline;256;3;8;0.0068561250009224;0;entrada_16.png
+imagem_01;images.jpeg;unrolling;256;3;8;0.0062855829964973;1;entrada_16.png
+imagem_01;images.jpeg;unrolling;256;3;9;0.0062888329994166;0;entrada_16.png
+imagem_01;images.jpeg;baseline;256;3;9;0.006927791997441;1;entrada_16.png
+imagem_01;images.jpeg;baseline;256;3;10;0.0068570000003091;0;entrada_16.png
+imagem_01;images.jpeg;unrolling;256;3;10;0.0062071249994914;1;entrada_16.png
+imagem_01;images.jpeg;unrolling;256;3;11;0.0063326660019811;0;entrada_16.png
+imagem_01;images.jpeg;baseline;256;3;11;0.006893083002069;1;entrada_16.png
+imagem_01;images.jpeg;baseline;256;3;12;0.0069181250000838;0;entrada_16.png
+imagem_01;images.jpeg;unrolling;256;3;12;0.0062170829987735;1;entrada_16.png
+imagem_01;images.jpeg;unrolling;256;3;13;0.006241916998988;0;entrada_16.png
+imagem_01;images.jpeg;baseline;256;3;13;0.0068639579985756;1;entrada_16.png
+imagem_01;images.jpeg;baseline;256;3;14;0.0069025839984533;0;entrada_16.png
+imagem_01;images.jpeg;unrolling;256;3;14;0.0062965420002001;1;entrada_16.png
+imagem_01;images.jpeg;unrolling;256;3;15;0.0063250829989556;0;entrada_16.png
+imagem_01;images.jpeg;baseline;256;3;15;0.006946457993763;1;entrada_16.png
+imagem_01;images.jpeg;baseline;256;3;16;0.0070036249962868;0;entrada_16.png
+imagem_01;images.jpeg;unrolling;256;3;16;0.0064212500001303;1;entrada_16.png
+imagem_01;images.jpeg;unrolling;256;3;17;0.0063129589980235;0;entrada_16.png
+imagem_01;images.jpeg;baseline;256;3;17;0.006892625002365;1;entrada_16.png
+imagem_01;images.jpeg;baseline;256;3;18;0.0068783749957219;0;entrada_16.png
+imagem_01;images.jpeg;unrolling;256;3;18;0.0064101669995579;1;entrada_16.png
+imagem_01;images.jpeg;unrolling;256;3;19;0.0066972080021514;0;entrada_16.png
+imagem_01;images.jpeg;baseline;256;3;19;0.0067645829985849;1;entrada_16.png
+imagem_01;images.jpeg;baseline;256;3;20;0.006820875001722;0;entrada_16.png
+imagem_01;images.jpeg;unrolling;256;3;20;0.0063472080000792;1;entrada_16.png
+imagem_01;images.jpeg;unrolling;256;3;21;0.0062170829987735;0;entrada_16.png
+imagem_01;images.jpeg;baseline;256;3;21;0.0068642499973066;1;entrada_16.png
+imagem_01;images.jpeg;baseline;256;3;22;0.0068811669989372;0;entrada_16.png
+imagem_01;images.jpeg;unrolling;256;3;22;0.0062685829980182;1;entrada_16.png
+imagem_01;images.jpeg;unrolling;256;3;23;0.0062127920027705;0;entrada_16.png
+imagem_01;images.jpeg;baseline;256;3;23;0.0068018750025657;1;entrada_16.png
+imagem_01;images.jpeg;baseline;256;3;24;0.0073333330001332;0;entrada_16.png
+imagem_01;images.jpeg;unrolling;256;3;24;0.006200166993949;1;entrada_16.png
+imagem_01;images.jpeg;unrolling;256;3;25;0.0061920419975649;0;entrada_16.png
+imagem_01;images.jpeg;baseline;256;3;25;0.0070285830006469;1;entrada_16.png
+imagem_01;images.jpeg;baseline;256;3;26;0.0068459169997368;0;entrada_16.png
+imagem_01;images.jpeg;unrolling;256;3;26;0.0062187500006984;1;entrada_16.png
+imagem_01;images.jpeg;unrolling;256;3;27;0.0061522079995484;0;entrada_16.png
+imagem_01;images.jpeg;baseline;256;3;27;0.0067842499993275;1;entrada_16.png
+imagem_01;images.jpeg;baseline;256;3;28;0.0068045000007259;0;entrada_16.png
+imagem_01;images.jpeg;unrolling;256;3;28;0.0062202499975683;1;entrada_16.png
+imagem_01;images.jpeg;unrolling;256;3;29;0.0062593330003437;0;entrada_16.png
+imagem_01;images.jpeg;baseline;256;3;29;0.0068618330042227;1;entrada_16.png
+imagem_01;images.jpeg;baseline;256;4;0;0.0085462909992202;0;entrada_16.png
+imagem_01;images.jpeg;unrolling;256;4;0;0.0077883339981781;1;entrada_16.png
+imagem_01;images.jpeg;unrolling;256;4;1;0.0077885419959784;0;entrada_16.png
+imagem_01;images.jpeg;baseline;256;4;1;0.0085102079974603;1;entrada_16.png
+imagem_01;images.jpeg;baseline;256;4;2;0.0085171669998089;0;entrada_16.png
+imagem_01;images.jpeg;unrolling;256;4;2;0.0078164579972508;1;entrada_16.png
+imagem_01;images.jpeg;unrolling;256;4;3;0.0077739580010529;0;entrada_16.png
+imagem_01;images.jpeg;baseline;256;4;3;0.0087071669986471;1;entrada_16.png
+imagem_01;images.jpeg;baseline;256;4;4;0.0084852079962729;0;entrada_16.png
+imagem_01;images.jpeg;unrolling;256;4;4;0.0078029159994912;1;entrada_16.png
+imagem_01;images.jpeg;unrolling;256;4;5;0.007796000005328;0;entrada_16.png
+imagem_01;images.jpeg;baseline;256;4;5;0.0085278340047807;1;entrada_16.png
+imagem_01;images.jpeg;baseline;256;4;6;0.0084985829962533;0;entrada_16.png
+imagem_01;images.jpeg;unrolling;256;4;6;0.0077631249951082;1;entrada_16.png
+imagem_01;images.jpeg;unrolling;256;4;7;0.0078331249969778;0;entrada_16.png
+imagem_01;images.jpeg;baseline;256;4;7;0.0085073340014787;1;entrada_16.png
+imagem_01;images.jpeg;baseline;256;4;8;0.0084540419993572;0;entrada_16.png
+imagem_01;images.jpeg;unrolling;256;4;8;0.007798915998137;1;entrada_16.png
+imagem_01;images.jpeg;unrolling;256;4;9;0.0077348339982563;0;entrada_16.png
+imagem_01;images.jpeg;baseline;256;4;9;0.0085727500045322;1;entrada_16.png
+imagem_01;images.jpeg;baseline;256;4;10;0.0085672499990323;0;entrada_16.png
+imagem_01;images.jpeg;unrolling;256;4;10;0.0077700839974568;1;entrada_16.png
+imagem_01;images.jpeg;unrolling;256;4;11;0.0077092079955036;0;entrada_16.png
+imagem_01;images.jpeg;baseline;256;4;11;0.0085056249954504;1;entrada_16.png
+imagem_01;images.jpeg;baseline;256;4;12;0.0085132499953033;0;entrada_16.png
+imagem_01;images.jpeg;unrolling;256;4;12;0.0077958750043762;1;entrada_16.png
+imagem_01;images.jpeg;unrolling;256;4;13;0.0077675840002484;0;entrada_16.png
+imagem_01;images.jpeg;baseline;256;4;13;0.0085681659984402;1;entrada_16.png
+imagem_01;images.jpeg;baseline;256;4;14;0.0085678750037914;0;entrada_16.png
+imagem_01;images.jpeg;unrolling;256;4;14;0.0078417909971904;1;entrada_16.png
+imagem_01;images.jpeg;unrolling;256;4;15;0.0077807909983675;0;entrada_16.png
+imagem_01;images.jpeg;baseline;256;4;15;0.0085373330002767;1;entrada_16.png
+imagem_01;images.jpeg;baseline;256;4;16;0.0084965839996584;0;entrada_16.png
+imagem_01;images.jpeg;unrolling;256;4;16;0.0078420830031973;1;entrada_16.png
+imagem_01;images.jpeg;unrolling;256;4;17;0.0077932080021128;0;entrada_16.png
+imagem_01;images.jpeg;baseline;256;4;17;0.0085043330036569;1;entrada_16.png
+imagem_01;images.jpeg;baseline;256;4;18;0.0085024579966557;0;entrada_16.png
+imagem_01;images.jpeg;unrolling;256;4;18;0.0077818329955334;1;entrada_16.png
+imagem_01;images.jpeg;unrolling;256;4;19;0.0082551669984241;0;entrada_16.png
+imagem_01;images.jpeg;baseline;256;4;19;0.0087203750008484;1;entrada_16.png
+imagem_01;images.jpeg;baseline;256;4;20;0.0087970000022323;0;entrada_16.png
+imagem_01;images.jpeg;unrolling;256;4;20;0.0080073330027516;1;entrada_16.png
+imagem_01;images.jpeg;unrolling;256;4;21;0.0079600829994888;0;entrada_16.png
+imagem_01;images.jpeg;baseline;256;4;21;0.0086202919992501;1;entrada_16.png
+imagem_01;images.jpeg;baseline;256;4;22;0.008571666003263;0;entrada_16.png
+imagem_01;images.jpeg;unrolling;256;4;22;0.0079063750017667;1;entrada_16.png
+imagem_01;images.jpeg;unrolling;256;4;23;0.0078732919937465;0;entrada_16.png
+imagem_01;images.jpeg;baseline;256;4;23;0.0086837079943506;1;entrada_16.png
+imagem_01;images.jpeg;baseline;256;4;24;0.0094691249978495;0;entrada_16.png
+imagem_01;images.jpeg;unrolling;256;4;24;0.0079183330017258;1;entrada_16.png
+imagem_01;images.jpeg;unrolling;256;4;25;0.0078966250002849;0;entrada_16.png
+imagem_01;images.jpeg;baseline;256;4;25;0.0088509159977547;1;entrada_16.png
+imagem_01;images.jpeg;baseline;256;4;26;0.0086540420015808;0;entrada_16.png
+imagem_01;images.jpeg;unrolling;256;4;26;0.0079265419990406;1;entrada_16.png
+imagem_01;images.jpeg;unrolling;256;4;27;0.0079183749985531;0;entrada_16.png
+imagem_01;images.jpeg;baseline;256;4;27;0.0086574160013697;1;entrada_16.png
+imagem_01;images.jpeg;baseline;256;4;28;0.0086993750010151;0;entrada_16.png
+imagem_01;images.jpeg;unrolling;256;4;28;0.0081819170009111;1;entrada_16.png
+imagem_01;images.jpeg;unrolling;256;4;29;0.0089744159995461;0;entrada_16.png
+imagem_01;images.jpeg;baseline;256;4;29;0.0117718330002389;1;entrada_16.png
+imagem_01;images.jpeg;baseline;576;2;0;0.0071439999956055;0;entrada_24.png
+imagem_01;images.jpeg;unrolling;576;2;0;0.0066736659937305;1;entrada_24.png
+imagem_01;images.jpeg;unrolling;576;2;1;0.0064693329986766;0;entrada_24.png
+imagem_01;images.jpeg;baseline;576;2;1;0.0072695419949013;1;entrada_24.png
+imagem_01;images.jpeg;baseline;576;2;2;0.0071902079944266;0;entrada_24.png
+imagem_01;images.jpeg;unrolling;576;2;2;0.0064924999969662;1;entrada_24.png
+imagem_01;images.jpeg;unrolling;576;2;3;0.0065507079998496;0;entrada_24.png
+imagem_01;images.jpeg;baseline;576;2;3;0.0072461670060874;1;entrada_24.png
+imagem_01;images.jpeg;baseline;576;2;4;0.0072798330002115;0;entrada_24.png
+imagem_01;images.jpeg;unrolling;576;2;4;0.0065097500046249;1;entrada_24.png
+imagem_01;images.jpeg;unrolling;576;2;5;0.0064647079998394;0;entrada_24.png
+imagem_01;images.jpeg;baseline;576;2;5;0.0072164579978561;1;entrada_24.png
+imagem_01;images.jpeg;baseline;576;2;6;0.00720341700071;0;entrada_24.png
+imagem_01;images.jpeg;unrolling;576;2;6;0.0064778750020195;1;entrada_24.png
+imagem_01;images.jpeg;unrolling;576;2;7;0.0064422080031363;0;entrada_24.png
+imagem_01;images.jpeg;baseline;576;2;7;0.0072706250066403;1;entrada_24.png
+imagem_01;images.jpeg;baseline;576;2;8;0.0072359590049018;0;entrada_24.png
+imagem_01;images.jpeg;unrolling;576;2;8;0.0065237079979851;1;entrada_24.png
+imagem_01;images.jpeg;unrolling;576;2;9;0.006622957997024;0;entrada_24.png
+imagem_01;images.jpeg;baseline;576;2;9;0.0073623749995022;1;entrada_24.png
+imagem_01;images.jpeg;baseline;576;2;10;0.0073226249951403;0;entrada_24.png
+imagem_01;images.jpeg;unrolling;576;2;10;0.00651724999625;1;entrada_24.png
+imagem_01;images.jpeg;unrolling;576;2;11;0.006487416998425;0;entrada_24.png
+imagem_01;images.jpeg;baseline;576;2;11;0.0072891670060926;1;entrada_24.png
+imagem_01;images.jpeg;baseline;576;2;12;0.0072555420047137;0;entrada_24.png
+imagem_01;images.jpeg;unrolling;576;2;12;0.0065925840026466;1;entrada_24.png
+imagem_01;images.jpeg;unrolling;576;2;13;0.0065001669936464;0;entrada_24.png
+imagem_01;images.jpeg;baseline;576;2;13;0.0074727920000441;1;entrada_24.png
+imagem_01;images.jpeg;baseline;576;2;14;0.007239209000545;0;entrada_24.png
+imagem_01;images.jpeg;unrolling;576;2;14;0.0065248329992755;1;entrada_24.png
+imagem_01;images.jpeg;unrolling;576;2;15;0.006527334000566;0;entrada_24.png
+imagem_01;images.jpeg;baseline;576;2;15;0.0072064159976434;1;entrada_24.png
+imagem_01;images.jpeg;baseline;576;2;16;0.0112298340027336;0;entrada_24.png
+imagem_01;images.jpeg;unrolling;576;2;16;0.0071219590026885;1;entrada_24.png
+imagem_01;images.jpeg;unrolling;576;2;17;0.0070107919964357;0;entrada_24.png
+imagem_01;images.jpeg;baseline;576;2;17;0.0072575410013087;1;entrada_24.png
+imagem_01;images.jpeg;baseline;576;2;18;0.0073627079982543;0;entrada_24.png
+imagem_01;images.jpeg;unrolling;576;2;18;0.006478249997599;1;entrada_24.png
+imagem_01;images.jpeg;unrolling;576;2;19;0.0064484579997952;0;entrada_24.png
+imagem_01;images.jpeg;baseline;576;2;19;0.0072538329986855;1;entrada_24.png
+imagem_01;images.jpeg;baseline;576;2;20;0.0071579169962205;0;entrada_24.png
+imagem_01;images.jpeg;unrolling;576;2;20;0.0065015830041375;1;entrada_24.png
+imagem_01;images.jpeg;unrolling;576;2;21;0.0065162500031874;0;entrada_24.png
+imagem_01;images.jpeg;baseline;576;2;21;0.0076198329988983;1;entrada_24.png
+imagem_01;images.jpeg;baseline;576;2;22;0.0074373749957885;0;entrada_24.png
+imagem_01;images.jpeg;unrolling;576;2;22;0.0066068749947589;1;entrada_24.png
+imagem_01;images.jpeg;unrolling;576;2;23;0.0104149159960797;0;entrada_24.png
+imagem_01;images.jpeg;baseline;576;2;23;0.0073031669962801;1;entrada_24.png
+imagem_01;images.jpeg;baseline;576;2;24;0.0072724580022622;0;entrada_24.png
+imagem_01;images.jpeg;unrolling;576;2;24;0.0065402499967603;1;entrada_24.png
+imagem_01;images.jpeg;unrolling;576;2;25;0.0066189999997732;0;entrada_24.png
+imagem_01;images.jpeg;baseline;576;2;25;0.0072818750049918;1;entrada_24.png
+imagem_01;images.jpeg;baseline;576;2;26;0.0073045829994953;0;entrada_24.png
+imagem_01;images.jpeg;unrolling;576;2;26;0.0065537499976926;1;entrada_24.png
+imagem_01;images.jpeg;unrolling;576;2;27;0.006542166993313;0;entrada_24.png
+imagem_01;images.jpeg;baseline;576;2;27;0.0074410419983905;1;entrada_24.png
+imagem_01;images.jpeg;baseline;576;2;28;0.007225458000903;0;entrada_24.png
+imagem_01;images.jpeg;unrolling;576;2;28;0.0065611249956418;1;entrada_24.png
+imagem_01;images.jpeg;unrolling;576;2;29;0.0065075410020654;0;entrada_24.png
+imagem_01;images.jpeg;baseline;576;2;29;0.0073463750013615;1;entrada_24.png
+imagem_01;images.jpeg;baseline;576;3;0;0.0157123749959282;0;entrada_24.png
+imagem_01;images.jpeg;unrolling;576;3;0;0.0143240830002469;1;entrada_24.png
+imagem_01;images.jpeg;unrolling;576;3;1;0.014361875000759;0;entrada_24.png
+imagem_01;images.jpeg;baseline;576;3;1;0.0165066250046947;1;entrada_24.png
+imagem_01;images.jpeg;baseline;576;3;2;0.0159357909942627;0;entrada_24.png
+imagem_01;images.jpeg;unrolling;576;3;2;0.0144564169968361;1;entrada_24.png
+imagem_01;images.jpeg;unrolling;576;3;3;0.0142910829963511;0;entrada_24.png
+imagem_01;images.jpeg;baseline;576;3;3;0.0152845420016092;1;entrada_24.png
+imagem_01;images.jpeg;baseline;576;3;4;0.0154977920028613;0;entrada_24.png
+imagem_01;images.jpeg;unrolling;576;3;4;0.0140135410038055;1;entrada_24.png
+imagem_01;images.jpeg;unrolling;576;3;5;0.0139605000003939;0;entrada_24.png
+imagem_01;images.jpeg;baseline;576;3;5;0.0154879160036216;1;entrada_24.png
+imagem_01;images.jpeg;baseline;576;3;6;0.0155539580009644;0;entrada_24.png
+imagem_01;images.jpeg;unrolling;576;3;6;0.0141494999988935;1;entrada_24.png
+imagem_01;images.jpeg;unrolling;576;3;7;0.0140045840016682;0;entrada_24.png
+imagem_01;images.jpeg;baseline;576;3;7;0.0154682919965125;1;entrada_24.png
+imagem_01;images.jpeg;baseline;576;3;8;0.0154124999971827;0;entrada_24.png
+imagem_01;images.jpeg;unrolling;576;3;8;0.0139963330002501;1;entrada_24.png
+imagem_01;images.jpeg;unrolling;576;3;9;0.0139436669996939;0;entrada_24.png
+imagem_01;images.jpeg;baseline;576;3;9;0.0155893330011167;1;entrada_24.png
+imagem_01;images.jpeg;baseline;576;3;10;0.0155003750041942;0;entrada_24.png
+imagem_01;images.jpeg;unrolling;576;3;10;0.0138405420002527;1;entrada_24.png
+imagem_01;images.jpeg;unrolling;576;3;11;0.013996625006257;0;entrada_24.png
+imagem_01;images.jpeg;baseline;576;3;11;0.0154708749978453;1;entrada_24.png
+imagem_01;images.jpeg;baseline;576;3;12;0.0155740839982172;0;entrada_24.png
+imagem_01;images.jpeg;unrolling;576;3;12;0.0138448329962557;1;entrada_24.png
+imagem_01;images.jpeg;unrolling;576;3;13;0.0138755419975495;0;entrada_24.png
+imagem_01;images.jpeg;baseline;576;3;13;0.0154370829986874;1;entrada_24.png
+imagem_01;images.jpeg;baseline;576;3;14;0.0153882919985335;0;entrada_24.png
+imagem_01;images.jpeg;unrolling;576;3;14;0.0141085420036688;1;entrada_24.png
+imagem_01;images.jpeg;unrolling;576;3;15;0.0141013329994166;0;entrada_24.png
+imagem_01;images.jpeg;baseline;576;3;15;0.0154477909964043;1;entrada_24.png
+imagem_01;images.jpeg;baseline;576;3;16;0.0153896249976241;0;entrada_24.png
+imagem_01;images.jpeg;unrolling;576;3;16;0.0142222920039785;1;entrada_24.png
+imagem_01;images.jpeg;unrolling;576;3;17;0.0138580840066424;0;entrada_24.png
+imagem_01;images.jpeg;baseline;576;3;17;0.0155143330048304;1;entrada_24.png
+imagem_01;images.jpeg;baseline;576;3;18;0.0153188749973196;0;entrada_24.png
+imagem_01;images.jpeg;unrolling;576;3;18;0.0139383749992703;1;entrada_24.png
+imagem_01;images.jpeg;unrolling;576;3;19;0.0145497920020716;0;entrada_24.png
+imagem_01;images.jpeg;baseline;576;3;19;0.0152866249991348;1;entrada_24.png
+imagem_01;images.jpeg;baseline;576;3;20;0.015343874998507;0;entrada_24.png
+imagem_01;images.jpeg;unrolling;576;3;20;0.0139040409994777;1;entrada_24.png
+imagem_01;images.jpeg;unrolling;576;3;21;0.0139993329939898;0;entrada_24.png
+imagem_01;images.jpeg;baseline;576;3;21;0.0154140410013496;1;entrada_24.png
+imagem_01;images.jpeg;baseline;576;3;22;0.0154172499969718;0;entrada_24.png
+imagem_01;images.jpeg;unrolling;576;3;22;0.0138234999976702;1;entrada_24.png
+imagem_01;images.jpeg;unrolling;576;3;23;0.0139413750002859;0;entrada_24.png
+imagem_01;images.jpeg;baseline;576;3;23;0.0155648330037365;1;entrada_24.png
+imagem_01;images.jpeg;baseline;576;3;24;0.0154620000030263;0;entrada_24.png
+imagem_01;images.jpeg;unrolling;576;3;24;0.0139875839959131;1;entrada_24.png
+imagem_01;images.jpeg;unrolling;576;3;25;0.0140136250047362;0;entrada_24.png
+imagem_01;images.jpeg;baseline;576;3;25;0.0154521660006139;1;entrada_24.png
+imagem_01;images.jpeg;baseline;576;3;26;0.0153426670003682;0;entrada_24.png
+imagem_01;images.jpeg;unrolling;576;3;26;0.0137937920007971;1;entrada_24.png
+imagem_01;images.jpeg;unrolling;576;3;27;0.0148381669932859;0;entrada_24.png
+imagem_01;images.jpeg;baseline;576;3;27;0.0159337920049438;1;entrada_24.png
+imagem_01;images.jpeg;baseline;576;3;28;0.0154012499988311;0;entrada_24.png
+imagem_01;images.jpeg;unrolling;576;3;28;0.0139396250015124;1;entrada_24.png
+imagem_01;images.jpeg;unrolling;576;3;29;0.0138715409993892;0;entrada_24.png
+imagem_01;images.jpeg;baseline;576;3;29;0.0154922090005129;1;entrada_24.png
+imagem_01;images.jpeg;baseline;576;4;0;0.0325711250043241;0;entrada_24.png
+imagem_01;images.jpeg;unrolling;576;4;0;0.0296906250005122;1;entrada_24.png
+imagem_01;images.jpeg;unrolling;576;4;1;0.0295954169996548;0;entrada_24.png
+imagem_01;images.jpeg;baseline;576;4;1;0.0324377080032718;1;entrada_24.png
+imagem_01;images.jpeg;baseline;576;4;2;0.0324663330029579;0;entrada_24.png
+imagem_01;images.jpeg;unrolling;576;4;2;0.0296449590023257;1;entrada_24.png
+imagem_01;images.jpeg;unrolling;576;4;3;0.0296336669998709;0;entrada_24.png
+imagem_01;images.jpeg;baseline;576;4;3;0.0325721249973867;1;entrada_24.png
+imagem_01;images.jpeg;baseline;576;4;4;0.0328149590059183;0;entrada_24.png
+imagem_01;images.jpeg;unrolling;576;4;4;0.0295942499942611;1;entrada_24.png
+imagem_01;images.jpeg;unrolling;576;4;5;0.0297230840005795;0;entrada_24.png
+imagem_01;images.jpeg;baseline;576;4;5;0.0325117089960258;1;entrada_24.png
+imagem_01;images.jpeg;baseline;576;4;6;0.0324932919975253;0;entrada_24.png
+imagem_01;images.jpeg;unrolling;576;4;6;0.0295729580029728;1;entrada_24.png
+imagem_01;images.jpeg;unrolling;576;4;7;0.0294381249987054;0;entrada_24.png
+imagem_01;images.jpeg;baseline;576;4;7;0.0324853329948382;1;entrada_24.png
+imagem_01;images.jpeg;baseline;576;4;8;0.0324714160014991;0;entrada_24.png
+imagem_01;images.jpeg;unrolling;576;4;8;0.0295530410003266;1;entrada_24.png
+imagem_01;images.jpeg;unrolling;576;4;9;0.0296925829970859;0;entrada_24.png
+imagem_01;images.jpeg;baseline;576;4;9;0.0323867500046617;1;entrada_24.png
+imagem_01;images.jpeg;baseline;576;4;10;0.0323559999960707;0;entrada_24.png
+imagem_01;images.jpeg;unrolling;576;4;10;0.0294451669979025;1;entrada_24.png
+imagem_01;images.jpeg;unrolling;576;4;11;0.0296445830026641;0;entrada_24.png
+imagem_01;images.jpeg;baseline;576;4;11;0.0324768749997019;1;entrada_24.png
+imagem_01;images.jpeg;baseline;576;4;12;0.0324649169997428;0;entrada_24.png
+imagem_01;images.jpeg;unrolling;576;4;12;0.0295910839995485;1;entrada_24.png
+imagem_01;images.jpeg;unrolling;576;4;13;0.0294129160029115;0;entrada_24.png
+imagem_01;images.jpeg;baseline;576;4;13;0.0324114999966695;1;entrada_24.png
+imagem_01;images.jpeg;baseline;576;4;14;0.0323383340000873;0;entrada_24.png
+imagem_01;images.jpeg;unrolling;576;4;14;0.0295613330017658;1;entrada_24.png
+imagem_01;images.jpeg;unrolling;576;4;15;0.0295026249950751;0;entrada_24.png
+imagem_01;images.jpeg;baseline;576;4;15;0.0325976669992087;1;entrada_24.png
+imagem_01;images.jpeg;baseline;576;4;16;0.032626166997943;0;entrada_24.png
+imagem_01;images.jpeg;unrolling;576;4;16;0.0296585420001065;1;entrada_24.png
+imagem_01;images.jpeg;unrolling;576;4;17;0.0297675420006271;0;entrada_24.png
+imagem_01;images.jpeg;baseline;576;4;17;0.0325877089999266;1;entrada_24.png
+imagem_01;images.jpeg;baseline;576;4;18;0.0324380000020028;0;entrada_24.png
+imagem_01;images.jpeg;unrolling;576;4;18;0.0296192910027457;1;entrada_24.png
+imagem_01;images.jpeg;unrolling;576;4;19;0.0295406660006847;0;entrada_24.png
+imagem_01;images.jpeg;baseline;576;4;19;0.0325350000057369;1;entrada_24.png
+imagem_01;images.jpeg;baseline;576;4;20;0.0324915839955792;0;entrada_24.png
+imagem_01;images.jpeg;unrolling;576;4;20;0.029827665995981;1;entrada_24.png
+imagem_01;images.jpeg;unrolling;576;4;21;0.0297684589968412;0;entrada_24.png
+imagem_01;images.jpeg;baseline;576;4;21;0.0329378749956958;1;entrada_24.png
+imagem_01;images.jpeg;baseline;576;4;22;0.0336055410007247;0;entrada_24.png
+imagem_01;images.jpeg;unrolling;576;4;22;0.0298032080027041;1;entrada_24.png
+imagem_01;images.jpeg;unrolling;576;4;23;0.0297902079983032;0;entrada_24.png
+imagem_01;images.jpeg;baseline;576;4;23;0.0326709579967428;1;entrada_24.png
+imagem_01;images.jpeg;baseline;576;4;24;0.032626333006192;0;entrada_24.png
+imagem_01;images.jpeg;unrolling;576;4;24;0.0298878750036237;1;entrada_24.png
+imagem_01;images.jpeg;unrolling;576;4;25;0.0297924999977112;0;entrada_24.png
+imagem_01;images.jpeg;baseline;576;4;25;0.0324962500017136;1;entrada_24.png
+imagem_01;images.jpeg;baseline;576;4;26;0.0325587499974062;0;entrada_24.png
+imagem_01;images.jpeg;unrolling;576;4;26;0.0296512500062817;1;entrada_24.png
+imagem_01;images.jpeg;unrolling;576;4;27;0.029818625000189;0;entrada_24.png
+imagem_01;images.jpeg;baseline;576;4;27;0.0326737089999369;1;entrada_24.png
+imagem_01;images.jpeg;baseline;576;4;28;0.0327353750035399;0;entrada_24.png
+imagem_01;images.jpeg;unrolling;576;4;28;0.0296389590002945;1;entrada_24.png
+imagem_01;images.jpeg;unrolling;576;4;29;0.0294793749999371;0;entrada_24.png
+imagem_01;images.jpeg;baseline;576;4;29;0.0326273749960819;1;entrada_24.png
+imagem_01;images.jpeg;baseline;1024;2;0;0.0153167079988634;0;entrada_32.png
+imagem_01;images.jpeg;unrolling;1024;2;0;0.0176429160055704;1;entrada_32.png
+imagem_01;images.jpeg;unrolling;1024;2;1;0.0117176249987096;0;entrada_32.png
+imagem_01;images.jpeg;baseline;1024;2;1;0.0131298330015852;1;entrada_32.png
+imagem_01;images.jpeg;baseline;1024;2;2;0.0193346660016686;0;entrada_32.png
+imagem_01;images.jpeg;unrolling;1024;2;2;0.0117035829971428;1;entrada_32.png
+imagem_01;images.jpeg;unrolling;1024;2;3;0.0118325000003096;0;entrada_32.png
+imagem_01;images.jpeg;baseline;1024;2;3;0.0138525829970603;1;entrada_32.png
+imagem_01;images.jpeg;baseline;1024;2;4;0.0129409579967614;0;entrada_32.png
+imagem_01;images.jpeg;unrolling;1024;2;4;0.0115661669988185;1;entrada_32.png
+imagem_01;images.jpeg;unrolling;1024;2;5;0.0114900830012629;0;entrada_32.png
+imagem_01;images.jpeg;baseline;1024;2;5;0.0126582919983775;1;entrada_32.png
+imagem_01;images.jpeg;baseline;1024;2;6;0.0126549590058857;0;entrada_32.png
+imagem_01;images.jpeg;unrolling;1024;2;6;0.0113659170019673;1;entrada_32.png
+imagem_01;images.jpeg;unrolling;1024;2;7;0.0114072919968748;0;entrada_32.png
+imagem_01;images.jpeg;baseline;1024;2;7;0.0128170839961967;1;entrada_32.png
+imagem_01;images.jpeg;baseline;1024;2;8;0.0127375410011154;0;entrada_32.png
+imagem_01;images.jpeg;unrolling;1024;2;8;0.0113980410023941;1;entrada_32.png
+imagem_01;images.jpeg;unrolling;1024;2;9;0.011347832994943;0;entrada_32.png
+imagem_01;images.jpeg;baseline;1024;2;9;0.0127055420016404;1;entrada_32.png
+imagem_01;images.jpeg;baseline;1024;2;10;0.0126732499993522;0;entrada_32.png
+imagem_01;images.jpeg;unrolling;1024;2;10;0.011408416001359;1;entrada_32.png
+imagem_01;images.jpeg;unrolling;1024;2;11;0.0123087079991819;0;entrada_32.png
+imagem_01;images.jpeg;baseline;1024;2;11;0.0136712500025169;1;entrada_32.png
+imagem_01;images.jpeg;baseline;1024;2;12;0.0131382089966791;0;entrada_32.png
+imagem_01;images.jpeg;unrolling;1024;2;12;0.0113635419984348;1;entrada_32.png
+imagem_01;images.jpeg;unrolling;1024;2;13;0.0114620419990387;0;entrada_32.png
+imagem_01;images.jpeg;baseline;1024;2;13;0.0126743340006214;1;entrada_32.png
+imagem_01;images.jpeg;baseline;1024;2;14;0.0126699579996056;0;entrada_32.png
+imagem_01;images.jpeg;unrolling;1024;2;14;0.0115063749981345;1;entrada_32.png
+imagem_01;images.jpeg;unrolling;1024;2;15;0.0113843750004889;0;entrada_32.png
+imagem_01;images.jpeg;baseline;1024;2;15;0.0127343330022995;1;entrada_32.png
+imagem_01;images.jpeg;baseline;1024;2;16;0.0128398329979972;0;entrada_32.png
+imagem_01;images.jpeg;unrolling;1024;2;16;0.0113965839991578;1;entrada_32.png
+imagem_01;images.jpeg;unrolling;1024;2;17;0.0113367090016254;0;entrada_32.png
+imagem_01;images.jpeg;baseline;1024;2;17;0.0126463339984184;1;entrada_32.png
+imagem_01;images.jpeg;baseline;1024;2;18;0.0126595830006408;0;entrada_32.png
+imagem_01;images.jpeg;unrolling;1024;2;18;0.011338208001689;1;entrada_32.png
+imagem_01;images.jpeg;unrolling;1024;2;19;0.0113328329971409;0;entrada_32.png
+imagem_01;images.jpeg;baseline;1024;2;19;0.0126312920037889;1;entrada_32.png
+imagem_01;images.jpeg;baseline;1024;2;20;0.0126036249930621;0;entrada_32.png
+imagem_01;images.jpeg;unrolling;1024;2;20;0.0112652090028859;1;entrada_32.png
+imagem_01;images.jpeg;unrolling;1024;2;21;0.0113266669941367;0;entrada_32.png
+imagem_01;images.jpeg;baseline;1024;2;21;0.0126338340051006;1;entrada_32.png
+imagem_01;images.jpeg;baseline;1024;2;22;0.0127098750017466;0;entrada_32.png
+imagem_01;images.jpeg;unrolling;1024;2;22;0.0114159999939147;1;entrada_32.png
+imagem_01;images.jpeg;unrolling;1024;2;23;0.0113662500007194;0;entrada_32.png
+imagem_01;images.jpeg;baseline;1024;2;23;0.0127532920014346;1;entrada_32.png
+imagem_01;images.jpeg;baseline;1024;2;24;0.0126285000005736;0;entrada_32.png
+imagem_01;images.jpeg;unrolling;1024;2;24;0.0113526670029386;1;entrada_32.png
+imagem_01;images.jpeg;unrolling;1024;2;25;0.0113176659942837;0;entrada_32.png
+imagem_01;images.jpeg;baseline;1024;2;25;0.0126182080057333;1;entrada_32.png
+imagem_01;images.jpeg;baseline;1024;2;26;0.0127055419943644;0;entrada_32.png
+imagem_01;images.jpeg;unrolling;1024;2;26;0.0113690829966799;1;entrada_32.png
+imagem_01;images.jpeg;unrolling;1024;2;27;0.0113459169951966;0;entrada_32.png
+imagem_01;images.jpeg;baseline;1024;2;27;0.0125910419956198;1;entrada_32.png
+imagem_01;images.jpeg;baseline;1024;2;28;0.0126006249993224;0;entrada_32.png
+imagem_01;images.jpeg;unrolling;1024;2;28;0.0113738749932963;1;entrada_32.png
+imagem_01;images.jpeg;unrolling;1024;2;29;0.0112961659979191;0;entrada_32.png
+imagem_01;images.jpeg;baseline;1024;2;29;0.0126246250001713;1;entrada_32.png
+imagem_01;images.jpeg;baseline;1024;3;0;0.0222100000028149;0;entrada_32.png
+imagem_01;images.jpeg;unrolling;1024;3;0;0.0199953750052372;1;entrada_32.png
+imagem_01;images.jpeg;unrolling;1024;3;1;0.0200592080000205;0;entrada_32.png
+imagem_01;images.jpeg;baseline;1024;3;1;0.0221076249945326;1;entrada_32.png
+imagem_01;images.jpeg;baseline;1024;3;2;0.0219772499985992;0;entrada_32.png
+imagem_01;images.jpeg;unrolling;1024;3;2;0.0198360409995075;1;entrada_32.png
+imagem_01;images.jpeg;unrolling;1024;3;3;0.0198868750012479;0;entrada_32.png
+imagem_01;images.jpeg;baseline;1024;3;3;0.0219635829998878;1;entrada_32.png
+imagem_01;images.jpeg;baseline;1024;3;4;0.0221572079972247;0;entrada_32.png
+imagem_01;images.jpeg;unrolling;1024;3;4;0.0199266249983338;1;entrada_32.png
+imagem_01;images.jpeg;unrolling;1024;3;5;0.0200807919973158;0;entrada_32.png
+imagem_01;images.jpeg;baseline;1024;3;5;0.0221900830001686;1;entrada_32.png
+imagem_01;images.jpeg;baseline;1024;3;6;0.0223611659966991;0;entrada_32.png
+imagem_01;images.jpeg;unrolling;1024;3;6;0.0202391250059008;1;entrada_32.png
+imagem_01;images.jpeg;unrolling;1024;3;7;0.0199658340061432;0;entrada_32.png
+imagem_01;images.jpeg;baseline;1024;3;7;0.0222355000005336;1;entrada_32.png
+imagem_01;images.jpeg;baseline;1024;3;8;0.0221761249995324;0;entrada_32.png
+imagem_01;images.jpeg;unrolling;1024;3;8;0.0200577920040814;1;entrada_32.png
+imagem_01;images.jpeg;unrolling;1024;3;9;0.0201251660037087;0;entrada_32.png
+imagem_01;images.jpeg;baseline;1024;3;9;0.0221021249963087;1;entrada_32.png
+imagem_01;images.jpeg;baseline;1024;3;10;0.0220468330007861;0;entrada_32.png
+imagem_01;images.jpeg;unrolling;1024;3;10;0.0200025829981314;1;entrada_32.png
+imagem_01;images.jpeg;unrolling;1024;3;11;0.0200251249989378;0;entrada_32.png
+imagem_01;images.jpeg;baseline;1024;3;11;0.0222490420055692;1;entrada_32.png
+imagem_01;images.jpeg;baseline;1024;3;12;0.0222288750010193;0;entrada_32.png
+imagem_01;images.jpeg;unrolling;1024;3;12;0.0199930000017047;1;entrada_32.png
+imagem_01;images.jpeg;unrolling;1024;3;13;0.0199894589968607;0;entrada_32.png
+imagem_01;images.jpeg;baseline;1024;3;13;0.0221669169986853;1;entrada_32.png
+imagem_01;images.jpeg;baseline;1024;3;14;0.0219839170022169;0;entrada_32.png
+imagem_01;images.jpeg;unrolling;1024;3;14;0.020026999998663;1;entrada_32.png
+imagem_01;images.jpeg;unrolling;1024;3;15;0.0201087090026703;0;entrada_32.png
+imagem_01;images.jpeg;baseline;1024;3;15;0.0221149999997578;1;entrada_32.png
+imagem_01;images.jpeg;baseline;1024;3;16;0.0225216670005465;0;entrada_32.png
+imagem_01;images.jpeg;unrolling;1024;3;16;0.0201113750008516;1;entrada_32.png
+imagem_01;images.jpeg;unrolling;1024;3;17;0.0200906669997493;0;entrada_32.png
+imagem_01;images.jpeg;baseline;1024;3;17;0.0220635829973616;1;entrada_32.png
+imagem_01;images.jpeg;baseline;1024;3;18;0.0222977910016197;0;entrada_32.png
+imagem_01;images.jpeg;unrolling;1024;3;18;0.020220792001055;1;entrada_32.png
+imagem_01;images.jpeg;unrolling;1024;3;19;0.0200731660006567;0;entrada_32.png
+imagem_01;images.jpeg;baseline;1024;3;19;0.0220262919974629;1;entrada_32.png
+imagem_01;images.jpeg;baseline;1024;3;20;0.0224971670031663;0;entrada_32.png
+imagem_01;images.jpeg;unrolling;1024;3;20;0.0200167080038227;1;entrada_32.png
+imagem_01;images.jpeg;unrolling;1024;3;21;0.0199854170059552;0;entrada_32.png
+imagem_01;images.jpeg;baseline;1024;3;21;0.0219435420003719;1;entrada_32.png
+imagem_01;images.jpeg;baseline;1024;3;22;0.0220153339978423;0;entrada_32.png
+imagem_01;images.jpeg;unrolling;1024;3;22;0.019911041999876;1;entrada_32.png
+imagem_01;images.jpeg;unrolling;1024;3;23;0.0200791249953908;0;entrada_32.png
+imagem_01;images.jpeg;baseline;1024;3;23;0.0220756249982514;1;entrada_32.png
+imagem_01;images.jpeg;baseline;1024;3;24;0.022046500002034;0;entrada_32.png
+imagem_01;images.jpeg;unrolling;1024;3;24;0.0198805420004646;1;entrada_32.png
+imagem_01;images.jpeg;unrolling;1024;3;25;0.0199026670015882;0;entrada_32.png
+imagem_01;images.jpeg;baseline;1024;3;25;0.0220665829983772;1;entrada_32.png
+imagem_01;images.jpeg;baseline;1024;3;26;0.0220189160027075;0;entrada_32.png
+imagem_01;images.jpeg;unrolling;1024;3;26;0.0198524169973097;1;entrada_32.png
+imagem_01;images.jpeg;unrolling;1024;3;27;0.0198944580042734;0;entrada_32.png
+imagem_01;images.jpeg;baseline;1024;3;27;0.0221607499988749;1;entrada_32.png
+imagem_01;images.jpeg;baseline;1024;3;28;0.0222436249969177;0;entrada_32.png
+imagem_01;images.jpeg;unrolling;1024;3;28;0.0198936250017141;1;entrada_32.png
+imagem_01;images.jpeg;unrolling;1024;3;29;0.0199742919940035;0;entrada_32.png
+imagem_01;images.jpeg;baseline;1024;3;29;0.022228540998185;1;entrada_32.png
+imagem_01;images.jpeg;baseline;1024;4;0;0.0633073749995674;0;entrada_32.png
+imagem_01;images.jpeg;unrolling;1024;4;0;0.0575921670024399;1;entrada_32.png
+imagem_01;images.jpeg;unrolling;1024;4;1;0.0578779170027701;0;entrada_32.png
+imagem_01;images.jpeg;baseline;1024;4;1;0.0633812499945634;1;entrada_32.png
+imagem_01;images.jpeg;baseline;1024;4;2;0.0632582499965792;0;entrada_32.png
+imagem_01;images.jpeg;unrolling;1024;4;2;0.0573350409977138;1;entrada_32.png
+imagem_01;images.jpeg;unrolling;1024;4;3;0.0575909580002189;0;entrada_32.png
+imagem_01;images.jpeg;baseline;1024;4;3;0.0631568340031663;1;entrada_32.png
+imagem_01;images.jpeg;baseline;1024;4;4;0.0633959580009104;0;entrada_32.png
+imagem_01;images.jpeg;unrolling;1024;4;4;0.0575810830050613;1;entrada_32.png
+imagem_01;images.jpeg;unrolling;1024;4;5;0.0574485830002231;0;entrada_32.png
+imagem_01;images.jpeg;baseline;1024;4;5;0.0633399590005865;1;entrada_32.png
+imagem_01;images.jpeg;baseline;1024;4;6;0.0631721249956172;0;entrada_32.png
+imagem_01;images.jpeg;unrolling;1024;4;6;0.0575677910019294;1;entrada_32.png
+imagem_01;images.jpeg;unrolling;1024;4;7;0.0575228329980745;0;entrada_32.png
+imagem_01;images.jpeg;baseline;1024;4;7;0.0634635410024202;1;entrada_32.png
+imagem_01;images.jpeg;baseline;1024;4;8;0.0634378749964525;0;entrada_32.png
+imagem_01;images.jpeg;unrolling;1024;4;8;0.0577408749959431;1;entrada_32.png
+imagem_01;images.jpeg;unrolling;1024;4;9;0.0578276250016642;0;entrada_32.png
+imagem_01;images.jpeg;baseline;1024;4;9;0.0633892499972716;1;entrada_32.png
+imagem_01;images.jpeg;baseline;1024;4;10;0.0630879169984837;0;entrada_32.png
+imagem_01;images.jpeg;unrolling;1024;4;10;0.0577699589994153;1;entrada_32.png
+imagem_01;images.jpeg;unrolling;1024;4;11;0.0575617909998982;0;entrada_32.png
+imagem_01;images.jpeg;baseline;1024;4;11;0.0631665830005658;1;entrada_32.png
+imagem_01;images.jpeg;baseline;1024;4;12;0.080315667000832;0;entrada_32.png
+imagem_01;images.jpeg;unrolling;1024;4;12;0.0575213749980321;1;entrada_32.png
+imagem_01;images.jpeg;unrolling;1024;4;13;0.0575485410008695;0;entrada_32.png
+imagem_01;images.jpeg;baseline;1024;4;13;0.064139583002543;1;entrada_32.png
+imagem_01;images.jpeg;baseline;1024;4;14;0.0637965419955435;0;entrada_32.png
+imagem_01;images.jpeg;unrolling;1024;4;14;0.0575382499955594;1;entrada_32.png
+imagem_01;images.jpeg;unrolling;1024;4;15;0.05777483300335;0;entrada_32.png
+imagem_01;images.jpeg;baseline;1024;4;15;0.0634996669978136;1;entrada_32.png
+imagem_01;images.jpeg;baseline;1024;4;16;0.0634530000024824;0;entrada_32.png
+imagem_01;images.jpeg;unrolling;1024;4;16;0.0577411250051227;1;entrada_32.png
+imagem_01;images.jpeg;unrolling;1024;4;17;0.0574939159996574;0;entrada_32.png
+imagem_01;images.jpeg;baseline;1024;4;17;0.063617667001381;1;entrada_32.png
+imagem_01;images.jpeg;baseline;1024;4;18;0.0634577079981681;0;entrada_32.png
+imagem_01;images.jpeg;unrolling;1024;4;18;0.0576213750027818;1;entrada_32.png
+imagem_01;images.jpeg;unrolling;1024;4;19;0.0575462089982465;0;entrada_32.png
+imagem_01;images.jpeg;baseline;1024;4;19;0.0633406669949181;1;entrada_32.png
+imagem_01;images.jpeg;baseline;1024;4;20;0.0631725420025759;0;entrada_32.png
+imagem_01;images.jpeg;unrolling;1024;4;20;0.0574577910010702;1;entrada_32.png
+imagem_01;images.jpeg;unrolling;1024;4;21;0.0576069160015322;0;entrada_32.png
+imagem_01;images.jpeg;baseline;1024;4;21;0.0632068340055411;1;entrada_32.png
+imagem_01;images.jpeg;baseline;1024;4;22;0.0633587080010329;0;entrada_32.png
+imagem_01;images.jpeg;unrolling;1024;4;22;0.0574842919959337;1;entrada_32.png
+imagem_01;images.jpeg;unrolling;1024;4;23;0.0576982499987934;0;entrada_32.png
+imagem_01;images.jpeg;baseline;1024;4;23;0.0631898329957039;1;entrada_32.png
+imagem_01;images.jpeg;baseline;1024;4;24;0.0636538340040715;0;entrada_32.png
+imagem_01;images.jpeg;unrolling;1024;4;24;0.0576985419975244;1;entrada_32.png
+imagem_01;images.jpeg;unrolling;1024;4;25;0.0574836660016444;0;entrada_32.png
+imagem_01;images.jpeg;baseline;1024;4;25;0.0635046660027001;1;entrada_32.png
+imagem_01;images.jpeg;baseline;1024;4;26;0.0641487080065417;0;entrada_32.png
+imagem_01;images.jpeg;unrolling;1024;4;26;0.0581272500057821;1;entrada_32.png
+imagem_01;images.jpeg;unrolling;1024;4;27;0.0582082500040996;0;entrada_32.png
+imagem_01;images.jpeg;baseline;1024;4;27;0.0637896670014015;1;entrada_32.png
+imagem_01;images.jpeg;baseline;1024;4;28;0.0638812920005875;0;entrada_32.png
+imagem_01;images.jpeg;unrolling;1024;4;28;0.057839833003527;1;entrada_32.png
+imagem_01;images.jpeg;unrolling;1024;4;29;0.0576465000049211;0;entrada_32.png
+imagem_01;images.jpeg;baseline;1024;4;29;0.0632296249968931;1;entrada_32.png
+imagem_01;images.jpeg;baseline;2304;2;0;0.0262869159996625;0;entrada_48.png
+imagem_01;images.jpeg;unrolling;2304;2;0;0.0236743750065215;1;entrada_48.png
+imagem_01;images.jpeg;unrolling;2304;2;1;0.0236048329970799;0;entrada_48.png
+imagem_01;images.jpeg;baseline;2304;2;1;0.0262749169996823;1;entrada_48.png
+imagem_01;images.jpeg;baseline;2304;2;2;0.0263910829962696;0;entrada_48.png
+imagem_01;images.jpeg;unrolling;2304;2;2;0.0236837499978719;1;entrada_48.png
+imagem_01;images.jpeg;unrolling;2304;2;3;0.0234580410033231;0;entrada_48.png
+imagem_01;images.jpeg;baseline;2304;2;3;0.0262407500049448;1;entrada_48.png
+imagem_01;images.jpeg;baseline;2304;2;4;0.0262079160020221;0;entrada_48.png
+imagem_01;images.jpeg;unrolling;2304;2;4;0.0236864999969839;1;entrada_48.png
+imagem_01;images.jpeg;unrolling;2304;2;5;0.0238389160003862;0;entrada_48.png
+imagem_01;images.jpeg;baseline;2304;2;5;0.0411319999984698;1;entrada_48.png
+imagem_01;images.jpeg;baseline;2304;2;6;0.026310375003959;0;entrada_48.png
+imagem_01;images.jpeg;unrolling;2304;2;6;0.023674750002101;1;entrada_48.png
+imagem_01;images.jpeg;unrolling;2304;2;7;0.0238050419939099;0;entrada_48.png
+imagem_01;images.jpeg;baseline;2304;2;7;0.0263308749999851;1;entrada_48.png
+imagem_01;images.jpeg;baseline;2304;2;8;0.0263337500000488;0;entrada_48.png
+imagem_01;images.jpeg;unrolling;2304;2;8;0.0238302079960703;1;entrada_48.png
+imagem_01;images.jpeg;unrolling;2304;2;9;0.0236353750005946;0;entrada_48.png
+imagem_01;images.jpeg;baseline;2304;2;9;0.0261832080068415;1;entrada_48.png
+imagem_01;images.jpeg;baseline;2304;2;10;0.0261580829974263;0;entrada_48.png
+imagem_01;images.jpeg;unrolling;2304;2;10;0.0236658330031787;1;entrada_48.png
+imagem_01;images.jpeg;unrolling;2304;2;11;0.0234855410017189;0;entrada_48.png
+imagem_01;images.jpeg;baseline;2304;2;11;0.040797959001793;1;entrada_48.png
+imagem_01;images.jpeg;baseline;2304;2;12;0.0262285830031032;0;entrada_48.png
+imagem_01;images.jpeg;unrolling;2304;2;12;0.0236016670023673;1;entrada_48.png
+imagem_01;images.jpeg;unrolling;2304;2;13;0.0238382089955848;0;entrada_48.png
+imagem_01;images.jpeg;baseline;2304;2;13;0.0263774589984677;1;entrada_48.png
+imagem_01;images.jpeg;baseline;2304;2;14;0.0260611249977955;0;entrada_48.png
+imagem_01;images.jpeg;unrolling;2304;2;14;0.0236536250013159;1;entrada_48.png
+imagem_01;images.jpeg;unrolling;2304;2;15;0.0235723330042674;0;entrada_48.png
+imagem_01;images.jpeg;baseline;2304;2;15;0.0262299169990001;1;entrada_48.png
+imagem_01;images.jpeg;baseline;2304;2;16;0.0261379579969798;0;entrada_48.png
+imagem_01;images.jpeg;unrolling;2304;2;16;0.023526666998805;1;entrada_48.png
+imagem_01;images.jpeg;unrolling;2304;2;17;0.0235671669943258;0;entrada_48.png
+imagem_01;images.jpeg;baseline;2304;2;17;0.0404867499964893;1;entrada_48.png
+imagem_01;images.jpeg;baseline;2304;2;18;0.0263115420020767;0;entrada_48.png
+imagem_01;images.jpeg;unrolling;2304;2;18;0.0237916249971021;1;entrada_48.png
+imagem_01;images.jpeg;unrolling;2304;2;19;0.0235908749964437;0;entrada_48.png
+imagem_01;images.jpeg;baseline;2304;2;19;0.0266190830006962;1;entrada_48.png
+imagem_01;images.jpeg;baseline;2304;2;20;0.0261406669960706;0;entrada_48.png
+imagem_01;images.jpeg;unrolling;2304;2;20;0.0238325419995817;1;entrada_48.png
+imagem_01;images.jpeg;unrolling;2304;2;21;0.0238563750026514;0;entrada_48.png
+imagem_01;images.jpeg;baseline;2304;2;21;0.0280540000021574;1;entrada_48.png
+imagem_01;images.jpeg;baseline;2304;2;22;0.0283012919971952;0;entrada_48.png
+imagem_01;images.jpeg;unrolling;2304;2;22;0.0238401250026072;1;entrada_48.png
+imagem_01;images.jpeg;unrolling;2304;2;23;0.0236826250038575;0;entrada_48.png
+imagem_01;images.jpeg;baseline;2304;2;23;0.0414329580016783;1;entrada_48.png
+imagem_01;images.jpeg;baseline;2304;2;24;0.0265172920044278;0;entrada_48.png
+imagem_01;images.jpeg;unrolling;2304;2;24;0.0237125839994405;1;entrada_48.png
+imagem_01;images.jpeg;unrolling;2304;2;25;0.0235764579992974;0;entrada_48.png
+imagem_01;images.jpeg;baseline;2304;2;25;0.026155417006521;1;entrada_48.png
+imagem_01;images.jpeg;baseline;2304;2;26;0.0261107089972938;0;entrada_48.png
+imagem_01;images.jpeg;unrolling;2304;2;26;0.023567541000375;1;entrada_48.png
+imagem_01;images.jpeg;unrolling;2304;2;27;0.0239021249944926;0;entrada_48.png
+imagem_01;images.jpeg;baseline;2304;2;27;0.0264375420010765;1;entrada_48.png
+imagem_01;images.jpeg;baseline;2304;2;28;0.0261794580001151;0;entrada_48.png
+imagem_01;images.jpeg;unrolling;2304;2;28;0.0235992500020074;1;entrada_48.png
+imagem_01;images.jpeg;unrolling;2304;2;29;0.0236357090034289;0;entrada_48.png
+imagem_01;images.jpeg;baseline;2304;2;29;0.0410997500002849;1;entrada_48.png
+imagem_01;images.jpeg;baseline;2304;3;0;0.0581308749970048;0;entrada_48.png
+imagem_01;images.jpeg;unrolling;2304;3;0;0.0527709999951184;1;entrada_48.png
+imagem_01;images.jpeg;unrolling;2304;3;1;0.052399542000785;0;entrada_48.png
+imagem_01;images.jpeg;baseline;2304;3;1;0.0581695830042008;1;entrada_48.png
+imagem_01;images.jpeg;baseline;2304;3;2;0.0580625829970813;0;entrada_48.png
+imagem_01;images.jpeg;unrolling;2304;3;2;0.0538100830017356;1;entrada_48.png
+imagem_01;images.jpeg;unrolling;2304;3;3;0.0672161249967757;0;entrada_48.png
+imagem_01;images.jpeg;baseline;2304;3;3;0.0580552079991321;1;entrada_48.png
+imagem_01;images.jpeg;baseline;2304;3;4;0.0591292500030249;0;entrada_48.png
+imagem_01;images.jpeg;unrolling;2304;3;4;0.0533345830044709;1;entrada_48.png
+imagem_01;images.jpeg;unrolling;2304;3;5;0.0525760419986909;0;entrada_48.png
+imagem_01;images.jpeg;baseline;2304;3;5;0.0582965830035391;1;entrada_48.png
+imagem_01;images.jpeg;baseline;2304;3;6;0.058241792001354;0;entrada_48.png
+imagem_01;images.jpeg;unrolling;2304;3;6;0.0527476669958559;1;entrada_48.png
+imagem_01;images.jpeg;unrolling;2304;3;7;0.0524740409964579;0;entrada_48.png
+imagem_01;images.jpeg;baseline;2304;3;7;0.072208124998724;1;entrada_48.png
+imagem_01;images.jpeg;baseline;2304;3;8;0.0579410420032218;0;entrada_48.png
+imagem_01;images.jpeg;unrolling;2304;3;8;0.0526033339992864;1;entrada_48.png
+imagem_01;images.jpeg;unrolling;2304;3;9;0.0527472910034703;0;entrada_48.png
+imagem_01;images.jpeg;baseline;2304;3;9;0.0585523749978165;1;entrada_48.png
+imagem_01;images.jpeg;baseline;2304;3;10;0.0582802089993492;0;entrada_48.png
+imagem_01;images.jpeg;unrolling;2304;3;10;0.0526662080010282;1;entrada_48.png
+imagem_01;images.jpeg;unrolling;2304;3;11;0.0524762500062934;0;entrada_48.png
+imagem_01;images.jpeg;baseline;2304;3;11;0.0581160840010852;1;entrada_48.png
+imagem_01;images.jpeg;baseline;2304;3;12;0.0728421669991803;0;entrada_48.png
+imagem_01;images.jpeg;unrolling;2304;3;12;0.0525608750031096;1;entrada_48.png
+imagem_01;images.jpeg;unrolling;2304;3;13;0.0525456250034039;0;entrada_48.png
+imagem_01;images.jpeg;baseline;2304;3;13;0.0584726250017411;1;entrada_48.png
+imagem_01;images.jpeg;baseline;2304;3;14;0.0582100840038037;0;entrada_48.png
+imagem_01;images.jpeg;unrolling;2304;3;14;0.0525449170017964;1;entrada_48.png
+imagem_01;images.jpeg;unrolling;2304;3;15;0.0528651249987888;0;entrada_48.png
+imagem_01;images.jpeg;baseline;2304;3;15;0.0585732500039739;1;entrada_48.png
+imagem_01;images.jpeg;baseline;2304;3;16;0.0586727499976404;0;entrada_48.png
+imagem_01;images.jpeg;unrolling;2304;3;16;0.0682990829955088;1;entrada_48.png
+imagem_01;images.jpeg;unrolling;2304;3;17;0.0526772080047521;0;entrada_48.png
+imagem_01;images.jpeg;baseline;2304;3;17;0.0582582920033019;1;entrada_48.png
+imagem_01;images.jpeg;baseline;2304;3;18;0.0582865000033052;0;entrada_48.png
+imagem_01;images.jpeg;unrolling;2304;3;18;0.0526459169996087;1;entrada_48.png
+imagem_01;images.jpeg;unrolling;2304;3;19;0.0526025829967693;0;entrada_48.png
+imagem_01;images.jpeg;baseline;2304;3;19;0.0582884999967063;1;entrada_48.png
+imagem_01;images.jpeg;baseline;2304;3;20;0.0579109169993898;0;entrada_48.png
+imagem_01;images.jpeg;unrolling;2304;3;20;0.0524277910008095;1;entrada_48.png
+imagem_01;images.jpeg;unrolling;2304;3;21;0.0671353750003618;0;entrada_48.png
+imagem_01;images.jpeg;baseline;2304;3;21;0.0581866249995073;1;entrada_48.png
+imagem_01;images.jpeg;baseline;2304;3;22;0.0612392500042915;0;entrada_48.png
+imagem_01;images.jpeg;unrolling;2304;3;22;0.0664069999984349;1;entrada_48.png
+imagem_01;images.jpeg;unrolling;2304;3;23;0.0674110420004581;0;entrada_48.png
+imagem_01;images.jpeg;baseline;2304;3;23;0.0592337500056601;1;entrada_48.png
+imagem_01;images.jpeg;baseline;2304;3;24;0.0581053330024587;0;entrada_48.png
+imagem_01;images.jpeg;unrolling;2304;3;24;0.0524722499976633;1;entrada_48.png
+imagem_01;images.jpeg;unrolling;2304;3;25;0.0524434590042801;0;entrada_48.png
+imagem_01;images.jpeg;baseline;2304;3;25;0.0728347500044037;1;entrada_48.png
+imagem_01;images.jpeg;baseline;2304;3;26;0.0584110830022837;0;entrada_48.png
+imagem_01;images.jpeg;unrolling;2304;3;26;0.0525916659971699;1;entrada_48.png
+imagem_01;images.jpeg;unrolling;2304;3;27;0.0527322909983922;0;entrada_48.png
+imagem_01;images.jpeg;baseline;2304;3;27;0.0584487919986713;1;entrada_48.png
+imagem_01;images.jpeg;baseline;2304;3;28;0.0580994580013793;0;entrada_48.png
+imagem_01;images.jpeg;unrolling;2304;3;28;0.0526364580000517;1;entrada_48.png
+imagem_01;images.jpeg;unrolling;2304;3;29;0.0525884169983328;0;entrada_48.png
+imagem_01;images.jpeg;baseline;2304;3;29;0.072420290998707;1;entrada_48.png
+imagem_01;images.jpeg;baseline;2304;4;0;0.1081325839986675;0;entrada_48.png
+imagem_01;images.jpeg;unrolling;2304;4;0;0.0981835420025163;1;entrada_48.png
+imagem_01;images.jpeg;unrolling;2304;4;1;0.0983270000069751;0;entrada_48.png
+imagem_01;images.jpeg;baseline;2304;4;1;0.1078009170014411;1;entrada_48.png
+imagem_01;images.jpeg;baseline;2304;4;2;0.1224738330056425;0;entrada_48.png
+imagem_01;images.jpeg;unrolling;2304;4;2;0.0977462500013643;1;entrada_48.png
+imagem_01;images.jpeg;unrolling;2304;4;3;0.0980770000023767;0;entrada_48.png
+imagem_01;images.jpeg;baseline;2304;4;3;0.1072302499960642;1;entrada_48.png
+imagem_01;images.jpeg;baseline;2304;4;4;0.1075626669990015;0;entrada_48.png
+imagem_01;images.jpeg;unrolling;2304;4;4;0.0973630420048721;1;entrada_48.png
+imagem_01;images.jpeg;unrolling;2304;4;5;0.0977936669951304;0;entrada_48.png
+imagem_01;images.jpeg;baseline;2304;4;5;0.1215493750059977;1;entrada_48.png
+imagem_01;images.jpeg;baseline;2304;4;6;0.1075156249935389;0;entrada_48.png
+imagem_01;images.jpeg;unrolling;2304;4;6;0.0993867500001215;1;entrada_48.png
+imagem_01;images.jpeg;unrolling;2304;4;7;0.0972097089979797;0;entrada_48.png
+imagem_01;images.jpeg;baseline;2304;4;7;0.1070518340056878;1;entrada_48.png
+imagem_01;images.jpeg;baseline;2304;4;8;0.1076479159964947;0;entrada_48.png
+imagem_01;images.jpeg;unrolling;2304;4;8;0.0977946659986628;1;entrada_48.png
+imagem_01;images.jpeg;unrolling;2304;4;9;0.1130185000001802;0;entrada_48.png
+imagem_01;images.jpeg;baseline;2304;4;9;0.107642457995098;1;entrada_48.png
+imagem_01;images.jpeg;baseline;2304;4;10;0.1086307500008842;0;entrada_48.png
+imagem_01;images.jpeg;unrolling;2304;4;10;0.0983895840035984;1;entrada_48.png
+imagem_01;images.jpeg;unrolling;2304;4;11;0.0980362499976763;0;entrada_48.png
+imagem_01;images.jpeg;baseline;2304;4;11;0.1075550410023424;1;entrada_48.png
+imagem_01;images.jpeg;baseline;2304;4;12;0.1072395830051391;0;entrada_48.png
+imagem_01;images.jpeg;unrolling;2304;4;12;0.1127358749945415;1;entrada_48.png
+imagem_01;images.jpeg;unrolling;2304;4;13;0.0980612080020364;0;entrada_48.png
+imagem_01;images.jpeg;baseline;2304;4;13;0.1073457090024021;1;entrada_48.png
+imagem_01;images.jpeg;baseline;2304;4;14;0.1072664999956032;0;entrada_48.png
+imagem_01;images.jpeg;unrolling;2304;4;14;0.0982569580010022;1;entrada_48.png
+imagem_01;images.jpeg;unrolling;2304;4;15;0.0980266660044435;0;entrada_48.png
+imagem_01;images.jpeg;baseline;2304;4;15;0.1067429169997922;1;entrada_48.png
+imagem_01;images.jpeg;baseline;2304;4;16;0.1216770829996676;0;entrada_48.png
+imagem_01;images.jpeg;unrolling;2304;4;16;0.0974911250013974;1;entrada_48.png
+imagem_01;images.jpeg;unrolling;2304;4;17;0.0973649169973214;0;entrada_48.png
+imagem_01;images.jpeg;baseline;2304;4;17;0.107034749999002;1;entrada_48.png
+imagem_01;images.jpeg;baseline;2304;4;18;0.1077321669945376;0;entrada_48.png
+imagem_01;images.jpeg;unrolling;2304;4;18;0.0978729580019717;1;entrada_48.png
+imagem_01;images.jpeg;unrolling;2304;4;19;0.09794029200566;0;entrada_48.png
+imagem_01;images.jpeg;baseline;2304;4;19;0.1262379589970805;1;entrada_48.png
+imagem_01;images.jpeg;baseline;2304;4;20;0.108202874995186;0;entrada_48.png
+imagem_01;images.jpeg;unrolling;2304;4;20;0.0977652500005206;1;entrada_48.png
+imagem_01;images.jpeg;unrolling;2304;4;21;0.0976349169941386;0;entrada_48.png
+imagem_01;images.jpeg;baseline;2304;4;21;0.1078661249994183;1;entrada_48.png
+imagem_01;images.jpeg;baseline;2304;4;22;0.1071420829975977;0;entrada_48.png
+imagem_01;images.jpeg;unrolling;2304;4;22;0.0974433330047759;1;entrada_48.png
+imagem_01;images.jpeg;unrolling;2304;4;23;0.1119914160008193;0;entrada_48.png
+imagem_01;images.jpeg;baseline;2304;4;23;0.1072004999950877;1;entrada_48.png
+imagem_01;images.jpeg;baseline;2304;4;24;0.1073223749990575;0;entrada_48.png
+imagem_01;images.jpeg;unrolling;2304;4;24;0.097321291003027;1;entrada_48.png
+imagem_01;images.jpeg;unrolling;2304;4;25;0.0973981249990174;0;entrada_48.png
+imagem_01;images.jpeg;baseline;2304;4;25;0.1073615840068669;1;entrada_48.png
+imagem_01;images.jpeg;baseline;2304;4;26;0.1068865000052028;0;entrada_48.png
+imagem_01;images.jpeg;unrolling;2304;4;26;0.1121125419958843;1;entrada_48.png
+imagem_01;images.jpeg;unrolling;2304;4;27;0.0977389170002425;0;entrada_48.png
+imagem_01;images.jpeg;baseline;2304;4;27;0.107231457994203;1;entrada_48.png
+imagem_01;images.jpeg;baseline;2304;4;28;0.1080961659972672;0;entrada_48.png
+imagem_01;images.jpeg;unrolling;2304;4;28;0.0977104170015081;1;entrada_48.png
+imagem_01;images.jpeg;unrolling;2304;4;29;0.0987276250016293;0;entrada_48.png
+imagem_01;images.jpeg;baseline;2304;4;29;0.1080892079990007;1;entrada_48.png
+imagem_01;images.jpeg;baseline;4096;2;0;0.0514064169983612;0;entrada_64.png
+imagem_01;images.jpeg;unrolling;4096;2;0;0.0462827079973067;1;entrada_64.png
+imagem_01;images.jpeg;unrolling;4096;2;1;0.0460115000023506;0;entrada_64.png
+imagem_01;images.jpeg;baseline;4096;2;1;0.0511291669972706;1;entrada_64.png
+imagem_01;images.jpeg;baseline;4096;2;2;0.0668174169986741;0;entrada_64.png
+imagem_01;images.jpeg;unrolling;4096;2;2;0.0464625000022351;1;entrada_64.png
+imagem_01;images.jpeg;unrolling;4096;2;3;0.0463323750009294;0;entrada_64.png
+imagem_01;images.jpeg;baseline;4096;2;3;0.0522399580004275;1;entrada_64.png
+imagem_01;images.jpeg;baseline;4096;2;4;0.0533181249993504;0;entrada_64.png
+imagem_01;images.jpeg;unrolling;4096;2;4;0.0775340839973068;1;entrada_64.png
+imagem_01;images.jpeg;unrolling;4096;2;5;0.0463916250009788;0;entrada_64.png
+imagem_01;images.jpeg;baseline;4096;2;5;0.0513990830004331;1;entrada_64.png
+imagem_01;images.jpeg;baseline;4096;2;6;0.0517288330011069;0;entrada_64.png
+imagem_01;images.jpeg;unrolling;4096;2;6;0.0477720419949037;1;entrada_64.png
+imagem_01;images.jpeg;unrolling;4096;2;7;0.0463555000023916;0;entrada_64.png
+imagem_01;images.jpeg;baseline;4096;2;7;0.0665117499956977;1;entrada_64.png
+imagem_01;images.jpeg;baseline;4096;2;8;0.0512472919945139;0;entrada_64.png
+imagem_01;images.jpeg;unrolling;4096;2;8;0.0464208340054028;1;entrada_64.png
+imagem_01;images.jpeg;unrolling;4096;2;9;0.0466975840026862;0;entrada_64.png
+imagem_01;images.jpeg;baseline;4096;2;9;0.0519617919999291;1;entrada_64.png
+imagem_01;images.jpeg;baseline;4096;2;10;0.0660290829982841;0;entrada_64.png
+imagem_01;images.jpeg;unrolling;4096;2;10;0.0466252499973052;1;entrada_64.png
+imagem_01;images.jpeg;unrolling;4096;2;11;0.0464712910033995;0;entrada_64.png
+imagem_01;images.jpeg;baseline;4096;2;11;0.051687082996068;1;entrada_64.png
+imagem_01;images.jpeg;baseline;4096;2;12;0.0514290409992099;0;entrada_64.png
+imagem_01;images.jpeg;unrolling;4096;2;12;0.0463909159952891;1;entrada_64.png
+imagem_01;images.jpeg;unrolling;4096;2;13;0.0606662909995066;0;entrada_64.png
+imagem_01;images.jpeg;baseline;4096;2;13;0.0510467080021044;1;entrada_64.png
+imagem_01;images.jpeg;baseline;4096;2;14;0.0510758750024251;0;entrada_64.png
+imagem_01;images.jpeg;unrolling;4096;2;14;0.0462118340001325;1;entrada_64.png
+imagem_01;images.jpeg;unrolling;4096;2;15;0.0461547919985605;0;entrada_64.png
+imagem_01;images.jpeg;baseline;4096;2;15;0.0670450830002664;1;entrada_64.png
+imagem_01;images.jpeg;baseline;4096;2;16;0.0514100419968599;0;entrada_64.png
+imagem_01;images.jpeg;unrolling;4096;2;16;0.0465189999958965;1;entrada_64.png
+imagem_01;images.jpeg;unrolling;4096;2;17;0.0463039160022162;0;entrada_64.png
+imagem_01;images.jpeg;baseline;4096;2;17;0.051046957996732;1;entrada_64.png
+imagem_01;images.jpeg;baseline;4096;2;18;0.0514861249976092;0;entrada_64.png
+imagem_01;images.jpeg;unrolling;4096;2;18;0.0606987919964012;1;entrada_64.png
+imagem_01;images.jpeg;unrolling;4096;2;19;0.046220500000345;0;entrada_64.png
+imagem_01;images.jpeg;baseline;4096;2;19;0.0512741659986204;1;entrada_64.png
+imagem_01;images.jpeg;baseline;4096;2;20;0.0513293330004671;0;entrada_64.png
+imagem_01;images.jpeg;unrolling;4096;2;20;0.046221583004808;1;entrada_64.png
+imagem_01;images.jpeg;unrolling;4096;2;21;0.046240083000157;0;entrada_64.png
+imagem_01;images.jpeg;baseline;4096;2;21;0.0663488749996759;1;entrada_64.png
+imagem_01;images.jpeg;baseline;4096;2;22;0.0515869169976213;0;entrada_64.png
+imagem_01;images.jpeg;unrolling;4096;2;22;0.0464149170002201;1;entrada_64.png
+imagem_01;images.jpeg;unrolling;4096;2;23;0.0464228339988039;0;entrada_64.png
+imagem_01;images.jpeg;baseline;4096;2;23;0.0514633329948992;1;entrada_64.png
+imagem_01;images.jpeg;baseline;4096;2;24;0.0668306250008754;0;entrada_64.png
+imagem_01;images.jpeg;unrolling;4096;2;24;0.046359374995518;1;entrada_64.png
+imagem_01;images.jpeg;unrolling;4096;2;25;0.0462857919992529;0;entrada_64.png
+imagem_01;images.jpeg;baseline;4096;2;25;0.0538471250038128;1;entrada_64.png
+imagem_01;images.jpeg;baseline;4096;2;26;0.0535947919997852;0;entrada_64.png
+imagem_01;images.jpeg;unrolling;4096;2;26;0.0487669170033768;1;entrada_64.png
+imagem_01;images.jpeg;unrolling;4096;2;27;0.0656161669976427;0;entrada_64.png
+imagem_01;images.jpeg;baseline;4096;2;27;0.0516486250053276;1;entrada_64.png
+imagem_01;images.jpeg;baseline;4096;2;28;0.0516923339964705;0;entrada_64.png
+imagem_01;images.jpeg;unrolling;4096;2;28;0.0468937500045285;1;entrada_64.png
+imagem_01;images.jpeg;unrolling;4096;2;29;0.0466190419974736;0;entrada_64.png
+imagem_01;images.jpeg;baseline;4096;2;29;0.0671160829951986;1;entrada_64.png
+imagem_01;images.jpeg;baseline;4096;3;0;0.1254954999967594;0;entrada_64.png
+imagem_01;images.jpeg;unrolling;4096;3;0;0.1289761250009178;1;entrada_64.png
+imagem_01;images.jpeg;unrolling;4096;3;1;0.1143851670058211;0;entrada_64.png
+imagem_01;images.jpeg;baseline;4096;3;1;0.1270073339983355;1;entrada_64.png
+imagem_01;images.jpeg;baseline;4096;3;2;0.1263487080068444;0;entrada_64.png
+imagem_01;images.jpeg;unrolling;4096;3;2;0.1302025420009158;1;entrada_64.png
+imagem_01;images.jpeg;unrolling;4096;3;3;0.1133127499997499;0;entrada_64.png
+imagem_01;images.jpeg;baseline;4096;3;3;0.1256611249991692;1;entrada_64.png
+imagem_01;images.jpeg;baseline;4096;3;4;0.1411143750010524;0;entrada_64.png
+imagem_01;images.jpeg;unrolling;4096;3;4;0.1150018749976879;1;entrada_64.png
+imagem_01;images.jpeg;unrolling;4096;3;5;0.1138851249997969;0;entrada_64.png
+imagem_01;images.jpeg;baseline;4096;3;5;0.1257281250000232;1;entrada_64.png
+imagem_01;images.jpeg;baseline;4096;3;6;0.1400244999967981;0;entrada_64.png
+imagem_01;images.jpeg;unrolling;4096;3;6;0.1136177500011399;1;entrada_64.png
+imagem_01;images.jpeg;unrolling;4096;3;7;0.1131277090025832;0;entrada_64.png
+imagem_01;images.jpeg;baseline;4096;3;7;0.1256213750020833;1;entrada_64.png
+imagem_01;images.jpeg;baseline;4096;3;8;0.1411251659956178;0;entrada_64.png
+imagem_01;images.jpeg;unrolling;4096;3;8;0.1145169580049696;1;entrada_64.png
+imagem_01;images.jpeg;unrolling;4096;3;9;0.1142031249983119;0;entrada_64.png
+imagem_01;images.jpeg;baseline;4096;3;9;0.1406365000002551;1;entrada_64.png
+imagem_01;images.jpeg;baseline;4096;3;10;0.1265060829973663;0;entrada_64.png
+imagem_01;images.jpeg;unrolling;4096;3;10;0.1139689589981571;1;entrada_64.png
+imagem_01;images.jpeg;unrolling;4096;3;11;0.1134892919944832;0;entrada_64.png
+imagem_01;images.jpeg;baseline;4096;3;11;0.1407832920012879;1;entrada_64.png
+imagem_01;images.jpeg;baseline;4096;3;12;0.1252599170038593;0;entrada_64.png
+imagem_01;images.jpeg;unrolling;4096;3;12;0.1141565829966566;1;entrada_64.png
+imagem_01;images.jpeg;unrolling;4096;3;13;0.1136084169993409;0;entrada_64.png
+imagem_01;images.jpeg;baseline;4096;3;13;0.1408030410020728;1;entrada_64.png
+imagem_01;images.jpeg;baseline;4096;3;14;0.1285544170023058;0;entrada_64.png
+imagem_01;images.jpeg;unrolling;4096;3;14;0.1140237919971696;1;entrada_64.png
+imagem_01;images.jpeg;unrolling;4096;3;15;0.113173874997301;0;entrada_64.png
+imagem_01;images.jpeg;baseline;4096;3;15;0.141119541003718;1;entrada_64.png
+imagem_01;images.jpeg;baseline;4096;3;16;0.1258539159971405;0;entrada_64.png
+imagem_01;images.jpeg;unrolling;4096;3;16;0.1140123750010388;1;entrada_64.png
+imagem_01;images.jpeg;unrolling;4096;3;17;0.1299517919978825;0;entrada_64.png
+imagem_01;images.jpeg;baseline;4096;3;17;0.1263899590048822;1;entrada_64.png
+imagem_01;images.jpeg;baseline;4096;3;18;0.1261046250001527;0;entrada_64.png
+imagem_01;images.jpeg;unrolling;4096;3;18;0.1145477090030908;1;entrada_64.png
+imagem_01;images.jpeg;unrolling;4096;3;19;0.1289723340014461;0;entrada_64.png
+imagem_01;images.jpeg;baseline;4096;3;19;0.1261159589994349;1;entrada_64.png
+imagem_01;images.jpeg;baseline;4096;3;20;0.1261187080017407;0;entrada_64.png
+imagem_01;images.jpeg;unrolling;4096;3;20;0.1145916250025038;1;entrada_64.png
+imagem_01;images.jpeg;unrolling;4096;3;21;0.129134790993703;0;entrada_64.png
+imagem_01;images.jpeg;baseline;4096;3;21;0.1264730839975527;1;entrada_64.png
+imagem_01;images.jpeg;baseline;4096;3;22;0.1258990830028779;0;entrada_64.png
+imagem_01;images.jpeg;unrolling;4096;3;22;0.1296825409954181;1;entrada_64.png
+imagem_01;images.jpeg;unrolling;4096;3;23;0.1142771250015357;0;entrada_64.png
+imagem_01;images.jpeg;baseline;4096;3;23;0.1264642500027548;1;entrada_64.png
+imagem_01;images.jpeg;baseline;4096;3;24;0.1256854579987703;0;entrada_64.png
+imagem_01;images.jpeg;unrolling;4096;3;24;0.1294717080018017;1;entrada_64.png
+imagem_01;images.jpeg;unrolling;4096;3;25;0.1133642089989734;0;entrada_64.png
+imagem_01;images.jpeg;baseline;4096;3;25;0.1267847499984782;1;entrada_64.png
+imagem_01;images.jpeg;baseline;4096;3;26;0.1260595830026432;0;entrada_64.png
+imagem_01;images.jpeg;unrolling;4096;3;26;0.1291688749988679;1;entrada_64.png
+imagem_01;images.jpeg;unrolling;4096;3;27;0.1133623339992482;0;entrada_64.png
+imagem_01;images.jpeg;baseline;4096;3;27;0.1259641669967095;1;entrada_64.png
+imagem_01;images.jpeg;baseline;4096;3;28;0.140809167001862;0;entrada_64.png
+imagem_01;images.jpeg;unrolling;4096;3;28;0.1140387499981443;1;entrada_64.png
+imagem_01;images.jpeg;unrolling;4096;3;29;0.1137226249993546;0;entrada_64.png
+imagem_01;images.jpeg;baseline;4096;3;29;0.1259297500000684;1;entrada_64.png
+imagem_01;images.jpeg;baseline;4096;4;0;0.2777670839932398;0;entrada_64.png
+imagem_01;images.jpeg;unrolling;4096;4;0;0.2415034169971477;1;entrada_64.png
+imagem_01;images.jpeg;unrolling;4096;4;1;0.2411617919933633;0;entrada_64.png
+imagem_01;images.jpeg;baseline;4096;4;1;0.2798371660028351;1;entrada_64.png
+imagem_01;images.jpeg;baseline;4096;4;2;0.2637372910030535;0;entrada_64.png
+imagem_01;images.jpeg;unrolling;4096;4;2;0.2587511249948875;1;entrada_64.png
+imagem_01;images.jpeg;unrolling;4096;4;3;0.2760204579972196;0;entrada_64.png
+imagem_01;images.jpeg;baseline;4096;4;3;0.2643427920047543;1;entrada_64.png
+imagem_01;images.jpeg;baseline;4096;4;4;0.2802080840046983;0;entrada_64.png
+imagem_01;images.jpeg;unrolling;4096;4;4;0.2407675829963409;1;entrada_64.png
+imagem_01;images.jpeg;unrolling;4096;4;5;0.2406658340041758;0;entrada_64.png
+imagem_01;images.jpeg;baseline;4096;4;5;0.279951708005683;1;entrada_64.png
+imagem_01;images.jpeg;baseline;4096;4;6;0.2644487910001771;0;entrada_64.png
+imagem_01;images.jpeg;unrolling;4096;4;6;0.2565465840016259;1;entrada_64.png
+imagem_01;images.jpeg;unrolling;4096;4;7;0.2405795830054558;0;entrada_64.png
+imagem_01;images.jpeg;baseline;4096;4;7;0.2639656669998658;1;entrada_64.png
+imagem_01;images.jpeg;baseline;4096;4;8;0.2803647090040613;0;entrada_64.png
+imagem_01;images.jpeg;unrolling;4096;4;8;0.2416157909974572;1;entrada_64.png
+imagem_01;images.jpeg;unrolling;4096;4;9;0.2584269579965621;0;entrada_64.png
+imagem_01;images.jpeg;baseline;4096;4;9;0.2656445000029634;1;entrada_64.png
+imagem_01;images.jpeg;baseline;4096;4;10;0.2644309579991386;0;entrada_64.png
+imagem_01;images.jpeg;unrolling;4096;4;10;0.2605967499985127;1;entrada_64.png
+imagem_01;images.jpeg;unrolling;4096;4;11;0.2406429999973625;0;entrada_64.png
+imagem_01;images.jpeg;baseline;4096;4;11;0.2799404590041376;1;entrada_64.png
+imagem_01;images.jpeg;baseline;4096;4;12;0.2641995829981169;0;entrada_64.png
+imagem_01;images.jpeg;unrolling;4096;4;12;0.2410510420013452;1;entrada_64.png
+imagem_01;images.jpeg;unrolling;4096;4;13;0.2552929160010535;0;entrada_64.png
+imagem_01;images.jpeg;baseline;4096;4;13;0.2656947080031386;1;entrada_64.png
+imagem_01;images.jpeg;baseline;4096;4;14;0.2640658340023947;0;entrada_64.png
+imagem_01;images.jpeg;unrolling;4096;4;14;0.2563106250017881;1;entrada_64.png
+imagem_01;images.jpeg;unrolling;4096;4;15;0.2408747500012396;0;entrada_64.png
+imagem_01;images.jpeg;baseline;4096;4;15;0.2806054999964544;1;entrada_64.png
+imagem_01;images.jpeg;baseline;4096;4;16;0.2650771250046091;0;entrada_64.png
+imagem_01;images.jpeg;unrolling;4096;4;16;0.2413575830069021;1;entrada_64.png
+imagem_01;images.jpeg;unrolling;4096;4;17;0.2562308750057127;0;entrada_64.png
+imagem_01;images.jpeg;baseline;4096;4;17;0.2657404170022346;1;entrada_64.png
+imagem_01;images.jpeg;baseline;4096;4;18;0.2793778330014902;0;entrada_64.png
+imagem_01;images.jpeg;unrolling;4096;4;18;0.2409907920009573;1;entrada_64.png
+imagem_01;images.jpeg;unrolling;4096;4;19;0.2403196669984026;0;entrada_64.png
+imagem_01;images.jpeg;baseline;4096;4;19;0.2798921659996267;1;entrada_64.png
+imagem_01;images.jpeg;baseline;4096;4;20;0.2644834579987218;0;entrada_64.png
+imagem_01;images.jpeg;unrolling;4096;4;20;0.2555530829995405;1;entrada_64.png
+imagem_01;images.jpeg;unrolling;4096;4;21;0.239949417002208;0;entrada_64.png
+imagem_01;images.jpeg;baseline;4096;4;21;0.2654139999940526;1;entrada_64.png
+imagem_01;images.jpeg;baseline;4096;4;22;0.3085810410047997;0;entrada_64.png
+imagem_01;images.jpeg;unrolling;4096;4;22;0.2543631250009639;1;entrada_64.png
+imagem_01;images.jpeg;unrolling;4096;4;23;0.2406555420020595;0;entrada_64.png
+imagem_01;images.jpeg;baseline;4096;4;23;0.2804387500000302;1;entrada_64.png
+imagem_01;images.jpeg;baseline;4096;4;24;0.2651285839965567;0;entrada_64.png
+imagem_01;images.jpeg;unrolling;4096;4;24;0.2617892499984009;1;entrada_64.png
+imagem_01;images.jpeg;unrolling;4096;4;25;0.2614361250016372;0;entrada_64.png
+imagem_01;images.jpeg;baseline;4096;4;25;0.2660340000002179;1;entrada_64.png
+imagem_01;images.jpeg;baseline;4096;4;26;0.278744707997248;0;entrada_64.png
+imagem_01;images.jpeg;unrolling;4096;4;26;0.2420342499972321;1;entrada_64.png
+imagem_01;images.jpeg;unrolling;4096;4;27;0.2559327080016373;0;entrada_64.png
+imagem_01;images.jpeg;baseline;4096;4;27;0.26586391699675;1;entrada_64.png
+imagem_01;images.jpeg;baseline;4096;4;28;0.2643552079971414;0;entrada_64.png
+imagem_01;images.jpeg;unrolling;4096;4;28;0.2565156670025317;1;entrada_64.png
+imagem_01;images.jpeg;unrolling;4096;4;29;0.2404094999947119;0;entrada_64.png
+imagem_01;images.jpeg;baseline;4096;4;29;0.2811302499976591;1;entrada_64.png
+imagem_02;images (1).jpeg;baseline;256;2;0;0.0023747090017423;0;entrada_16.png
+imagem_02;images (1).jpeg;unrolling;256;2;0;0.0021465829995577;1;entrada_16.png
+imagem_02;images (1).jpeg;unrolling;256;2;1;0.0021689160057576;0;entrada_16.png
+imagem_02;images (1).jpeg;baseline;256;2;1;0.0023591659992234;1;entrada_16.png
+imagem_02;images (1).jpeg;baseline;256;2;2;0.0023488750011892;0;entrada_16.png
+imagem_02;images (1).jpeg;unrolling;256;2;2;0.0021037089973106;1;entrada_16.png
+imagem_02;images (1).jpeg;unrolling;256;2;3;0.0021174580033402;0;entrada_16.png
+imagem_02;images (1).jpeg;baseline;256;2;3;0.0024071249936241;1;entrada_16.png
+imagem_02;images (1).jpeg;baseline;256;2;4;0.0023556250016554;0;entrada_16.png
+imagem_02;images (1).jpeg;unrolling;256;2;4;0.0021042080043116;1;entrada_16.png
+imagem_02;images (1).jpeg;unrolling;256;2;5;0.0021099160003359;0;entrada_16.png
+imagem_02;images (1).jpeg;baseline;256;2;5;0.0023604579982929;1;entrada_16.png
+imagem_02;images (1).jpeg;baseline;256;2;6;0.0023534580031991;0;entrada_16.png
+imagem_02;images (1).jpeg;unrolling;256;2;6;0.0020987079988117;1;entrada_16.png
+imagem_02;images (1).jpeg;unrolling;256;2;7;0.0021077079945825;0;entrada_16.png
+imagem_02;images (1).jpeg;baseline;256;2;7;0.0024233749936684;1;entrada_16.png
+imagem_02;images (1).jpeg;baseline;256;2;8;0.0023462499957531;0;entrada_16.png
+imagem_02;images (1).jpeg;unrolling;256;2;8;0.0020949579993612;1;entrada_16.png
+imagem_02;images (1).jpeg;unrolling;256;2;9;0.0021086249980726;0;entrada_16.png
+imagem_02;images (1).jpeg;baseline;256;2;9;0.0023616670005139;1;entrada_16.png
+imagem_02;images (1).jpeg;baseline;256;2;10;0.0023636250043637;0;entrada_16.png
+imagem_02;images (1).jpeg;unrolling;256;2;10;0.0021445839956868;1;entrada_16.png
+imagem_02;images (1).jpeg;unrolling;256;2;11;0.0022664170028292;0;entrada_16.png
+imagem_02;images (1).jpeg;baseline;256;2;11;0.0023947500012582;1;entrada_16.png
+imagem_02;images (1).jpeg;baseline;256;2;12;0.0023969999965629;0;entrada_16.png
+imagem_02;images (1).jpeg;unrolling;256;2;12;0.0021346669964259;1;entrada_16.png
+imagem_02;images (1).jpeg;unrolling;256;2;13;0.0021710829969379;0;entrada_16.png
+imagem_02;images (1).jpeg;baseline;256;2;13;0.0024130000019795;1;entrada_16.png
+imagem_02;images (1).jpeg;baseline;256;2;14;0.0024223340005846;0;entrada_16.png
+imagem_02;images (1).jpeg;unrolling;256;2;14;0.0021440420023282;1;entrada_16.png
+imagem_02;images (1).jpeg;unrolling;256;2;15;0.0021344999986467;0;entrada_16.png
+imagem_02;images (1).jpeg;baseline;256;2;15;0.0024099170041154;1;entrada_16.png
+imagem_02;images (1).jpeg;baseline;256;2;16;0.002409541993984;0;entrada_16.png
+imagem_02;images (1).jpeg;unrolling;256;2;16;0.0021439999982248;1;entrada_16.png
+imagem_02;images (1).jpeg;unrolling;256;2;17;0.0021394590003183;0;entrada_16.png
+imagem_02;images (1).jpeg;baseline;256;2;17;0.0024025000020628;1;entrada_16.png
+imagem_02;images (1).jpeg;baseline;256;2;18;0.0024336250062333;0;entrada_16.png
+imagem_02;images (1).jpeg;unrolling;256;2;18;0.0021189589970163;1;entrada_16.png
+imagem_02;images (1).jpeg;unrolling;256;2;19;0.0021156250004423;0;entrada_16.png
+imagem_02;images (1).jpeg;baseline;256;2;19;0.002361666993238;1;entrada_16.png
+imagem_02;images (1).jpeg;baseline;256;2;20;0.0023756250011501;0;entrada_16.png
+imagem_02;images (1).jpeg;unrolling;256;2;20;0.0021227500037639;1;entrada_16.png
+imagem_02;images (1).jpeg;unrolling;256;2;21;0.0021287079944158;0;entrada_16.png
+imagem_02;images (1).jpeg;baseline;256;2;21;0.0023708750013611;1;entrada_16.png
+imagem_02;images (1).jpeg;baseline;256;2;22;0.002389083005255;0;entrada_16.png
+imagem_02;images (1).jpeg;unrolling;256;2;22;0.0021150839966139;1;entrada_16.png
+imagem_02;images (1).jpeg;unrolling;256;2;23;0.002110667002853;0;entrada_16.png
+imagem_02;images (1).jpeg;baseline;256;2;23;0.0023681669990764;1;entrada_16.png
+imagem_02;images (1).jpeg;baseline;256;2;24;0.0023704999985056;0;entrada_16.png
+imagem_02;images (1).jpeg;unrolling;256;2;24;0.0021006669994676;1;entrada_16.png
+imagem_02;images (1).jpeg;unrolling;256;2;25;0.0021112909962539;0;entrada_16.png
+imagem_02;images (1).jpeg;baseline;256;2;25;0.0023970830006874;1;entrada_16.png
+imagem_02;images (1).jpeg;baseline;256;2;26;0.00237804200151;0;entrada_16.png
+imagem_02;images (1).jpeg;unrolling;256;2;26;0.0021238750050542;1;entrada_16.png
+imagem_02;images (1).jpeg;unrolling;256;2;27;0.0021190000043134;0;entrada_16.png
+imagem_02;images (1).jpeg;baseline;256;2;27;0.0023847080010455;1;entrada_16.png
+imagem_02;images (1).jpeg;baseline;256;2;28;0.0023769999970681;0;entrada_16.png
+imagem_02;images (1).jpeg;unrolling;256;2;28;0.0021222909999778;1;entrada_16.png
+imagem_02;images (1).jpeg;unrolling;256;2;29;0.0021237500041024;0;entrada_16.png
+imagem_02;images (1).jpeg;baseline;256;2;29;0.0023728329979348;1;entrada_16.png
+imagem_02;images (1).jpeg;baseline;256;3;0;0.0106712500055436;0;entrada_16.png
+imagem_02;images (1).jpeg;unrolling;256;3;0;0.0073500829967088;1;entrada_16.png
+imagem_02;images (1).jpeg;unrolling;256;3;1;0.0038472080050269;0;entrada_16.png
+imagem_02;images (1).jpeg;baseline;256;3;1;0.004327499998908;1;entrada_16.png
+imagem_02;images (1).jpeg;baseline;256;3;2;0.004304084002797;0;entrada_16.png
+imagem_02;images (1).jpeg;unrolling;256;3;2;0.0038659999991068;1;entrada_16.png
+imagem_02;images (1).jpeg;unrolling;256;3;3;0.0037968750038999;0;entrada_16.png
+imagem_02;images (1).jpeg;baseline;256;3;3;0.0042393750045448;1;entrada_16.png
+imagem_02;images (1).jpeg;baseline;256;3;4;0.0042267090029781;0;entrada_16.png
+imagem_02;images (1).jpeg;unrolling;256;3;4;0.0037994169979356;1;entrada_16.png
+imagem_02;images (1).jpeg;unrolling;256;3;5;0.0038067500063334;0;entrada_16.png
+imagem_02;images (1).jpeg;baseline;256;3;5;0.0042378340003779;1;entrada_16.png
+imagem_02;images (1).jpeg;baseline;256;3;6;0.0042441659970791;0;entrada_16.png
+imagem_02;images (1).jpeg;unrolling;256;3;6;0.0038460420037154;1;entrada_16.png
+imagem_02;images (1).jpeg;unrolling;256;3;7;0.0038044579996494;0;entrada_16.png
+imagem_02;images (1).jpeg;baseline;256;3;7;0.0042315000027883;1;entrada_16.png
+imagem_02;images (1).jpeg;baseline;256;3;8;0.0042612089964677;0;entrada_16.png
+imagem_02;images (1).jpeg;unrolling;256;3;8;0.0038062500025262;1;entrada_16.png
+imagem_02;images (1).jpeg;unrolling;256;3;9;0.0037913330015726;0;entrada_16.png
+imagem_02;images (1).jpeg;baseline;256;3;9;0.0042469580002943;1;entrada_16.png
+imagem_02;images (1).jpeg;baseline;256;3;10;0.0043181250002817;0;entrada_16.png
+imagem_02;images (1).jpeg;unrolling;256;3;10;0.0038777500012656;1;entrada_16.png
+imagem_02;images (1).jpeg;unrolling;256;3;11;0.0038944580010138;0;entrada_16.png
+imagem_02;images (1).jpeg;baseline;256;3;11;0.0043305409999447;1;entrada_16.png
+imagem_02;images (1).jpeg;baseline;256;3;12;0.0043536249941098;0;entrada_16.png
+imagem_02;images (1).jpeg;unrolling;256;3;12;0.0038857919935253;1;entrada_16.png
+imagem_02;images (1).jpeg;unrolling;256;3;13;0.0038112500042188;0;entrada_16.png
+imagem_02;images (1).jpeg;baseline;256;3;13;0.0042364999972051;1;entrada_16.png
+imagem_02;images (1).jpeg;baseline;256;3;14;0.0043223749962635;0;entrada_16.png
+imagem_02;images (1).jpeg;unrolling;256;3;14;0.0039261669953702;1;entrada_16.png
+imagem_02;images (1).jpeg;unrolling;256;3;15;0.0039247500026249;0;entrada_16.png
+imagem_02;images (1).jpeg;baseline;256;3;15;0.0043269169982522;1;entrada_16.png
+imagem_02;images (1).jpeg;baseline;256;3;16;0.004360833998362;0;entrada_16.png
+imagem_02;images (1).jpeg;unrolling;256;3;16;0.0038856249957461;1;entrada_16.png
+imagem_02;images (1).jpeg;unrolling;256;3;17;0.0038902919986867;0;entrada_16.png
+imagem_02;images (1).jpeg;baseline;256;3;17;0.004351540999778;1;entrada_16.png
+imagem_02;images (1).jpeg;baseline;256;3;18;0.0043177080005989;0;entrada_16.png
+imagem_02;images (1).jpeg;unrolling;256;3;18;0.0038609170005656;1;entrada_16.png
+imagem_02;images (1).jpeg;unrolling;256;3;19;0.003899082999851;0;entrada_16.png
+imagem_02;images (1).jpeg;baseline;256;3;19;0.0043310420005582;1;entrada_16.png
+imagem_02;images (1).jpeg;baseline;256;3;20;0.0043810000061057;0;entrada_16.png
+imagem_02;images (1).jpeg;unrolling;256;3;20;0.0038815000007161;1;entrada_16.png
+imagem_02;images (1).jpeg;unrolling;256;3;21;0.0038357920057023;0;entrada_16.png
+imagem_02;images (1).jpeg;baseline;256;3;21;0.0042634580022422;1;entrada_16.png
+imagem_02;images (1).jpeg;baseline;256;3;22;0.0043089579994557;0;entrada_16.png
+imagem_02;images (1).jpeg;unrolling;256;3;22;0.0038601249980274;1;entrada_16.png
+imagem_02;images (1).jpeg;unrolling;256;3;23;0.0038862500005052;0;entrada_16.png
+imagem_02;images (1).jpeg;baseline;256;3;23;0.0043377910042181;1;entrada_16.png
+imagem_02;images (1).jpeg;baseline;256;3;24;0.004321082997194;0;entrada_16.png
+imagem_02;images (1).jpeg;unrolling;256;3;24;0.0038954580013523;1;entrada_16.png
+imagem_02;images (1).jpeg;unrolling;256;3;25;0.003899832998286;0;entrada_16.png
+imagem_02;images (1).jpeg;baseline;256;3;25;0.0042476660019019;1;entrada_16.png
+imagem_02;images (1).jpeg;baseline;256;3;26;0.004247207994922;0;entrada_16.png
+imagem_02;images (1).jpeg;unrolling;256;3;26;0.0038017499973648;1;entrada_16.png
+imagem_02;images (1).jpeg;unrolling;256;3;27;0.0039255840019905;0;entrada_16.png
+imagem_02;images (1).jpeg;baseline;256;3;27;0.0043335829977877;1;entrada_16.png
+imagem_02;images (1).jpeg;baseline;256;3;28;0.0044615420047193;0;entrada_16.png
+imagem_02;images (1).jpeg;unrolling;256;3;28;0.0038608750037383;1;entrada_16.png
+imagem_02;images (1).jpeg;unrolling;256;3;29;0.0038522090035257;0;entrada_16.png
+imagem_02;images (1).jpeg;baseline;256;3;29;0.0042452080015209;1;entrada_16.png
+imagem_02;images (1).jpeg;baseline;256;4;0;0.012769582994224;0;entrada_16.png
+imagem_02;images (1).jpeg;unrolling;256;4;0;0.0115584590021171;1;entrada_16.png
+imagem_02;images (1).jpeg;unrolling;256;4;1;0.0115759580003214;0;entrada_16.png
+imagem_02;images (1).jpeg;baseline;256;4;1;0.0129621669984771;1;entrada_16.png
+imagem_02;images (1).jpeg;baseline;256;4;2;0.0129938750033034;0;entrada_16.png
+imagem_02;images (1).jpeg;unrolling;256;4;2;0.0120149590002256;1;entrada_16.png
+imagem_02;images (1).jpeg;unrolling;256;4;3;0.0117116249966784;0;entrada_16.png
+imagem_02;images (1).jpeg;baseline;256;4;3;0.0128386670039617;1;entrada_16.png
+imagem_02;images (1).jpeg;baseline;256;4;4;0.0129817919951165;0;entrada_16.png
+imagem_02;images (1).jpeg;unrolling;256;4;4;0.0116822499985573;1;entrada_16.png
+imagem_02;images (1).jpeg;unrolling;256;4;5;0.0116761660028714;0;entrada_16.png
+imagem_02;images (1).jpeg;baseline;256;4;5;0.0128331669984618;1;entrada_16.png
+imagem_02;images (1).jpeg;baseline;256;4;6;0.0130079590016976;0;entrada_16.png
+imagem_02;images (1).jpeg;unrolling;256;4;6;0.0116530419982154;1;entrada_16.png
+imagem_02;images (1).jpeg;unrolling;256;4;7;0.0116402499988907;0;entrada_16.png
+imagem_02;images (1).jpeg;baseline;256;4;7;0.0130027499981224;1;entrada_16.png
+imagem_02;images (1).jpeg;baseline;256;4;8;0.0128163750050589;0;entrada_16.png
+imagem_02;images (1).jpeg;unrolling;256;4;8;0.0116585840005427;1;entrada_16.png
+imagem_02;images (1).jpeg;unrolling;256;4;9;0.0116117080033291;0;entrada_16.png
+imagem_02;images (1).jpeg;baseline;256;4;9;0.0127944169944385;1;entrada_16.png
+imagem_02;images (1).jpeg;baseline;256;4;10;0.0128852920024655;0;entrada_16.png
+imagem_02;images (1).jpeg;unrolling;256;4;10;0.0117115840039332;1;entrada_16.png
+imagem_02;images (1).jpeg;unrolling;256;4;11;0.011704374999681;0;entrada_16.png
+imagem_02;images (1).jpeg;baseline;256;4;11;0.0128616670044721;1;entrada_16.png
+imagem_02;images (1).jpeg;baseline;256;4;12;0.0130125420037074;0;entrada_16.png
+imagem_02;images (1).jpeg;unrolling;256;4;12;0.0116659170016646;1;entrada_16.png
+imagem_02;images (1).jpeg;unrolling;256;4;13;0.0115614159949473;0;entrada_16.png
+imagem_02;images (1).jpeg;baseline;256;4;13;0.0130100410024169;1;entrada_16.png
+imagem_02;images (1).jpeg;baseline;256;4;14;0.0129684580024331;0;entrada_16.png
+imagem_02;images (1).jpeg;unrolling;256;4;14;0.0116637500032084;1;entrada_16.png
+imagem_02;images (1).jpeg;unrolling;256;4;15;0.01153274999524;0;entrada_16.png
+imagem_02;images (1).jpeg;baseline;256;4;15;0.0128649580001365;1;entrada_16.png
+imagem_02;images (1).jpeg;baseline;256;4;16;0.0127720419986872;0;entrada_16.png
+imagem_02;images (1).jpeg;unrolling;256;4;16;0.0115223749962751;1;entrada_16.png
+imagem_02;images (1).jpeg;unrolling;256;4;17;0.0115844169995398;0;entrada_16.png
+imagem_02;images (1).jpeg;baseline;256;4;17;0.0127859999993233;1;entrada_16.png
+imagem_02;images (1).jpeg;baseline;256;4;18;0.0128184580025845;0;entrada_16.png
+imagem_02;images (1).jpeg;unrolling;256;4;18;0.0114960830032941;1;entrada_16.png
+imagem_02;images (1).jpeg;unrolling;256;4;19;0.0116412499992293;0;entrada_16.png
+imagem_02;images (1).jpeg;baseline;256;4;19;0.0128732919984031;1;entrada_16.png
+imagem_02;images (1).jpeg;baseline;256;4;20;0.0128844999999273;0;entrada_16.png
+imagem_02;images (1).jpeg;unrolling;256;4;20;0.0115198330022394;1;entrada_16.png
+imagem_02;images (1).jpeg;unrolling;256;4;21;0.0116087499991408;0;entrada_16.png
+imagem_02;images (1).jpeg;baseline;256;4;21;0.0128423329952056;1;entrada_16.png
+imagem_02;images (1).jpeg;baseline;256;4;22;0.0127692089954507;0;entrada_16.png
+imagem_02;images (1).jpeg;unrolling;256;4;22;0.0115594169983523;1;entrada_16.png
+imagem_02;images (1).jpeg;unrolling;256;4;23;0.0115200829968671;0;entrada_16.png
+imagem_02;images (1).jpeg;baseline;256;4;23;0.0128237079989048;1;entrada_16.png
+imagem_02;images (1).jpeg;baseline;256;4;24;0.0128837910015136;0;entrada_16.png
+imagem_02;images (1).jpeg;unrolling;256;4;24;0.0116579590030596;1;entrada_16.png
+imagem_02;images (1).jpeg;unrolling;256;4;25;0.0118030420053401;0;entrada_16.png
+imagem_02;images (1).jpeg;baseline;256;4;25;0.0134584580009686;1;entrada_16.png
+imagem_02;images (1).jpeg;baseline;256;4;26;0.0128854169961414;0;entrada_16.png
+imagem_02;images (1).jpeg;unrolling;256;4;26;0.0116642499997396;1;entrada_16.png
+imagem_02;images (1).jpeg;unrolling;256;4;27;0.0116247920013847;0;entrada_16.png
+imagem_02;images (1).jpeg;baseline;256;4;27;0.0131526660043164;1;entrada_16.png
+imagem_02;images (1).jpeg;baseline;256;4;28;0.0130158749961992;0;entrada_16.png
+imagem_02;images (1).jpeg;unrolling;256;4;28;0.0118650829972466;1;entrada_16.png
+imagem_02;images (1).jpeg;unrolling;256;4;29;0.0117330420034704;0;entrada_16.png
+imagem_02;images (1).jpeg;baseline;256;4;29;0.0128342500029248;1;entrada_16.png
+imagem_02;images (1).jpeg;baseline;576;2;0;0.0062451670019072;0;entrada_24.png
+imagem_02;images (1).jpeg;unrolling;576;2;0;0.0054471250041387;1;entrada_24.png
+imagem_02;images (1).jpeg;unrolling;576;2;1;0.0054250840039458;0;entrada_24.png
+imagem_02;images (1).jpeg;baseline;576;2;1;0.0061552089973702;1;entrada_24.png
+imagem_02;images (1).jpeg;baseline;576;2;2;0.0059774999972432;0;entrada_24.png
+imagem_02;images (1).jpeg;unrolling;576;2;2;0.00543079199997;1;entrada_24.png
+imagem_02;images (1).jpeg;unrolling;576;2;3;0.0054667919976054;0;entrada_24.png
+imagem_02;images (1).jpeg;baseline;576;2;3;0.0060582500009331;1;entrada_24.png
+imagem_02;images (1).jpeg;baseline;576;2;4;0.0060844590043416;0;entrada_24.png
+imagem_02;images (1).jpeg;unrolling;576;2;4;0.005320042000676;1;entrada_24.png
+imagem_02;images (1).jpeg;unrolling;576;2;5;0.0053461249990505;0;entrada_24.png
+imagem_02;images (1).jpeg;baseline;576;2;5;0.0061712919996352;1;entrada_24.png
+imagem_02;images (1).jpeg;baseline;576;2;6;0.0059968329951516;0;entrada_24.png
+imagem_02;images (1).jpeg;unrolling;576;2;6;0.0053447919999598;1;entrada_24.png
+imagem_02;images (1).jpeg;unrolling;576;2;7;0.0055467910060542;0;entrada_24.png
+imagem_02;images (1).jpeg;baseline;576;2;7;0.0059597500003292;1;entrada_24.png
+imagem_02;images (1).jpeg;baseline;576;2;8;0.005991834004817;0;entrada_24.png
+imagem_02;images (1).jpeg;unrolling;576;2;8;0.005495500001416;1;entrada_24.png
+imagem_02;images (1).jpeg;unrolling;576;2;9;0.0053633749994332;0;entrada_24.png
+imagem_02;images (1).jpeg;baseline;576;2;9;0.0059877500025322;1;entrada_24.png
+imagem_02;images (1).jpeg;baseline;576;2;10;0.0062290830028359;0;entrada_24.png
+imagem_02;images (1).jpeg;unrolling;576;2;10;0.0054278330062516;1;entrada_24.png
+imagem_02;images (1).jpeg;unrolling;576;2;11;0.0054823750033392;0;entrada_24.png
+imagem_02;images (1).jpeg;baseline;576;2;11;0.0061634169978788;1;entrada_24.png
+imagem_02;images (1).jpeg;baseline;576;2;12;0.0061305000053835;0;entrada_24.png
+imagem_02;images (1).jpeg;unrolling;576;2;12;0.0053841250046389;1;entrada_24.png
+imagem_02;images (1).jpeg;unrolling;576;2;13;0.0054170000003068;0;entrada_24.png
+imagem_02;images (1).jpeg;baseline;576;2;13;0.0059917499966104;1;entrada_24.png
+imagem_02;images (1).jpeg;baseline;576;2;14;0.0060093330030213;0;entrada_24.png
+imagem_02;images (1).jpeg;unrolling;576;2;14;0.0055340420003631;1;entrada_24.png
+imagem_02;images (1).jpeg;unrolling;576;2;15;0.0054047919984441;0;entrada_24.png
+imagem_02;images (1).jpeg;baseline;576;2;15;0.0059989170040353;1;entrada_24.png
+imagem_02;images (1).jpeg;baseline;576;2;16;0.0062790410011075;0;entrada_24.png
+imagem_02;images (1).jpeg;unrolling;576;2;16;0.0054637909997836;1;entrada_24.png
+imagem_02;images (1).jpeg;unrolling;576;2;17;0.0054993340017972;0;entrada_24.png
+imagem_02;images (1).jpeg;baseline;576;2;17;0.0059921249994658;1;entrada_24.png
+imagem_02;images (1).jpeg;baseline;576;2;18;0.0060522919957293;0;entrada_24.png
+imagem_02;images (1).jpeg;unrolling;576;2;18;0.0053957499985699;1;entrada_24.png
+imagem_02;images (1).jpeg;unrolling;576;2;19;0.0054251250039669;0;entrada_24.png
+imagem_02;images (1).jpeg;baseline;576;2;19;0.0060700000030919;1;entrada_24.png
+imagem_02;images (1).jpeg;baseline;576;2;20;0.006116500000644;0;entrada_24.png
+imagem_02;images (1).jpeg;unrolling;576;2;20;0.0054147500050021;1;entrada_24.png
+imagem_02;images (1).jpeg;unrolling;576;2;21;0.0054349999991245;0;entrada_24.png
+imagem_02;images (1).jpeg;baseline;576;2;21;0.0060815830001956;1;entrada_24.png
+imagem_02;images (1).jpeg;baseline;576;2;22;0.0061151670015533;0;entrada_24.png
+imagem_02;images (1).jpeg;unrolling;576;2;22;0.0054056670051068;1;entrada_24.png
+imagem_02;images (1).jpeg;unrolling;576;2;23;0.0054970420023892;0;entrada_24.png
+imagem_02;images (1).jpeg;baseline;576;2;23;0.0060956669985898;1;entrada_24.png
+imagem_02;images (1).jpeg;baseline;576;2;24;0.0061439999990398;0;entrada_24.png
+imagem_02;images (1).jpeg;unrolling;576;2;24;0.0054097920001368;1;entrada_24.png
+imagem_02;images (1).jpeg;unrolling;576;2;25;0.0053873750002821;0;entrada_24.png
+imagem_02;images (1).jpeg;baseline;576;2;25;0.0059970410002279;1;entrada_24.png
+imagem_02;images (1).jpeg;baseline;576;2;26;0.0060355829991749;0;entrada_24.png
+imagem_02;images (1).jpeg;unrolling;576;2;26;0.0053607080044457;1;entrada_24.png
+imagem_02;images (1).jpeg;unrolling;576;2;27;0.0053501249931287;0;entrada_24.png
+imagem_02;images (1).jpeg;baseline;576;2;27;0.0060198749997653;1;entrada_24.png
+imagem_02;images (1).jpeg;baseline;576;2;28;0.006022125002346;0;entrada_24.png
+imagem_02;images (1).jpeg;unrolling;576;2;28;0.0053178329981165;1;entrada_24.png
+imagem_02;images (1).jpeg;unrolling;576;2;29;0.0054147080008988;0;entrada_24.png
+imagem_02;images (1).jpeg;baseline;576;2;29;0.0060204589972272;1;entrada_24.png
+imagem_02;images (1).jpeg;baseline;576;3;0;0.0127294169942615;0;entrada_24.png
+imagem_02;images (1).jpeg;unrolling;576;3;0;0.0114453749993117;1;entrada_24.png
+imagem_02;images (1).jpeg;unrolling;576;3;1;0.0115095419969293;0;entrada_24.png
+imagem_02;images (1).jpeg;baseline;576;3;1;0.0129668330046115;1;entrada_24.png
+imagem_02;images (1).jpeg;baseline;576;3;2;0.0126435000056517;0;entrada_24.png
+imagem_02;images (1).jpeg;unrolling;576;3;2;0.0115520830004243;1;entrada_24.png
+imagem_02;images (1).jpeg;unrolling;576;3;3;0.0115506250003818;0;entrada_24.png
+imagem_02;images (1).jpeg;baseline;576;3;3;0.0127141249977285;1;entrada_24.png
+imagem_02;images (1).jpeg;baseline;576;3;4;0.0127915420016506;0;entrada_24.png
+imagem_02;images (1).jpeg;unrolling;576;3;4;0.0113793330019689;1;entrada_24.png
+imagem_02;images (1).jpeg;unrolling;576;3;5;0.0114262500064796;0;entrada_24.png
+imagem_02;images (1).jpeg;baseline;576;3;5;0.0128993750040535;1;entrada_24.png
+imagem_02;images (1).jpeg;baseline;576;3;6;0.0127791249979054;0;entrada_24.png
+imagem_02;images (1).jpeg;unrolling;576;3;6;0.0114072919968748;1;entrada_24.png
+imagem_02;images (1).jpeg;unrolling;576;3;7;0.0114095419994555;0;entrada_24.png
+imagem_02;images (1).jpeg;baseline;576;3;7;0.0129034159981529;1;entrada_24.png
+imagem_02;images (1).jpeg;baseline;576;3;8;0.0129418330034241;0;entrada_24.png
+imagem_02;images (1).jpeg;unrolling;576;3;8;0.0115080830000806;1;entrada_24.png
+imagem_02;images (1).jpeg;unrolling;576;3;9;0.0114368329959688;0;entrada_24.png
+imagem_02;images (1).jpeg;baseline;576;3;9;0.0127600419946247;1;entrada_24.png
+imagem_02;images (1).jpeg;baseline;576;3;10;0.0127229579957202;0;entrada_24.png
+imagem_02;images (1).jpeg;unrolling;576;3;10;0.0114467500025057;1;entrada_24.png
+imagem_02;images (1).jpeg;unrolling;576;3;11;0.0116146250002202;0;entrada_24.png
+imagem_02;images (1).jpeg;baseline;576;3;11;0.0129808749989024;1;entrada_24.png
+imagem_02;images (1).jpeg;baseline;576;3;12;0.0130175000012968;0;entrada_24.png
+imagem_02;images (1).jpeg;unrolling;576;3;12;0.0116578329980256;1;entrada_24.png
+imagem_02;images (1).jpeg;unrolling;576;3;13;0.0115913330009789;0;entrada_24.png
+imagem_02;images (1).jpeg;baseline;576;3;13;0.0128435000005993;1;entrada_24.png
+imagem_02;images (1).jpeg;baseline;576;3;14;0.0127630830029374;0;entrada_24.png
+imagem_02;images (1).jpeg;unrolling;576;3;14;0.0114015829967684;1;entrada_24.png
+imagem_02;images (1).jpeg;unrolling;576;3;15;0.0115504170025815;0;entrada_24.png
+imagem_02;images (1).jpeg;baseline;576;3;15;0.0130335830035619;1;entrada_24.png
+imagem_02;images (1).jpeg;baseline;576;3;16;0.0130067079953732;0;entrada_24.png
+imagem_02;images (1).jpeg;unrolling;576;3;16;0.0116021669964538;1;entrada_24.png
+imagem_02;images (1).jpeg;unrolling;576;3;17;0.0116044580063316;0;entrada_24.png
+imagem_02;images (1).jpeg;baseline;576;3;17;0.0130118329980177;1;entrada_24.png
+imagem_02;images (1).jpeg;baseline;576;3;18;0.0129357920013717;0;entrada_24.png
+imagem_02;images (1).jpeg;unrolling;576;3;18;0.0114069580013165;1;entrada_24.png
+imagem_02;images (1).jpeg;unrolling;576;3;19;0.0115361659991322;0;entrada_24.png
+imagem_02;images (1).jpeg;baseline;576;3;19;0.0130967090008198;1;entrada_24.png
+imagem_02;images (1).jpeg;baseline;576;3;20;0.0130250419970252;0;entrada_24.png
+imagem_02;images (1).jpeg;unrolling;576;3;20;0.0115732499980367;1;entrada_24.png
+imagem_02;images (1).jpeg;unrolling;576;3;21;0.0118277080036932;0;entrada_24.png
+imagem_02;images (1).jpeg;baseline;576;3;21;0.0130711669989977;1;entrada_24.png
+imagem_02;images (1).jpeg;baseline;576;3;22;0.0130015839968109;0;entrada_24.png
+imagem_02;images (1).jpeg;unrolling;576;3;22;0.0115588330008904;1;entrada_24.png
+imagem_02;images (1).jpeg;unrolling;576;3;23;0.0116645840025739;0;entrada_24.png
+imagem_02;images (1).jpeg;baseline;576;3;23;0.0129885000060312;1;entrada_24.png
+imagem_02;images (1).jpeg;baseline;576;3;24;0.0129746659949887;0;entrada_24.png
+imagem_02;images (1).jpeg;unrolling;576;3;24;0.0115794580051442;1;entrada_24.png
+imagem_02;images (1).jpeg;unrolling;576;3;25;0.0115786669994122;0;entrada_24.png
+imagem_02;images (1).jpeg;baseline;576;3;25;0.0129453750050743;1;entrada_24.png
+imagem_02;images (1).jpeg;baseline;576;3;26;0.0129987079999409;0;entrada_24.png
+imagem_02;images (1).jpeg;unrolling;576;3;26;0.0114489580009831;1;entrada_24.png
+imagem_02;images (1).jpeg;unrolling;576;3;27;0.0115334160000202;0;entrada_24.png
+imagem_02;images (1).jpeg;baseline;576;3;27;0.0129361669969512;1;entrada_24.png
+imagem_02;images (1).jpeg;baseline;576;3;28;0.0127324159984709;0;entrada_24.png
+imagem_02;images (1).jpeg;unrolling;576;3;28;0.0115934580026078;1;entrada_24.png
+imagem_02;images (1).jpeg;unrolling;576;3;29;0.0118813750013941;0;entrada_24.png
+imagem_02;images (1).jpeg;baseline;576;3;29;0.0131214169960003;1;entrada_24.png
+imagem_02;images (1).jpeg;baseline;576;4;0;0.0170310829998925;0;entrada_24.png
+imagem_02;images (1).jpeg;unrolling;576;4;0;0.0153123330019298;1;entrada_24.png
+imagem_02;images (1).jpeg;unrolling;576;4;1;0.0152448749940958;0;entrada_24.png
+imagem_02;images (1).jpeg;baseline;576;4;1;0.0170370420019025;1;entrada_24.png
+imagem_02;images (1).jpeg;baseline;576;4;2;0.0169625420021475;0;entrada_24.png
+imagem_02;images (1).jpeg;unrolling;576;4;2;0.0151135839987546;1;entrada_24.png
+imagem_02;images (1).jpeg;unrolling;576;4;3;0.0152501669945195;0;entrada_24.png
+imagem_02;images (1).jpeg;baseline;576;4;3;0.0167969169997377;1;entrada_24.png
+imagem_02;images (1).jpeg;baseline;576;4;4;0.016770541005826;0;entrada_24.png
+imagem_02;images (1).jpeg;unrolling;576;4;4;0.0151317080017179;1;entrada_24.png
+imagem_02;images (1).jpeg;unrolling;576;4;5;0.0151648750033928;0;entrada_24.png
+imagem_02;images (1).jpeg;baseline;576;4;5;0.0166673749990877;1;entrada_24.png
+imagem_02;images (1).jpeg;baseline;576;4;6;0.0166651659965282;0;entrada_24.png
+imagem_02;images (1).jpeg;unrolling;576;4;6;0.015068542001245;1;entrada_24.png
+imagem_02;images (1).jpeg;unrolling;576;4;7;0.0151329579966841;0;entrada_24.png
+imagem_02;images (1).jpeg;baseline;576;4;7;0.0168799169987323;1;entrada_24.png
+imagem_02;images (1).jpeg;baseline;576;4;8;0.0168285420004394;0;entrada_24.png
+imagem_02;images (1).jpeg;unrolling;576;4;8;0.0151912910005194;1;entrada_24.png
+imagem_02;images (1).jpeg;unrolling;576;4;9;0.0152034589991671;0;entrada_24.png
+imagem_02;images (1).jpeg;baseline;576;4;9;0.0168052919980254;1;entrada_24.png
+imagem_02;images (1).jpeg;baseline;576;4;10;0.0168512079981155;0;entrada_24.png
+imagem_02;images (1).jpeg;unrolling;576;4;10;0.0151790829986566;1;entrada_24.png
+imagem_02;images (1).jpeg;unrolling;576;4;11;0.0152924579961108;0;entrada_24.png
+imagem_02;images (1).jpeg;baseline;576;4;11;0.0168423340001027;1;entrada_24.png
+imagem_02;images (1).jpeg;baseline;576;4;12;0.016776167001808;0;entrada_24.png
+imagem_02;images (1).jpeg;unrolling;576;4;12;0.0152125829990836;1;entrada_24.png
+imagem_02;images (1).jpeg;unrolling;576;4;13;0.0151660410047043;0;entrada_24.png
+imagem_02;images (1).jpeg;baseline;576;4;13;0.0169544579985085;1;entrada_24.png
+imagem_02;images (1).jpeg;baseline;576;4;14;0.016816833995108;0;entrada_24.png
+imagem_02;images (1).jpeg;unrolling;576;4;14;0.0152219160008826;1;entrada_24.png
+imagem_02;images (1).jpeg;unrolling;576;4;15;0.0151836660006665;0;entrada_24.png
+imagem_02;images (1).jpeg;baseline;576;4;15;0.0167752920024213;1;entrada_24.png
+imagem_02;images (1).jpeg;baseline;576;4;16;0.0167082919942913;0;entrada_24.png
+imagem_02;images (1).jpeg;unrolling;576;4;16;0.015130666004552;1;entrada_24.png
+imagem_02;images (1).jpeg;unrolling;576;4;17;0.0152325829985784;0;entrada_24.png
+imagem_02;images (1).jpeg;baseline;576;4;17;0.0167946250003296;1;entrada_24.png
+imagem_02;images (1).jpeg;baseline;576;4;18;0.0167219170034513;0;entrada_24.png
+imagem_02;images (1).jpeg;unrolling;576;4;18;0.0150760830001672;1;entrada_24.png
+imagem_02;images (1).jpeg;unrolling;576;4;19;0.0151057080001919;0;entrada_24.png
+imagem_02;images (1).jpeg;baseline;576;4;19;0.0166999169960035;1;entrada_24.png
+imagem_02;images (1).jpeg;baseline;576;4;20;0.0166931670028134;0;entrada_24.png
+imagem_02;images (1).jpeg;unrolling;576;4;20;0.0151244580047205;1;entrada_24.png
+imagem_02;images (1).jpeg;unrolling;576;4;21;0.0151238329999614;0;entrada_24.png
+imagem_02;images (1).jpeg;baseline;576;4;21;0.0167835000029299;1;entrada_24.png
+imagem_02;images (1).jpeg;baseline;576;4;22;0.017169416998513;0;entrada_24.png
+imagem_02;images (1).jpeg;unrolling;576;4;22;0.0152794170062406;1;entrada_24.png
+imagem_02;images (1).jpeg;unrolling;576;4;23;0.0151092919986695;0;entrada_24.png
+imagem_02;images (1).jpeg;baseline;576;4;23;0.0167676250057411;1;entrada_24.png
+imagem_02;images (1).jpeg;baseline;576;4;24;0.0169401250022929;0;entrada_24.png
+imagem_02;images (1).jpeg;unrolling;576;4;24;0.0151145830022869;1;entrada_24.png
+imagem_02;images (1).jpeg;unrolling;576;4;25;0.0150539579990436;0;entrada_24.png
+imagem_02;images (1).jpeg;baseline;576;4;25;0.0167085409993887;1;entrada_24.png
+imagem_02;images (1).jpeg;baseline;576;4;26;0.0167356249949079;0;entrada_24.png
+imagem_02;images (1).jpeg;unrolling;576;4;26;0.0152811250009108;1;entrada_24.png
+imagem_02;images (1).jpeg;unrolling;576;4;27;0.0152923339992412;0;entrada_24.png
+imagem_02;images (1).jpeg;baseline;576;4;27;0.0169554579988471;1;entrada_24.png
+imagem_02;images (1).jpeg;baseline;576;4;28;0.0169620000015129;0;entrada_24.png
+imagem_02;images (1).jpeg;unrolling;576;4;28;0.0152825420009321;1;entrada_24.png
+imagem_02;images (1).jpeg;unrolling;576;4;29;0.0151492499935557;0;entrada_24.png
+imagem_02;images (1).jpeg;baseline;576;4;29;0.0167398749981657;1;entrada_24.png
+imagem_02;images (1).jpeg;baseline;1024;2;0;0.0116954590048408;0;entrada_32.png
+imagem_02;images (1).jpeg;unrolling;1024;2;0;0.0106937079981435;1;entrada_32.png
+imagem_02;images (1).jpeg;unrolling;1024;2;1;0.0106276250007795;0;entrada_32.png
+imagem_02;images (1).jpeg;baseline;1024;2;1;0.0117032080015633;1;entrada_32.png
+imagem_02;images (1).jpeg;baseline;1024;2;2;0.0119669580017216;0;entrada_32.png
+imagem_02;images (1).jpeg;unrolling;1024;2;2;0.0107172919961158;1;entrada_32.png
+imagem_02;images (1).jpeg;unrolling;1024;2;3;0.0105143749970011;0;entrada_32.png
+imagem_02;images (1).jpeg;baseline;1024;2;3;0.0118057500003487;1;entrada_32.png
+imagem_02;images (1).jpeg;baseline;1024;2;4;0.0117286250024335;0;entrada_32.png
+imagem_02;images (1).jpeg;unrolling;1024;2;4;0.0104621249993215;1;entrada_32.png
+imagem_02;images (1).jpeg;unrolling;1024;2;5;0.0106770410056924;0;entrada_32.png
+imagem_02;images (1).jpeg;baseline;1024;2;5;0.0118170830028248;1;entrada_32.png
+imagem_02;images (1).jpeg;baseline;1024;2;6;0.0117177080028341;0;entrada_32.png
+imagem_02;images (1).jpeg;unrolling;1024;2;6;0.0104889580034068;1;entrada_32.png
+imagem_02;images (1).jpeg;unrolling;1024;2;7;0.0104686669947113;0;entrada_32.png
+imagem_02;images (1).jpeg;baseline;1024;2;7;0.0116881249996367;1;entrada_32.png
+imagem_02;images (1).jpeg;baseline;1024;2;8;0.011974207998719;0;entrada_32.png
+imagem_02;images (1).jpeg;unrolling;1024;2;8;0.0105508330016164;1;entrada_32.png
+imagem_02;images (1).jpeg;unrolling;1024;2;9;0.0104757500012055;0;entrada_32.png
+imagem_02;images (1).jpeg;baseline;1024;2;9;0.0117777499981457;1;entrada_32.png
+imagem_02;images (1).jpeg;baseline;1024;2;10;0.011710499995388;0;entrada_32.png
+imagem_02;images (1).jpeg;unrolling;1024;2;10;0.010514667003008;1;entrada_32.png
+imagem_02;images (1).jpeg;unrolling;1024;2;11;0.0105193749986938;0;entrada_32.png
+imagem_02;images (1).jpeg;baseline;1024;2;11;0.0117998749992693;1;entrada_32.png
+imagem_02;images (1).jpeg;baseline;1024;2;12;0.0117587920030928;0;entrada_32.png
+imagem_02;images (1).jpeg;unrolling;1024;2;12;0.0106637499993667;1;entrada_32.png
+imagem_02;images (1).jpeg;unrolling;1024;2;13;0.0105867079982999;0;entrada_32.png
+imagem_02;images (1).jpeg;baseline;1024;2;13;0.011730374993931;1;entrada_32.png
+imagem_02;images (1).jpeg;baseline;1024;2;14;0.011957375005295;0;entrada_32.png
+imagem_02;images (1).jpeg;unrolling;1024;2;14;0.0105750410002656;1;entrada_32.png
+imagem_02;images (1).jpeg;unrolling;1024;2;15;0.0104472089951741;0;entrada_32.png
+imagem_02;images (1).jpeg;baseline;1024;2;15;0.0119169579993467;1;entrada_32.png
+imagem_02;images (1).jpeg;baseline;1024;2;16;0.0118654159959987;0;entrada_32.png
+imagem_02;images (1).jpeg;unrolling;1024;2;16;0.0105144580011256;1;entrada_32.png
+imagem_02;images (1).jpeg;unrolling;1024;2;17;0.0106965000013588;0;entrada_32.png
+imagem_02;images (1).jpeg;baseline;1024;2;17;0.0118205830003716;1;entrada_32.png
+imagem_02;images (1).jpeg;baseline;1024;2;18;0.0118159170015132;0;entrada_32.png
+imagem_02;images (1).jpeg;unrolling;1024;2;18;0.0105984159963554;1;entrada_32.png
+imagem_02;images (1).jpeg;unrolling;1024;2;19;0.010686749999877;0;entrada_32.png
+imagem_02;images (1).jpeg;baseline;1024;2;19;0.0118063750051078;1;entrada_32.png
+imagem_02;images (1).jpeg;baseline;1024;2;20;0.0119451249993289;0;entrada_32.png
+imagem_02;images (1).jpeg;unrolling;1024;2;20;0.0105689169940887;1;entrada_32.png
+imagem_02;images (1).jpeg;unrolling;1024;2;21;0.0105961250010295;0;entrada_32.png
+imagem_02;images (1).jpeg;baseline;1024;2;21;0.0119984999982989;1;entrada_32.png
+imagem_02;images (1).jpeg;baseline;1024;2;22;0.0118279160014935;0;entrada_32.png
+imagem_02;images (1).jpeg;unrolling;1024;2;22;0.0105685829985304;1;entrada_32.png
+imagem_02;images (1).jpeg;unrolling;1024;2;23;0.0106725420046132;0;entrada_32.png
+imagem_02;images (1).jpeg;baseline;1024;2;23;0.011834541997814;1;entrada_32.png
+imagem_02;images (1).jpeg;baseline;1024;2;24;0.0118286669967346;0;entrada_32.png
+imagem_02;images (1).jpeg;unrolling;1024;2;24;0.0106412080058362;1;entrada_32.png
+imagem_02;images (1).jpeg;unrolling;1024;2;25;0.0107167079986538;0;entrada_32.png
+imagem_02;images (1).jpeg;baseline;1024;2;25;0.011983208998572;1;entrada_32.png
+imagem_02;images (1).jpeg;baseline;1024;2;26;0.0118823750017327;0;entrada_32.png
+imagem_02;images (1).jpeg;unrolling;1024;2;26;0.0107114170023123;1;entrada_32.png
+imagem_02;images (1).jpeg;unrolling;1024;2;27;0.0106552910001482;0;entrada_32.png
+imagem_02;images (1).jpeg;baseline;1024;2;27;0.011966707999818;1;entrada_32.png
+imagem_02;images (1).jpeg;baseline;1024;2;28;0.0119673749941284;0;entrada_32.png
+imagem_02;images (1).jpeg;unrolling;1024;2;28;0.0106847499991999;1;entrada_32.png
+imagem_02;images (1).jpeg;unrolling;1024;2;29;0.0107117500010645;0;entrada_32.png
+imagem_02;images (1).jpeg;baseline;1024;2;29;0.0119564169945078;1;entrada_32.png
+imagem_02;images (1).jpeg;baseline;1024;3;0;0.0190614169987384;0;entrada_32.png
+imagem_02;images (1).jpeg;unrolling;1024;3;0;0.0171265829994808;1;entrada_32.png
+imagem_02;images (1).jpeg;unrolling;1024;3;1;0.0170766250012093;0;entrada_32.png
+imagem_02;images (1).jpeg;baseline;1024;3;1;0.018752250005491;1;entrada_32.png
+imagem_02;images (1).jpeg;baseline;1024;3;2;0.0189702499992563;0;entrada_32.png
+imagem_02;images (1).jpeg;unrolling;1024;3;2;0.0169415830023353;1;entrada_32.png
+imagem_02;images (1).jpeg;unrolling;1024;3;3;0.0169714580042636;0;entrada_32.png
+imagem_02;images (1).jpeg;baseline;1024;3;3;0.0187090840045129;1;entrada_32.png
+imagem_02;images (1).jpeg;baseline;1024;3;4;0.0189195840066531;0;entrada_32.png
+imagem_02;images (1).jpeg;unrolling;1024;3;4;0.0170236670019221;1;entrada_32.png
+imagem_02;images (1).jpeg;unrolling;1024;3;5;0.0170112500054528;0;entrada_32.png
+imagem_02;images (1).jpeg;baseline;1024;3;5;0.0188157910015434;1;entrada_32.png
+imagem_02;images (1).jpeg;baseline;1024;3;6;0.0190117090023704;0;entrada_32.png
+imagem_02;images (1).jpeg;unrolling;1024;3;6;0.0170311670008231;1;entrada_32.png
+imagem_02;images (1).jpeg;unrolling;1024;3;7;0.017145875004644;0;entrada_32.png
+imagem_02;images (1).jpeg;baseline;1024;3;7;0.0190957500017248;1;entrada_32.png
+imagem_02;images (1).jpeg;baseline;1024;3;8;0.0189667079976061;0;entrada_32.png
+imagem_02;images (1).jpeg;unrolling;1024;3;8;0.0170820839994121;1;entrada_32.png
+imagem_02;images (1).jpeg;unrolling;1024;3;9;0.0169502499993541;0;entrada_32.png
+imagem_02;images (1).jpeg;baseline;1024;3;9;0.0188793749985052;1;entrada_32.png
+imagem_02;images (1).jpeg;baseline;1024;3;10;0.0193722499971045;0;entrada_32.png
+imagem_02;images (1).jpeg;unrolling;1024;3;10;0.0171092910022707;1;entrada_32.png
+imagem_02;images (1).jpeg;unrolling;1024;3;11;0.0169835830020019;0;entrada_32.png
+imagem_02;images (1).jpeg;baseline;1024;3;11;0.0188059590000193;1;entrada_32.png
+imagem_02;images (1).jpeg;baseline;1024;3;12;0.018696874998568;0;entrada_32.png
+imagem_02;images (1).jpeg;unrolling;1024;3;12;0.0168592499976512;1;entrada_32.png
+imagem_02;images (1).jpeg;unrolling;1024;3;13;0.0169160840014228;0;entrada_32.png
+imagem_02;images (1).jpeg;baseline;1024;3;13;0.0187637499984703;1;entrada_32.png
+imagem_02;images (1).jpeg;baseline;1024;3;14;0.0187431250014924;0;entrada_32.png
+imagem_02;images (1).jpeg;unrolling;1024;3;14;0.0168615419970592;1;entrada_32.png
+imagem_02;images (1).jpeg;unrolling;1024;3;15;0.0168741250017774;0;entrada_32.png
+imagem_02;images (1).jpeg;baseline;1024;3;15;0.018760042003123;1;entrada_32.png
+imagem_02;images (1).jpeg;baseline;1024;3;16;0.0189233749988488;0;entrada_32.png
+imagem_02;images (1).jpeg;unrolling;1024;3;16;0.0169351249933242;1;entrada_32.png
+imagem_02;images (1).jpeg;unrolling;1024;3;17;0.0170182079964433;0;entrada_32.png
+imagem_02;images (1).jpeg;baseline;1024;3;17;0.0190595419990131;1;entrada_32.png
+imagem_02;images (1).jpeg;baseline;1024;3;18;0.0190472089961986;0;entrada_32.png
+imagem_02;images (1).jpeg;unrolling;1024;3;18;0.0170483750043786;1;entrada_32.png
+imagem_02;images (1).jpeg;unrolling;1024;3;19;0.0170145419979235;0;entrada_32.png
+imagem_02;images (1).jpeg;baseline;1024;3;19;0.0230518750031478;1;entrada_32.png
+imagem_02;images (1).jpeg;baseline;1024;3;20;0.0197125839986256;0;entrada_32.png
+imagem_02;images (1).jpeg;unrolling;1024;3;20;0.0261963750017457;1;entrada_32.png
+imagem_02;images (1).jpeg;unrolling;1024;3;21;0.0179088340009911;0;entrada_32.png
+imagem_02;images (1).jpeg;baseline;1024;3;21;0.0260627500028931;1;entrada_32.png
+imagem_02;images (1).jpeg;baseline;1024;3;22;0.0241149580033379;0;entrada_32.png
+imagem_02;images (1).jpeg;unrolling;1024;3;22;0.017953957998543;1;entrada_32.png
+imagem_02;images (1).jpeg;unrolling;1024;3;23;0.0173742499973741;0;entrada_32.png
+imagem_02;images (1).jpeg;baseline;1024;3;23;0.0188391670017153;1;entrada_32.png
+imagem_02;images (1).jpeg;baseline;1024;3;24;0.0190746660009608;0;entrada_32.png
+imagem_02;images (1).jpeg;unrolling;1024;3;24;0.0170617080002557;1;entrada_32.png
+imagem_02;images (1).jpeg;unrolling;1024;3;25;0.0169752500005415;0;entrada_32.png
+imagem_02;images (1).jpeg;baseline;1024;3;25;0.0187744169961661;1;entrada_32.png
+imagem_02;images (1).jpeg;baseline;1024;3;26;0.0188101250023464;0;entrada_32.png
+imagem_02;images (1).jpeg;unrolling;1024;3;26;0.0170277500001247;1;entrada_32.png
+imagem_02;images (1).jpeg;unrolling;1024;3;27;0.0170965409997734;0;entrada_32.png
+imagem_02;images (1).jpeg;baseline;1024;3;27;0.0190550409970455;1;entrada_32.png
+imagem_02;images (1).jpeg;baseline;1024;3;28;0.0189034160066512;0;entrada_32.png
+imagem_02;images (1).jpeg;unrolling;1024;3;28;0.0173425419998238;1;entrada_32.png
+imagem_02;images (1).jpeg;unrolling;1024;3;29;0.0171394169956329;0;entrada_32.png
+imagem_02;images (1).jpeg;baseline;1024;3;29;0.0202751660035573;1;entrada_32.png
+imagem_02;images (1).jpeg;baseline;1024;4;0;0.038052832998801;0;entrada_32.png
+imagem_02;images (1).jpeg;unrolling;1024;4;0;0.034424208002747;1;entrada_32.png
+imagem_02;images (1).jpeg;unrolling;1024;4;1;0.0345047080045333;0;entrada_32.png
+imagem_02;images (1).jpeg;baseline;1024;4;1;0.0381416250020265;1;entrada_32.png
+imagem_02;images (1).jpeg;baseline;1024;4;2;0.0380002919991966;0;entrada_32.png
+imagem_02;images (1).jpeg;unrolling;1024;4;2;0.03427170800569;1;entrada_32.png
+imagem_02;images (1).jpeg;unrolling;1024;4;3;0.0339532500001951;0;entrada_32.png
+imagem_02;images (1).jpeg;baseline;1024;4;3;0.037456750003912;1;entrada_32.png
+imagem_02;images (1).jpeg;baseline;1024;4;4;0.0378970420060795;0;entrada_32.png
+imagem_02;images (1).jpeg;unrolling;1024;4;4;0.0338731660012854;1;entrada_32.png
+imagem_02;images (1).jpeg;unrolling;1024;4;5;0.0338570420062751;0;entrada_32.png
+imagem_02;images (1).jpeg;baseline;1024;4;5;0.0375974999988102;1;entrada_32.png
+imagem_02;images (1).jpeg;baseline;1024;4;6;0.0377517079978133;0;entrada_32.png
+imagem_02;images (1).jpeg;unrolling;1024;4;6;0.0342164159956155;1;entrada_32.png
+imagem_02;images (1).jpeg;unrolling;1024;4;7;0.0340720839958521;0;entrada_32.png
+imagem_02;images (1).jpeg;baseline;1024;4;7;0.0378260830038925;1;entrada_32.png
+imagem_02;images (1).jpeg;baseline;1024;4;8;0.0379026669979793;0;entrada_32.png
+imagem_02;images (1).jpeg;unrolling;1024;4;8;0.0341083339953911;1;entrada_32.png
+imagem_02;images (1).jpeg;unrolling;1024;4;9;0.034204542003863;0;entrada_32.png
+imagem_02;images (1).jpeg;baseline;1024;4;9;0.0374274159985361;1;entrada_32.png
+imagem_02;images (1).jpeg;baseline;1024;4;10;0.0375026250039809;0;entrada_32.png
+imagem_02;images (1).jpeg;unrolling;1024;4;10;0.0342097920001833;1;entrada_32.png
+imagem_02;images (1).jpeg;unrolling;1024;4;11;0.0341612499978509;0;entrada_32.png
+imagem_02;images (1).jpeg;baseline;1024;4;11;0.0376592500033439;1;entrada_32.png
+imagem_02;images (1).jpeg;baseline;1024;4;12;0.0377995830058353;0;entrada_32.png
+imagem_02;images (1).jpeg;unrolling;1024;4;12;0.0342722909990698;1;entrada_32.png
+imagem_02;images (1).jpeg;unrolling;1024;4;13;0.0338569169980473;0;entrada_32.png
+imagem_02;images (1).jpeg;baseline;1024;4;13;0.0373818340012803;1;entrada_32.png
+imagem_02;images (1).jpeg;baseline;1024;4;14;0.0374153329976252;0;entrada_32.png
+imagem_02;images (1).jpeg;unrolling;1024;4;14;0.0339763329975539;1;entrada_32.png
+imagem_02;images (1).jpeg;unrolling;1024;4;15;0.0341442919961991;0;entrada_32.png
+imagem_02;images (1).jpeg;baseline;1024;4;15;0.0377544579969253;1;entrada_32.png
+imagem_02;images (1).jpeg;baseline;1024;4;16;0.037906457997451;0;entrada_32.png
+imagem_02;images (1).jpeg;unrolling;1024;4;16;0.0344225829976494;1;entrada_32.png
+imagem_02;images (1).jpeg;unrolling;1024;4;17;0.0342990420031128;0;entrada_32.png
+imagem_02;images (1).jpeg;baseline;1024;4;17;0.0377341250059544;1;entrada_32.png
+imagem_02;images (1).jpeg;baseline;1024;4;18;0.0376859169991803;0;entrada_32.png
+imagem_02;images (1).jpeg;unrolling;1024;4;18;0.0338774999981978;1;entrada_32.png
+imagem_02;images (1).jpeg;unrolling;1024;4;19;0.0339637919969391;0;entrada_32.png
+imagem_02;images (1).jpeg;baseline;1024;4;19;0.0377559999978984;1;entrada_32.png
+imagem_02;images (1).jpeg;baseline;1024;4;20;0.0375399580007069;0;entrada_32.png
+imagem_02;images (1).jpeg;unrolling;1024;4;20;0.0338431669952115;1;entrada_32.png
+imagem_02;images (1).jpeg;unrolling;1024;4;21;0.0339409579974017;0;entrada_32.png
+imagem_02;images (1).jpeg;baseline;1024;4;21;0.0378140829998301;1;entrada_32.png
+imagem_02;images (1).jpeg;baseline;1024;4;22;0.0377757500027655;0;entrada_32.png
+imagem_02;images (1).jpeg;unrolling;1024;4;22;0.0341962910024449;1;entrada_32.png
+imagem_02;images (1).jpeg;unrolling;1024;4;23;0.0339808749995427;0;entrada_32.png
+imagem_02;images (1).jpeg;baseline;1024;4;23;0.0375198330002604;1;entrada_32.png
+imagem_02;images (1).jpeg;baseline;1024;4;24;0.0377949579997221;0;entrada_32.png
+imagem_02;images (1).jpeg;unrolling;1024;4;24;0.0340024170000106;1;entrada_32.png
+imagem_02;images (1).jpeg;unrolling;1024;4;25;0.0341958749995683;0;entrada_32.png
+imagem_02;images (1).jpeg;baseline;1024;4;25;0.037967167001625;1;entrada_32.png
+imagem_02;images (1).jpeg;baseline;1024;4;26;0.0377434580004774;0;entrada_32.png
+imagem_02;images (1).jpeg;unrolling;1024;4;26;0.0339266660012071;1;entrada_32.png
+imagem_02;images (1).jpeg;unrolling;1024;4;27;0.0343162920034956;0;entrada_32.png
+imagem_02;images (1).jpeg;baseline;1024;4;27;0.0379329579955083;1;entrada_32.png
+imagem_02;images (1).jpeg;baseline;1024;4;28;0.0375709579966496;0;entrada_32.png
+imagem_02;images (1).jpeg;unrolling;1024;4;28;0.0341684589948272;1;entrada_32.png
+imagem_02;images (1).jpeg;unrolling;1024;4;29;0.034241708999616;0;entrada_32.png
+imagem_02;images (1).jpeg;baseline;1024;4;29;0.0377674999981536;1;entrada_32.png
+imagem_02;images (1).jpeg;baseline;2304;2;0;0.0269587919974583;0;entrada_48.png
+imagem_02;images (1).jpeg;unrolling;2304;2;0;0.0628402500005904;1;entrada_48.png
+imagem_02;images (1).jpeg;unrolling;2304;2;1;0.0240795829959097;0;entrada_48.png
+imagem_02;images (1).jpeg;baseline;2304;2;1;0.0265742919946205;1;entrada_48.png
+imagem_02;images (1).jpeg;baseline;2304;2;2;0.0269835829967632;0;entrada_48.png
+imagem_02;images (1).jpeg;unrolling;2304;2;2;0.0239339159961673;1;entrada_48.png
+imagem_02;images (1).jpeg;unrolling;2304;2;3;0.0238489999974262;0;entrada_48.png
+imagem_02;images (1).jpeg;baseline;2304;2;3;0.026588749999064;1;entrada_48.png
+imagem_02;images (1).jpeg;baseline;2304;2;4;0.0266946670017205;0;entrada_48.png
+imagem_02;images (1).jpeg;unrolling;2304;2;4;0.0240457920008339;1;entrada_48.png
+imagem_02;images (1).jpeg;unrolling;2304;2;5;0.0238102919975062;0;entrada_48.png
+imagem_02;images (1).jpeg;baseline;2304;2;5;0.0265589999980875;1;entrada_48.png
+imagem_02;images (1).jpeg;baseline;2304;2;6;0.0268442090018652;0;entrada_48.png
+imagem_02;images (1).jpeg;unrolling;2304;2;6;0.0399810419985442;1;entrada_48.png
+imagem_02;images (1).jpeg;unrolling;2304;2;7;0.0242427080011111;0;entrada_48.png
+imagem_02;images (1).jpeg;baseline;2304;2;7;0.0271708750005927;1;entrada_48.png
+imagem_02;images (1).jpeg;baseline;2304;2;8;0.0267434999987017;0;entrada_48.png
+imagem_02;images (1).jpeg;unrolling;2304;2;8;0.0242612910005846;1;entrada_48.png
+imagem_02;images (1).jpeg;unrolling;2304;2;9;0.0240379999959259;0;entrada_48.png
+imagem_02;images (1).jpeg;baseline;2304;2;9;0.0266211250054766;1;entrada_48.png
+imagem_02;images (1).jpeg;baseline;2304;2;10;0.026760374996229;0;entrada_48.png
+imagem_02;images (1).jpeg;unrolling;2304;2;10;0.0241882499976782;1;entrada_48.png
+imagem_02;images (1).jpeg;unrolling;2304;2;11;0.0240056660040863;0;entrada_48.png
+imagem_02;images (1).jpeg;baseline;2304;2;11;0.0269832080011838;1;entrada_48.png
+imagem_02;images (1).jpeg;baseline;2304;2;12;0.0269907499969122;0;entrada_48.png
+imagem_02;images (1).jpeg;unrolling;2304;2;12;0.0400064159985049;1;entrada_48.png
+imagem_02;images (1).jpeg;unrolling;2304;2;13;0.0239452919995528;0;entrada_48.png
+imagem_02;images (1).jpeg;baseline;2304;2;13;0.0267547920011566;1;entrada_48.png
+imagem_02;images (1).jpeg;baseline;2304;2;14;0.0270517089957138;0;entrada_48.png
+imagem_02;images (1).jpeg;unrolling;2304;2;14;0.0241244999997434;1;entrada_48.png
+imagem_02;images (1).jpeg;unrolling;2304;2;15;0.0420386659970972;0;entrada_48.png
+imagem_02;images (1).jpeg;baseline;2304;2;15;0.0266399170068325;1;entrada_48.png
+imagem_02;images (1).jpeg;baseline;2304;2;16;0.0267174999971757;0;entrada_48.png
+imagem_02;images (1).jpeg;unrolling;2304;2;16;0.0238898339957813;1;entrada_48.png
+imagem_02;images (1).jpeg;unrolling;2304;2;17;0.0240677500041783;0;entrada_48.png
+imagem_02;images (1).jpeg;baseline;2304;2;17;0.026700875001552;1;entrada_48.png
+imagem_02;images (1).jpeg;baseline;2304;2;18;0.0267531249992316;0;entrada_48.png
+imagem_02;images (1).jpeg;unrolling;2304;2;18;0.0417401250015245;1;entrada_48.png
+imagem_02;images (1).jpeg;unrolling;2304;2;19;0.0242189999989932;0;entrada_48.png
+imagem_02;images (1).jpeg;baseline;2304;2;19;0.026956624999002;1;entrada_48.png
+imagem_02;images (1).jpeg;baseline;2304;2;20;0.0268519590026699;0;entrada_48.png
+imagem_02;images (1).jpeg;unrolling;2304;2;20;0.023934917000588;1;entrada_48.png
+imagem_02;images (1).jpeg;unrolling;2304;2;21;0.0242249170041759;0;entrada_48.png
+imagem_02;images (1).jpeg;baseline;2304;2;21;0.0266572920008911;1;entrada_48.png
+imagem_02;images (1).jpeg;baseline;2304;2;22;0.0279514170033507;0;entrada_48.png
+imagem_02;images (1).jpeg;unrolling;2304;2;22;0.0241318749976926;1;entrada_48.png
+imagem_02;images (1).jpeg;unrolling;2304;2;23;0.0238540829959674;0;entrada_48.png
+imagem_02;images (1).jpeg;baseline;2304;2;23;0.0268061250026221;1;entrada_48.png
+imagem_02;images (1).jpeg;baseline;2304;2;24;0.0269319170038215;0;entrada_48.png
+imagem_02;images (1).jpeg;unrolling;2304;2;24;0.0393795000054524;1;entrada_48.png
+imagem_02;images (1).jpeg;unrolling;2304;2;25;0.0241799169962178;0;entrada_48.png
+imagem_02;images (1).jpeg;baseline;2304;2;25;0.0268589169936603;1;entrada_48.png
+imagem_02;images (1).jpeg;baseline;2304;2;26;0.0266009999977541;0;entrada_48.png
+imagem_02;images (1).jpeg;unrolling;2304;2;26;0.0240147920048912;1;entrada_48.png
+imagem_02;images (1).jpeg;unrolling;2304;2;27;0.0241329999989829;0;entrada_48.png
+imagem_02;images (1).jpeg;baseline;2304;2;27;0.0284669579996261;1;entrada_48.png
+imagem_02;images (1).jpeg;baseline;2304;2;28;0.0267867079965071;0;entrada_48.png
+imagem_02;images (1).jpeg;unrolling;2304;2;28;0.0239498340015416;1;entrada_48.png
+imagem_02;images (1).jpeg;unrolling;2304;2;29;0.0241587499986053;0;entrada_48.png
+imagem_02;images (1).jpeg;baseline;2304;2;29;0.0268817500036675;1;entrada_48.png
+imagem_02;images (1).jpeg;baseline;2304;3;0;0.0486785840039374;0;entrada_48.png
+imagem_02;images (1).jpeg;unrolling;2304;3;0;0.0425504579980042;1;entrada_48.png
+imagem_02;images (1).jpeg;unrolling;2304;3;1;0.0425364580005407;0;entrada_48.png
+imagem_02;images (1).jpeg;baseline;2304;3;1;0.0472504999997909;1;entrada_48.png
+imagem_02;images (1).jpeg;baseline;2304;3;2;0.0472612919984385;0;entrada_48.png
+imagem_02;images (1).jpeg;unrolling;2304;3;2;0.0421856659959303;1;entrada_48.png
+imagem_02;images (1).jpeg;unrolling;2304;3;3;0.0422294579984736;0;entrada_48.png
+imagem_02;images (1).jpeg;baseline;2304;3;3;0.0465407500014407;1;entrada_48.png
+imagem_02;images (1).jpeg;baseline;2304;3;4;0.0466973750008037;0;entrada_48.png
+imagem_02;images (1).jpeg;unrolling;2304;3;4;0.0419187919978867;1;entrada_48.png
+imagem_02;images (1).jpeg;unrolling;2304;3;5;0.0576090000031399;0;entrada_48.png
+imagem_02;images (1).jpeg;baseline;2304;3;5;0.0470214579981984;1;entrada_48.png
+imagem_02;images (1).jpeg;baseline;2304;3;6;0.0467303330005961;0;entrada_48.png
+imagem_02;images (1).jpeg;unrolling;2304;3;6;0.0420277920056832;1;entrada_48.png
+imagem_02;images (1).jpeg;unrolling;2304;3;7;0.0418452500016428;0;entrada_48.png
+imagem_02;images (1).jpeg;baseline;2304;3;7;0.0470011249999515;1;entrada_48.png
+imagem_02;images (1).jpeg;baseline;2304;3;8;0.0466858749932725;0;entrada_48.png
+imagem_02;images (1).jpeg;unrolling;2304;3;8;0.0422255419980501;1;entrada_48.png
+imagem_02;images (1).jpeg;unrolling;2304;3;9;0.0421058329957304;0;entrada_48.png
+imagem_02;images (1).jpeg;baseline;2304;3;9;0.0471750829965458;1;entrada_48.png
+imagem_02;images (1).jpeg;baseline;2304;3;10;0.0466447920043719;0;entrada_48.png
+imagem_02;images (1).jpeg;unrolling;2304;3;10;0.058144667003944;1;entrada_48.png
+imagem_02;images (1).jpeg;unrolling;2304;3;11;0.0423832500018761;0;entrada_48.png
+imagem_02;images (1).jpeg;baseline;2304;3;11;0.0469580420030979;1;entrada_48.png
+imagem_02;images (1).jpeg;baseline;2304;3;12;0.0468032499993569;0;entrada_48.png
+imagem_02;images (1).jpeg;unrolling;2304;3;12;0.0420210000011138;1;entrada_48.png
+imagem_02;images (1).jpeg;unrolling;2304;3;13;0.0423686250069295;0;entrada_48.png
+imagem_02;images (1).jpeg;baseline;2304;3;13;0.0466769159975228;1;entrada_48.png
+imagem_02;images (1).jpeg;baseline;2304;3;14;0.0468530829966766;0;entrada_48.png
+imagem_02;images (1).jpeg;unrolling;2304;3;14;0.0422242079948773;1;entrada_48.png
+imagem_02;images (1).jpeg;unrolling;2304;3;15;0.0418384579970734;0;entrada_48.png
+imagem_02;images (1).jpeg;baseline;2304;3;15;0.0464899590006098;1;entrada_48.png
+imagem_02;images (1).jpeg;baseline;2304;3;16;0.0630635000052279;0;entrada_48.png
+imagem_02;images (1).jpeg;unrolling;2304;3;16;0.042224917000567;1;entrada_48.png
+imagem_02;images (1).jpeg;unrolling;2304;3;17;0.0420900419994723;0;entrada_48.png
+imagem_02;images (1).jpeg;baseline;2304;3;17;0.0462971660017501;1;entrada_48.png
+imagem_02;images (1).jpeg;baseline;2304;3;18;0.0470441249999566;0;entrada_48.png
+imagem_02;images (1).jpeg;unrolling;2304;3;18;0.0424319169978844;1;entrada_48.png
+imagem_02;images (1).jpeg;unrolling;2304;3;19;0.042203499993775;0;entrada_48.png
+imagem_02;images (1).jpeg;baseline;2304;3;19;0.047106124999118;1;entrada_48.png
+imagem_02;images (1).jpeg;baseline;2304;3;20;0.0470606669987319;0;entrada_48.png
+imagem_02;images (1).jpeg;unrolling;2304;3;20;0.0421934579935623;1;entrada_48.png
+imagem_02;images (1).jpeg;unrolling;2304;3;21;0.0422000830003526;0;entrada_48.png
+imagem_02;images (1).jpeg;baseline;2304;3;21;0.0467302499964716;1;entrada_48.png
+imagem_02;images (1).jpeg;baseline;2304;3;22;0.0625379999983124;0;entrada_48.png
+imagem_02;images (1).jpeg;unrolling;2304;3;22;0.0419857500019134;1;entrada_48.png
+imagem_02;images (1).jpeg;unrolling;2304;3;23;0.0420508750030421;0;entrada_48.png
+imagem_02;images (1).jpeg;baseline;2304;3;23;0.0466427079954883;1;entrada_48.png
+imagem_02;images (1).jpeg;baseline;2304;3;24;0.0467991250043269;0;entrada_48.png
+imagem_02;images (1).jpeg;unrolling;2304;3;24;0.042297583000618;1;entrada_48.png
+imagem_02;images (1).jpeg;unrolling;2304;3;25;0.0421134999996866;0;entrada_48.png
+imagem_02;images (1).jpeg;baseline;2304;3;25;0.0465652909988421;1;entrada_48.png
+imagem_02;images (1).jpeg;baseline;2304;3;26;0.046473791997414;0;entrada_48.png
+imagem_02;images (1).jpeg;unrolling;2304;3;26;0.0418487499991897;1;entrada_48.png
+imagem_02;images (1).jpeg;unrolling;2304;3;27;0.04208833300072;0;entrada_48.png
+imagem_02;images (1).jpeg;baseline;2304;3;27;0.0623900420032441;1;entrada_48.png
+imagem_02;images (1).jpeg;baseline;2304;3;28;0.0467835410017869;0;entrada_48.png
+imagem_02;images (1).jpeg;unrolling;2304;3;28;0.0421860839996952;1;entrada_48.png
+imagem_02;images (1).jpeg;unrolling;2304;3;29;0.0419807910002418;0;entrada_48.png
+imagem_02;images (1).jpeg;baseline;2304;3;29;0.0468392909970134;1;entrada_48.png
+imagem_02;images (1).jpeg;baseline;2304;4;0;0.1790262499998789;0;entrada_48.png
+imagem_02;images (1).jpeg;unrolling;2304;4;0;0.1475513330005924;1;entrada_48.png
+imagem_02;images (1).jpeg;unrolling;2304;4;1;0.1478870419960003;0;entrada_48.png
+imagem_02;images (1).jpeg;baseline;2304;4;1;0.1627317499951459;1;entrada_48.png
+imagem_02;images (1).jpeg;baseline;2304;4;2;0.162584917001368;0;entrada_48.png
+imagem_02;images (1).jpeg;unrolling;2304;4;2;0.1661244579954655;1;entrada_48.png
+imagem_02;images (1).jpeg;unrolling;2304;4;3;0.1481886249966919;0;entrada_48.png
+imagem_02;images (1).jpeg;baseline;2304;4;3;0.1635742920043412;1;entrada_48.png
+imagem_02;images (1).jpeg;baseline;2304;4;4;0.1626004999998258;0;entrada_48.png
+imagem_02;images (1).jpeg;unrolling;2304;4;4;0.1468214579945197;1;entrada_48.png
+imagem_02;images (1).jpeg;unrolling;2304;4;5;0.1637577500005136;0;entrada_48.png
+imagem_02;images (1).jpeg;baseline;2304;4;5;0.1633545830045477;1;entrada_48.png
+imagem_02;images (1).jpeg;baseline;2304;4;6;0.1629788339996594;0;entrada_48.png
+imagem_02;images (1).jpeg;unrolling;2304;4;6;0.1476677910031867;1;entrada_48.png
+imagem_02;images (1).jpeg;unrolling;2304;4;7;0.1636367910032277;0;entrada_48.png
+imagem_02;images (1).jpeg;baseline;2304;4;7;0.1630726670045987;1;entrada_48.png
+imagem_02;images (1).jpeg;baseline;2304;4;8;0.1763131249972502;0;entrada_48.png
+imagem_02;images (1).jpeg;unrolling;2304;4;8;0.1734413749945815;1;entrada_48.png
+imagem_02;images (1).jpeg;unrolling;2304;4;9;0.1481036249970202;0;entrada_48.png
+imagem_02;images (1).jpeg;baseline;2304;4;9;0.1808752080032718;1;entrada_48.png
+imagem_02;images (1).jpeg;baseline;2304;4;10;0.1633046250062761;0;entrada_48.png
+imagem_02;images (1).jpeg;unrolling;2304;4;10;0.14706287500303;1;entrada_48.png
+imagem_02;images (1).jpeg;unrolling;2304;4;11;0.1473494579986436;0;entrada_48.png
+imagem_02;images (1).jpeg;baseline;2304;4;11;0.1634581670004991;1;entrada_48.png
+imagem_02;images (1).jpeg;baseline;2304;4;12;0.1798866670069401;0;entrada_48.png
+imagem_02;images (1).jpeg;unrolling;2304;4;12;0.1479364170008921;1;entrada_48.png
+imagem_02;images (1).jpeg;unrolling;2304;4;13;0.1469745830036117;0;entrada_48.png
+imagem_02;images (1).jpeg;baseline;2304;4;13;0.1636671250016661;1;entrada_48.png
+imagem_02;images (1).jpeg;baseline;2304;4;14;0.1629900409971014;0;entrada_48.png
+imagem_02;images (1).jpeg;unrolling;2304;4;14;0.1654064579997793;1;entrada_48.png
+imagem_02;images (1).jpeg;unrolling;2304;4;15;0.1481922500024666;0;entrada_48.png
+imagem_02;images (1).jpeg;baseline;2304;4;15;0.1638382919991272;1;entrada_48.png
+imagem_02;images (1).jpeg;baseline;2304;4;16;0.1636375410016626;0;entrada_48.png
+imagem_02;images (1).jpeg;unrolling;2304;4;16;0.1636019590005162;1;entrada_48.png
+imagem_02;images (1).jpeg;unrolling;2304;4;17;0.1474381250009173;0;entrada_48.png
+imagem_02;images (1).jpeg;baseline;2304;4;17;0.1628997919979156;1;entrada_48.png
+imagem_02;images (1).jpeg;baseline;2304;4;18;0.1632154159960919;0;entrada_48.png
+imagem_02;images (1).jpeg;unrolling;2304;4;18;0.1474141250000684;1;entrada_48.png
+imagem_02;images (1).jpeg;unrolling;2304;4;19;0.1640135840061702;0;entrada_48.png
+imagem_02;images (1).jpeg;baseline;2304;4;19;0.1632893749992945;1;entrada_48.png
+imagem_02;images (1).jpeg;baseline;2304;4;20;0.1628354579952429;0;entrada_48.png
+imagem_02;images (1).jpeg;unrolling;2304;4;20;0.1476619160021073;1;entrada_48.png
+imagem_02;images (1).jpeg;unrolling;2304;4;21;0.1476541250012815;0;entrada_48.png
+imagem_02;images (1).jpeg;baseline;2304;4;21;0.179047083001933;1;entrada_48.png
+imagem_02;images (1).jpeg;baseline;2304;4;22;0.1643019160037511;0;entrada_48.png
+imagem_02;images (1).jpeg;unrolling;2304;4;22;0.1477230830059852;1;entrada_48.png
+imagem_02;images (1).jpeg;unrolling;2304;4;23;0.1472715830022934;0;entrada_48.png
+imagem_02;images (1).jpeg;baseline;2304;4;23;0.1621442090035998;1;entrada_48.png
+imagem_02;images (1).jpeg;baseline;2304;4;24;0.17863883300015;0;entrada_48.png
+imagem_02;images (1).jpeg;unrolling;2304;4;24;0.1480388330019195;1;entrada_48.png
+imagem_02;images (1).jpeg;unrolling;2304;4;25;0.1476724999956786;0;entrada_48.png
+imagem_02;images (1).jpeg;baseline;2304;4;25;0.1630934999993769;1;entrada_48.png
+imagem_02;images (1).jpeg;baseline;2304;4;26;0.1794782080032746;0;entrada_48.png
+imagem_02;images (1).jpeg;unrolling;2304;4;26;0.1480275409994647;1;entrada_48.png
+imagem_02;images (1).jpeg;unrolling;2304;4;27;0.1501849580017733;0;entrada_48.png
+imagem_02;images (1).jpeg;baseline;2304;4;27;0.1648601670021889;1;entrada_48.png
+imagem_02;images (1).jpeg;baseline;2304;4;28;0.1643379579982138;0;entrada_48.png
+imagem_02;images (1).jpeg;unrolling;2304;4;28;0.1649334999965503;1;entrada_48.png
+imagem_02;images (1).jpeg;unrolling;2304;4;29;0.1480774160008877;0;entrada_48.png
+imagem_02;images (1).jpeg;baseline;2304;4;29;0.1631039579951902;1;entrada_48.png
+imagem_02;images (1).jpeg;baseline;4096;2;0;0.0681570419983472;0;entrada_64.png
+imagem_02;images (1).jpeg;unrolling;4096;2;0;0.0465670420016977;1;entrada_64.png
+imagem_02;images (1).jpeg;unrolling;4096;2;1;0.0470365829969523;0;entrada_64.png
+imagem_02;images (1).jpeg;baseline;4096;2;1;0.0513450839935103;1;entrada_64.png
+imagem_02;images (1).jpeg;baseline;4096;2;2;0.0516622079958324;0;entrada_64.png
+imagem_02;images (1).jpeg;unrolling;4096;2;2;0.0466789999991306;1;entrada_64.png
+imagem_02;images (1).jpeg;unrolling;4096;2;3;0.0625244579932768;0;entrada_64.png
+imagem_02;images (1).jpeg;baseline;4096;2;3;0.0517382499965606;1;entrada_64.png
+imagem_02;images (1).jpeg;baseline;4096;2;4;0.0519604159999289;0;entrada_64.png
+imagem_02;images (1).jpeg;unrolling;4096;2;4;0.0466326669993577;1;entrada_64.png
+imagem_02;images (1).jpeg;unrolling;4096;2;5;0.0467240419966401;0;entrada_64.png
+imagem_02;images (1).jpeg;baseline;4096;2;5;0.0672987080033635;1;entrada_64.png
+imagem_02;images (1).jpeg;baseline;4096;2;6;0.0516936249987338;0;entrada_64.png
+imagem_02;images (1).jpeg;unrolling;4096;2;6;0.0466177499984041;1;entrada_64.png
+imagem_02;images (1).jpeg;unrolling;4096;2;7;0.0465520829966408;0;entrada_64.png
+imagem_02;images (1).jpeg;baseline;4096;2;7;0.0516301660027238;1;entrada_64.png
+imagem_02;images (1).jpeg;baseline;4096;2;8;0.051731915998971;0;entrada_64.png
+imagem_02;images (1).jpeg;unrolling;4096;2;8;0.0618137090059462;1;entrada_64.png
+imagem_02;images (1).jpeg;unrolling;4096;2;9;0.0472227919963188;0;entrada_64.png
+imagem_02;images (1).jpeg;baseline;4096;2;9;0.052314959000796;1;entrada_64.png
+imagem_02;images (1).jpeg;baseline;4096;2;10;0.0518915000066044;0;entrada_64.png
+imagem_02;images (1).jpeg;unrolling;4096;2;10;0.0469570419954834;1;entrada_64.png
+imagem_02;images (1).jpeg;unrolling;4096;2;11;0.0628362499992363;0;entrada_64.png
+imagem_02;images (1).jpeg;baseline;4096;2;11;0.0517303329979768;1;entrada_64.png
+imagem_02;images (1).jpeg;baseline;4096;2;12;0.0519713750036316;0;entrada_64.png
+imagem_02;images (1).jpeg;unrolling;4096;2;12;0.0466295410005841;1;entrada_64.png
+imagem_02;images (1).jpeg;unrolling;4096;2;13;0.0464382089994614;0;entrada_64.png
+imagem_02;images (1).jpeg;baseline;4096;2;13;0.0520602500037057;1;entrada_64.png
+imagem_02;images (1).jpeg;baseline;4096;2;14;0.0681151250028051;0;entrada_64.png
+imagem_02;images (1).jpeg;unrolling;4096;2;14;0.0467308750012307;1;entrada_64.png
+imagem_02;images (1).jpeg;unrolling;4096;2;15;0.04659495800297;0;entrada_64.png
+imagem_02;images (1).jpeg;baseline;4096;2;15;0.0518432079988997;1;entrada_64.png
+imagem_02;images (1).jpeg;baseline;4096;2;16;0.0518315419976715;0;entrada_64.png
+imagem_02;images (1).jpeg;unrolling;4096;2;16;0.0468881250053527;1;entrada_64.png
+imagem_02;images (1).jpeg;unrolling;4096;2;17;0.0615989580037421;0;entrada_64.png
+imagem_02;images (1).jpeg;baseline;4096;2;17;0.0513124999997671;1;entrada_64.png
+imagem_02;images (1).jpeg;baseline;4096;2;18;0.0511932910012546;0;entrada_64.png
+imagem_02;images (1).jpeg;unrolling;4096;2;18;0.046479583994369;1;entrada_64.png
+imagem_02;images (1).jpeg;unrolling;4096;2;19;0.0465907089965185;0;entrada_64.png
+imagem_02;images (1).jpeg;baseline;4096;2;19;0.0675162499974249;1;entrada_64.png
+imagem_02;images (1).jpeg;baseline;4096;2;20;0.0518867079954361;0;entrada_64.png
+imagem_02;images (1).jpeg;unrolling;4096;2;20;0.0464800840054522;1;entrada_64.png
+imagem_02;images (1).jpeg;unrolling;4096;2;21;0.0462407079976401;0;entrada_64.png
+imagem_02;images (1).jpeg;baseline;4096;2;21;0.0519887080008629;1;entrada_64.png
+imagem_02;images (1).jpeg;baseline;4096;2;22;0.0517645830041146;0;entrada_64.png
+imagem_02;images (1).jpeg;unrolling;4096;2;22;0.0621312499933992;1;entrada_64.png
+imagem_02;images (1).jpeg;unrolling;4096;2;23;0.0470064580003963;0;entrada_64.png
+imagem_02;images (1).jpeg;baseline;4096;2;23;0.0519774169952143;1;entrada_64.png
+imagem_02;images (1).jpeg;baseline;4096;2;24;0.0518046659999527;0;entrada_64.png
+imagem_02;images (1).jpeg;unrolling;4096;2;24;0.0466379160061478;1;entrada_64.png
+imagem_02;images (1).jpeg;unrolling;4096;2;25;0.0622258750008768;0;entrada_64.png
+imagem_02;images (1).jpeg;baseline;4096;2;25;0.051700999996683;1;entrada_64.png
+imagem_02;images (1).jpeg;baseline;4096;2;26;0.0515658329968573;0;entrada_64.png
+imagem_02;images (1).jpeg;unrolling;4096;2;26;0.0467594159999862;1;entrada_64.png
+imagem_02;images (1).jpeg;unrolling;4096;2;27;0.0468144170008599;0;entrada_64.png
+imagem_02;images (1).jpeg;baseline;4096;2;27;0.0515870419985731;1;entrada_64.png
+imagem_02;images (1).jpeg;baseline;4096;2;28;0.0670989579957677;0;entrada_64.png
+imagem_02;images (1).jpeg;unrolling;4096;2;28;0.0465767499990761;1;entrada_64.png
+imagem_02;images (1).jpeg;unrolling;4096;2;29;0.0467459999999846;0;entrada_64.png
+imagem_02;images (1).jpeg;baseline;4096;2;29;0.0517307499976595;1;entrada_64.png
+imagem_02;images (1).jpeg;baseline;4096;3;0;0.1052568750019418;0;entrada_64.png
+imagem_02;images (1).jpeg;unrolling;4096;3;0;0.094831125003111;1;entrada_64.png
+imagem_02;images (1).jpeg;unrolling;4096;3;1;0.0947499169997172;0;entrada_64.png
+imagem_02;images (1).jpeg;baseline;4096;3;1;0.1208235419981065;1;entrada_64.png
+imagem_02;images (1).jpeg;baseline;4096;3;2;0.1043175420054467;0;entrada_64.png
+imagem_02;images (1).jpeg;unrolling;4096;3;2;0.0943156249995809;1;entrada_64.png
+imagem_02;images (1).jpeg;unrolling;4096;3;3;0.0942920829984359;0;entrada_64.png
+imagem_02;images (1).jpeg;baseline;4096;3;3;0.1052796669973759;1;entrada_64.png
+imagem_02;images (1).jpeg;baseline;4096;3;4;0.12059862499882;0;entrada_64.png
+imagem_02;images (1).jpeg;unrolling;4096;3;4;0.0945123749988852;1;entrada_64.png
+imagem_02;images (1).jpeg;unrolling;4096;3;5;0.0948310829990077;0;entrada_64.png
+imagem_02;images (1).jpeg;baseline;4096;3;5;0.1045719160028966;1;entrada_64.png
+imagem_02;images (1).jpeg;baseline;4096;3;6;0.1206689579994417;0;entrada_64.png
+imagem_02;images (1).jpeg;unrolling;4096;3;6;0.0950032499968074;1;entrada_64.png
+imagem_02;images (1).jpeg;unrolling;4096;3;7;0.0942594580046716;0;entrada_64.png
+imagem_02;images (1).jpeg;baseline;4096;3;7;0.1044054160011001;1;entrada_64.png
+imagem_02;images (1).jpeg;baseline;4096;3;8;0.1042694999996456;0;entrada_64.png
+imagem_02;images (1).jpeg;unrolling;4096;3;8;0.1101007079996634;1;entrada_64.png
+imagem_02;images (1).jpeg;unrolling;4096;3;9;0.0940461249992949;0;entrada_64.png
+imagem_02;images (1).jpeg;baseline;4096;3;9;0.1042906250004307;1;entrada_64.png
+imagem_02;images (1).jpeg;baseline;4096;3;10;0.1044182499972521;0;entrada_64.png
+imagem_02;images (1).jpeg;unrolling;4096;3;10;0.1109961250040214;1;entrada_64.png
+imagem_02;images (1).jpeg;unrolling;4096;3;11;0.0947154579989728;0;entrada_64.png
+imagem_02;images (1).jpeg;baseline;4096;3;11;0.1049407079990487;1;entrada_64.png
+imagem_02;images (1).jpeg;baseline;4096;3;12;0.1045649589941604;0;entrada_64.png
+imagem_02;images (1).jpeg;unrolling;4096;3;12;0.1108386249979958;1;entrada_64.png
+imagem_02;images (1).jpeg;unrolling;4096;3;13;0.0950276250005117;0;entrada_64.png
+imagem_02;images (1).jpeg;baseline;4096;3;13;0.1043883329984964;1;entrada_64.png
+imagem_02;images (1).jpeg;baseline;4096;3;14;0.1042230410021147;0;entrada_64.png
+imagem_02;images (1).jpeg;unrolling;4096;3;14;0.0949313750024885;1;entrada_64.png
+imagem_02;images (1).jpeg;unrolling;4096;3;15;0.1107611659972462;0;entrada_64.png
+imagem_02;images (1).jpeg;baseline;4096;3;15;0.1066415000022971;1;entrada_64.png
+imagem_02;images (1).jpeg;baseline;4096;3;16;0.1049361250043148;0;entrada_64.png
+imagem_02;images (1).jpeg;unrolling;4096;3;16;0.0943048330009332;1;entrada_64.png
+imagem_02;images (1).jpeg;unrolling;4096;3;17;0.1111136670006089;0;entrada_64.png
+imagem_02;images (1).jpeg;baseline;4096;3;17;0.1072384170038276;1;entrada_64.png
+imagem_02;images (1).jpeg;baseline;4096;3;18;0.1060644160024821;0;entrada_64.png
+imagem_02;images (1).jpeg;unrolling;4096;3;18;0.0948812080023344;1;entrada_64.png
+imagem_02;images (1).jpeg;unrolling;4096;3;19;0.095321499997226;0;entrada_64.png
+imagem_02;images (1).jpeg;baseline;4096;3;19;0.1226505420054309;1;entrada_64.png
+imagem_02;images (1).jpeg;baseline;4096;3;20;0.1050589160004165;0;entrada_64.png
+imagem_02;images (1).jpeg;unrolling;4096;3;20;0.0948125419963616;1;entrada_64.png
+imagem_02;images (1).jpeg;unrolling;4096;3;21;0.0944642499962356;0;entrada_64.png
+imagem_02;images (1).jpeg;baseline;4096;3;21;0.1211353750040871;1;entrada_64.png
+imagem_02;images (1).jpeg;baseline;4096;3;22;0.1052640420020907;0;entrada_64.png
+imagem_02;images (1).jpeg;unrolling;4096;3;22;0.0953903330009779;1;entrada_64.png
+imagem_02;images (1).jpeg;unrolling;4096;3;23;0.0949385830026585;0;entrada_64.png
+imagem_02;images (1).jpeg;baseline;4096;3;23;0.1051323749998118;1;entrada_64.png
+imagem_02;images (1).jpeg;baseline;4096;3;24;0.1213736659992719;0;entrada_64.png
+imagem_02;images (1).jpeg;unrolling;4096;3;24;0.0946048749974579;1;entrada_64.png
+imagem_02;images (1).jpeg;unrolling;4096;3;25;0.0946522500016726;0;entrada_64.png
+imagem_02;images (1).jpeg;baseline;4096;3;25;0.1043599580007139;1;entrada_64.png
+imagem_02;images (1).jpeg;baseline;4096;3;26;0.1217148750001797;0;entrada_64.png
+imagem_02;images (1).jpeg;unrolling;4096;3;26;0.0948075000051176;1;entrada_64.png
+imagem_02;images (1).jpeg;unrolling;4096;3;27;0.0952223329950356;0;entrada_64.png
+imagem_02;images (1).jpeg;baseline;4096;3;27;0.1054008749997592;1;entrada_64.png
+imagem_02;images (1).jpeg;baseline;4096;3;28;0.1054293750057695;0;entrada_64.png
+imagem_02;images (1).jpeg;unrolling;4096;3;28;0.1102986249970854;1;entrada_64.png
+imagem_02;images (1).jpeg;unrolling;4096;3;29;0.0946678330001304;0;entrada_64.png
+imagem_02;images (1).jpeg;baseline;4096;3;29;0.1044053750010789;1;entrada_64.png
+imagem_02;images (1).jpeg;baseline;4096;4;0;0.2129910000003292;0;entrada_64.png
+imagem_02;images (1).jpeg;unrolling;4096;4;0;0.1939594170034979;1;entrada_64.png
+imagem_02;images (1).jpeg;unrolling;4096;4;1;0.2103551670006709;0;entrada_64.png
+imagem_02;images (1).jpeg;baseline;4096;4;1;0.2130200419996981;1;entrada_64.png
+imagem_02;images (1).jpeg;baseline;4096;4;2;0.2132364579956629;0;entrada_64.png
+imagem_02;images (1).jpeg;unrolling;4096;4;2;0.2118302500020945;1;entrada_64.png
+imagem_02;images (1).jpeg;unrolling;4096;4;3;0.1952301249984884;0;entrada_64.png
+imagem_02;images (1).jpeg;baseline;4096;4;3;0.2133539159985957;1;entrada_64.png
+imagem_02;images (1).jpeg;baseline;4096;4;4;0.229659584001638;0;entrada_64.png
+imagem_02;images (1).jpeg;unrolling;4096;4;4;0.1946409169977414;1;entrada_64.png
+imagem_02;images (1).jpeg;unrolling;4096;4;5;0.1943635409988928;0;entrada_64.png
+imagem_02;images (1).jpeg;baseline;4096;4;5;0.2297023339997395;1;entrada_64.png
+imagem_02;images (1).jpeg;baseline;4096;4;6;0.2133499589981511;0;entrada_64.png
+imagem_02;images (1).jpeg;unrolling;4096;4;6;0.1945004170047468;1;entrada_64.png
+imagem_02;images (1).jpeg;unrolling;4096;4;7;0.2116274169966345;0;entrada_64.png
+imagem_02;images (1).jpeg;baseline;4096;4;7;0.2144287920018541;1;entrada_64.png
+imagem_02;images (1).jpeg;baseline;4096;4;8;0.237516000001051;0;entrada_64.png
+imagem_02;images (1).jpeg;unrolling;4096;4;8;0.1936910840013297;1;entrada_64.png
+imagem_02;images (1).jpeg;unrolling;4096;4;9;0.2113345830002799;0;entrada_64.png
+imagem_02;images (1).jpeg;baseline;4096;4;9;0.2137128750036936;1;entrada_64.png
+imagem_02;images (1).jpeg;baseline;4096;4;10;0.2130421249967184;0;entrada_64.png
+imagem_02;images (1).jpeg;unrolling;4096;4;10;0.2111098330060485;1;entrada_64.png
+imagem_02;images (1).jpeg;unrolling;4096;4;11;0.1947164159937529;0;entrada_64.png
+imagem_02;images (1).jpeg;baseline;4096;4;11;0.2143477089994121;1;entrada_64.png
+imagem_02;images (1).jpeg;baseline;4096;4;12;0.2313642919980338;0;entrada_64.png
+imagem_02;images (1).jpeg;unrolling;4096;4;12;0.1956150409969268;1;entrada_64.png
+imagem_02;images (1).jpeg;unrolling;4096;4;13;0.194496791002166;0;entrada_64.png
+imagem_02;images (1).jpeg;baseline;4096;4;13;0.2294637910017627;1;entrada_64.png
+imagem_02;images (1).jpeg;baseline;4096;4;14;0.2126532499969471;0;entrada_64.png
+imagem_02;images (1).jpeg;unrolling;4096;4;14;0.1953070829986245;1;entrada_64.png
+imagem_02;images (1).jpeg;unrolling;4096;4;15;0.2112205829980666;0;entrada_64.png
+imagem_02;images (1).jpeg;baseline;4096;4;15;0.2133340410000528;1;entrada_64.png
+imagem_02;images (1).jpeg;baseline;4096;4;16;0.2137401250001858;0;entrada_64.png
+imagem_02;images (1).jpeg;unrolling;4096;4;16;0.2108422500023152;1;entrada_64.png
+imagem_02;images (1).jpeg;unrolling;4096;4;17;0.1945667500040144;0;entrada_64.png
+imagem_02;images (1).jpeg;baseline;4096;4;17;0.2137234159963554;1;entrada_64.png
+imagem_02;images (1).jpeg;baseline;4096;4;18;0.2136554579992662;0;entrada_64.png
+imagem_02;images (1).jpeg;unrolling;4096;4;18;0.2103093330006231;1;entrada_64.png
+imagem_02;images (1).jpeg;unrolling;4096;4;19;0.1955071249976754;0;entrada_64.png
+imagem_02;images (1).jpeg;baseline;4096;4;19;0.2129997500014724;1;entrada_64.png
+imagem_02;images (1).jpeg;baseline;4096;4;20;0.230869499995606;0;entrada_64.png
+imagem_02;images (1).jpeg;unrolling;4096;4;20;0.1944205410036374;1;entrada_64.png
+imagem_02;images (1).jpeg;unrolling;4096;4;21;0.1946164580003824;0;entrada_64.png
+imagem_02;images (1).jpeg;baseline;4096;4;21;0.2315534580047824;1;entrada_64.png
+imagem_02;images (1).jpeg;baseline;4096;4;22;0.2148479590032366;0;entrada_64.png
+imagem_02;images (1).jpeg;unrolling;4096;4;22;0.1941975410009035;1;entrada_64.png
+imagem_02;images (1).jpeg;unrolling;4096;4;23;0.2104215409999597;0;entrada_64.png
+imagem_02;images (1).jpeg;baseline;4096;4;23;0.2152626250026514;1;entrada_64.png
+imagem_02;images (1).jpeg;baseline;4096;4;24;0.214687125000637;0;entrada_64.png
+imagem_02;images (1).jpeg;unrolling;4096;4;24;0.2120200830031535;1;entrada_64.png
+imagem_02;images (1).jpeg;unrolling;4096;4;25;0.1950861669974983;0;entrada_64.png
+imagem_02;images (1).jpeg;baseline;4096;4;25;0.2137113330027205;1;entrada_64.png
+imagem_02;images (1).jpeg;baseline;4096;4;26;0.2299018329940736;0;entrada_64.png
+imagem_02;images (1).jpeg;unrolling;4096;4;26;0.194076584004506;1;entrada_64.png
+imagem_02;images (1).jpeg;unrolling;4096;4;27;0.1948145420028595;0;entrada_64.png
+imagem_02;images (1).jpeg;baseline;4096;4;27;0.2131655830016825;1;entrada_64.png
+imagem_02;images (1).jpeg;baseline;4096;4;28;0.2297554999968269;0;entrada_64.png
+imagem_02;images (1).jpeg;unrolling;4096;4;28;0.1944171249997452;1;entrada_64.png
+imagem_02;images (1).jpeg;unrolling;4096;4;29;0.1941114159999415;0;entrada_64.png
+imagem_02;images (1).jpeg;baseline;4096;4;29;0.2441725829994538;1;entrada_64.png

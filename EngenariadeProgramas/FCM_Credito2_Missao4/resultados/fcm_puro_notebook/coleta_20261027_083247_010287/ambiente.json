@@ -1,0 +1,64 @@
+{
+  "data_inicio": "2026-10-27T08:32:47.013477-03:00",
+  "tipo": "coleta",
+  "algoritmo": "FCM Puro oficial, sem unrolling",
+  "python": "3.14.7 (main, Aug  5 2026, 10:29:49) [Clang 21.0.0 (clang-2100.1.1.101)]",
+  "executavel": "/Users/_rssantana/Developer/UniSolves/EngenariadeProgramas/.venv/bin/python",
+  "sistema": "macOS-27.0.1-arm64-arm-64bit-Mach-O",
+  "maquina": "arm64",
+  "energia": "não aferido",
+  "R": 30,
+  "K": [
+    2,
+    3,
+    4
+  ],
+  "lados": [
+    16,
+    24,
+    32,
+    48,
+    64
+  ],
+  "seed": 42,
+  "m": 2.0,
+  "epsilon": 0.01,
+  "max_iter": 100,
+  "fontes": [
+    {
+      "id": "imagem_01",
+      "arquivo": "images.jpeg",
+      "sha256": "13956e01d4406580a4d30faa2f93a7b9fa004236a095ba365d38444fc90c6514"
+    },
+    {
+      "id": "imagem_02",
+      "arquivo": "images (1).jpeg",
+      "sha256": "3b09048ed856f31ccf815d0160c14492eeec923e80f71a315b487bf95c2b6b33"
+    },
+    {
+      "id": "imagem_03",
+      "arquivo": "images (2).jpeg",
+      "sha256": "504071972d8f9c62fea328f86213e48f4d59aad993094e8ed77d6b551619c25d"
+    }
+  ],
+  "baseline_sha256": "c01d3da310f7f3f3757479718dddd227460ad474099d7ca9b88a274b1fe35060",
+  "gc_automatico": true,
+  "gc_limiares": [
+    2000,
+    10,
+    10
+  ],
+  "preparo": "liberar C/U anteriores; gc.collect() e random.seed(42) antes de t0; aquecimento por caso",
+  "conversao": "RGB, LANCZOS, AoS de floats fora do timer",
+  "timer": "perf_counter envolvendo segmenta_imagem(X,k), chamada FCM completa",
+  "dependencias": {
+    "numpy": "2.5.4",
+    "scipy": "1.18.1",
+    "pandas": "3.0.6",
+    "matplotlib": "3.11.2",
+    "Pillow": "12.3.0",
+    "ipykernel": "7.4.0"
+  },
+  "data_fim_coleta": "2026-10-27T08:34:31.645375-03:00",
+  "chamadas_medidas": 1350
+}

@@ -1,0 +1,29 @@
+{
+  "coeficientes": {
+    "alpha": 2.2859936905832632e-05,
+    "beta": -3.563045756393477e-05,
+    "gamma": -0.0025577909282055466,
+    "delta": 0.002953903419502057
+  },
+  "r2": 0.9370904133804824,
+  "posto": 4,
+  "condicao": 43438.18792106417,
+  "n_min": 256,
+  "n_max": 4096,
+  "todas_homologadas": true,
+  "avisos": [
+    "Ajuste descritivo na malha local; I varia com conteudo e K; nao extrapolar.",
+    "Nao mede diretamente I-Cache ou pipeline; nenhuma causalidade microarquitetural demonstrada."
+  ],
+  "diagnostico_nk2": {
+    "coeficientes": [
+      9.937792874990039e-06,
+      -3.676681992713459e-05,
+      4.718448176678006e-05,
+      -0.0025577918188163374,
+      0.002953906144359641
+    ],
+    "posto": 5,
+    "r2": 0.963501962331085
+  }
+}

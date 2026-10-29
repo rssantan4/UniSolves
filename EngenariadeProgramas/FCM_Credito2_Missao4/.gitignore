@@ -1,0 +1,53 @@
+# Ambiente Python, editor e caches locais.
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+.vscode/
+
+# Compilação e pacotes gerados. O PDF final do relatório é versionado.
+*.log
+relatorio/*.aux
+relatorio/*.out
+relatorio/*.toc
+relatorio/*.synctex.gz
+relatorio/*.fdb_latexmk
+relatorio/*.fls
+/*.zip
+/historico/
+/manifesto_sha256.json
+
+# Guias locais: o README principal contém as instruções públicas.
+/LEIA_ME_FCM_PURO.md
+/apresentacao/ROTEIRO_TECNICO.md
+/apresentacao/saida_demo/
+
+# Referências locais do professor; manter as duas cópias usadas pelos testes.
+/originais/*
+!/originais/FCM_PURO.py
+!/originais/fcm_puro_transcrito_pdf.py
+
+# Auditorias, logs, dumps e diffs de integração são locais.
+# As listas de imagens são dependências do coletor/notebook, não debug.
+/documentacao/*
+!/documentacao/imagens_autorizadas.json
+!/documentacao/diff_baseline_variante.patch
+!/documentacao/fcm_puro_notebook/
+/documentacao/fcm_puro_notebook/*
+!/documentacao/fcm_puro_notebook/imagens_autorizadas.json
+
+# Versionar as duas coletas usadas no relatório. Novas tentativas ficam locais
+# até serem revisadas; não aplicar uma regra genérica que exclua CSVs ou JSONs.
+/resultados/*
+!/resultados/coleta_duas_imagens_R30/
+!/resultados/fcm_puro_notebook/
+/resultados/fcm_puro_notebook/*
+!/resultados/fcm_puro_notebook/coleta_20261027_083247_010287/
+
+# Visualizações auxiliares reproduzíveis. Gráficos 2D/3D/comparação,
+# medições, estatísticas, parâmetros e metadados permanecem versionados.
+/resultados/**/entrada_*.png
+/resultados/**/visual_*/
+/resultados/**/n*_k*_comparacao.png
+/resultados/**/residuos.png

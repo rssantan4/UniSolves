@@ -1,0 +1,12 @@
+{
+  "modelo": "alpha*n*K + beta*n + gamma*K + delta",
+  "coeficientes": {
+    "alpha": 2.0833888062984534e-05,
+    "beta": -3.708961739397107e-05,
+    "gamma": -0.0008049007667271974,
+    "delta": 0.001198594032217594
+  },
+  "r2": 0.9485468845125369,
+  "todas_homologadas": true,
+  "ressalva": "Ajuste local; nao prova O(nK). O codigo contem O(I*n*K²)."
+}

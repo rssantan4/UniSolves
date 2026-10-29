@@ -1,0 +1,29 @@
+{
+  "imagens": [
+    {
+      "id": "imagem_01",
+      "arquivo": "images.jpeg",
+      "sha256": "13956e01d4406580a4d30faa2f93a7b9fa004236a095ba365d38444fc90c6514"
+    },
+    {
+      "id": "imagem_02",
+      "arquivo": "images (1).jpeg",
+      "sha256": "3b09048ed856f31ccf815d0160c14492eeec923e80f71a315b487bf95c2b6b33"
+    }
+  ],
+  "modo": "coleta",
+  "R": 30,
+  "lados": [
+    16,
+    24,
+    32,
+    48,
+    64
+  ],
+  "agrupamento": [
+    "imagem_id",
+    "variante",
+    "n",
+    "k"
+  ]
+}

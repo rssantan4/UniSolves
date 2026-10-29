@@ -1,0 +1,14 @@
+[
+  {
+    "id": "imagem_01",
+    "arquivo": "images.jpeg",
+    "origem": "/Users/_rssantana/Developer/UniSolves/EngenariadeProgramas/ExperimentoImagens/minhas_imagens/images.jpeg",
+    "sha256": "13956e01d4406580a4d30faa2f93a7b9fa004236a095ba365d38444fc90c6514"
+  },
+  {
+    "id": "imagem_02",
+    "arquivo": "images (1).jpeg",
+    "origem": "/Users/_rssantana/Developer/UniSolves/EngenariadeProgramas/ExperimentoImagens/minhas_imagens/images (1).jpeg",
+    "sha256": "3b09048ed856f31ccf815d0160c14492eeec923e80f71a315b487bf95c2b6b33"
+  }
+]

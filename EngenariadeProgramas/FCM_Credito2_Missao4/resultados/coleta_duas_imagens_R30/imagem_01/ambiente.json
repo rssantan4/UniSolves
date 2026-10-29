@@ -1,0 +1,48 @@
+{
+  "data_inicio": "2026-10-26T22:59:08.337497-03:00",
+  "modo": "coleta",
+  "R": 30,
+  "seed": 42,
+  "parametros": {
+    "m": 2.0,
+    "max_iter": 100,
+    "epsilon": 0.01
+  },
+  "lados": [
+    16,
+    24,
+    32,
+    48,
+    64
+  ],
+  "K": [
+    2,
+    3,
+    4
+  ],
+  "maquina": "arm64",
+  "sistema": "macOS-27.0.1-arm64-arm-64bit-Mach-O",
+  "python": "3.14.7 (main, Aug  5 2026, 10:29:49) [Clang 21.0.0 (clang-2100.1.1.101)]",
+  "hardware": "Apple M4",
+  "memoria_bytes": "17179869184",
+  "energia": "nao aferido",
+  "implementacao": "CPython",
+  "dependencias": {
+    "numpy": "2.5.4",
+    "scipy": "1.18.1",
+    "pandas": "3.0.6",
+    "matplotlib": "3.11.2",
+    "Pillow": "12.3.0"
+  },
+  "imagem_sha256": "13956e01d4406580a4d30faa2f93a7b9fa004236a095ba365d38444fc90c6514",
+  "imagem": "images.jpeg",
+  "redimensionamento": "RGB Pillow Resampling.LANCZOS para quadrados",
+  "fontes_sha256": {
+    "fcm_unrolling.py": "26707d831d01006d46e6f31299f06040bbbea77c8a7caa6221c229e364d22d6f",
+    "fcm_baseline.py": "c01d3da310f7f3f3757479718dddd227460ad474099d7ca9b88a274b1fe35060"
+  },
+  "ordem": "baseline/unrolling alternados por repeticao; aquecimento 1 por caso e versao",
+  "gc": "padrao CPython; nao desativado",
+  "timer": "perf_counter, chamada FCM completa; semente fora do timer",
+  "data_fim": "2026-10-26T23:00:08.037597-03:00"
+}

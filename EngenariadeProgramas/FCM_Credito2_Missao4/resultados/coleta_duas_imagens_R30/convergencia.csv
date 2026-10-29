@@ -1,0 +1,61 @@
+imagem_id;imagem_fonte;variante;n;k;I;delta_final;convergiu
+imagem_01;images.jpeg;baseline;256;2;13;0.0078397201241615;True
+imagem_01;images.jpeg;unrolling;256;2;13;0.0078397201241615;True
+imagem_01;images.jpeg;baseline;256;3;15;0.0076490225479401;True
+imagem_01;images.jpeg;unrolling;256;3;15;0.0076490225479401;True
+imagem_01;images.jpeg;baseline;256;4;13;0.0076382938883349;True
+imagem_01;images.jpeg;unrolling;256;4;13;0.0076382938883349;True
+imagem_01;images.jpeg;baseline;576;2;11;0.0062162300379751;True
+imagem_01;images.jpeg;unrolling;576;2;11;0.0062162300379751;True
+imagem_01;images.jpeg;baseline;576;3;15;0.0074658666476543;True
+imagem_01;images.jpeg;unrolling;576;3;15;0.0074658666476543;True
+imagem_01;images.jpeg;baseline;576;4;22;0.0099587999940771;True
+imagem_01;images.jpeg;unrolling;576;4;22;0.0099587999940771;True
+imagem_01;images.jpeg;baseline;1024;2;11;0.0058843902895652;True
+imagem_01;images.jpeg;unrolling;1024;2;11;0.0058843902895652;True
+imagem_01;images.jpeg;baseline;1024;3;12;0.0080261142515332;True
+imagem_01;images.jpeg;unrolling;1024;3;12;0.0080261142515332;True
+imagem_01;images.jpeg;baseline;1024;4;24;0.0090897339890161;True
+imagem_01;images.jpeg;unrolling;1024;4;24;0.0090897339890161;True
+imagem_01;images.jpeg;baseline;2304;2;10;0.0099599444056717;True
+imagem_01;images.jpeg;unrolling;2304;2;10;0.0099599444056717;True
+imagem_01;images.jpeg;baseline;2304;3;14;0.0084817362379707;True
+imagem_01;images.jpeg;unrolling;2304;3;14;0.0084817362379707;True
+imagem_01;images.jpeg;baseline;2304;4;18;0.0086065535460165;True
+imagem_01;images.jpeg;unrolling;2304;4;18;0.0086065535460165;True
+imagem_01;images.jpeg;baseline;4096;2;11;0.0065008218940464;True
+imagem_01;images.jpeg;unrolling;4096;2;11;0.0065008218940464;True
+imagem_01;images.jpeg;baseline;4096;3;17;0.0099162977587982;True
+imagem_01;images.jpeg;unrolling;4096;3;17;0.0099162977587982;True
+imagem_01;images.jpeg;baseline;4096;4;25;0.0098480657194386;True
+imagem_01;images.jpeg;unrolling;4096;4;25;0.0098480657194386;True
+imagem_02;images (1).jpeg;baseline;256;2;8;0.0056782567894697;True
+imagem_02;images (1).jpeg;unrolling;256;2;8;0.0056782567894697;True
+imagem_02;images (1).jpeg;baseline;256;3;9;0.0084490185711362;True
+imagem_02;images (1).jpeg;unrolling;256;3;9;0.0084490185711362;True
+imagem_02;images (1).jpeg;baseline;256;4;19;0.0093706601412853;True
+imagem_02;images (1).jpeg;unrolling;256;4;19;0.0093706601412853;True
+imagem_02;images (1).jpeg;baseline;576;2;9;0.0047874127728738;True
+imagem_02;images (1).jpeg;unrolling;576;2;9;0.0047874127728738;True
+imagem_02;images (1).jpeg;baseline;576;3;12;0.0084614358481845;True
+imagem_02;images (1).jpeg;unrolling;576;3;12;0.0084614358481845;True
+imagem_02;images (1).jpeg;baseline;576;4;11;0.0097064496405827;True
+imagem_02;images (1).jpeg;unrolling;576;4;11;0.0097064496405827;True
+imagem_02;images (1).jpeg;baseline;1024;2;10;0.0058938246727104;True
+imagem_02;images (1).jpeg;unrolling;1024;2;10;0.0058938246727104;True
+imagem_02;images (1).jpeg;baseline;1024;3;10;0.0061676711144792;True
+imagem_02;images (1).jpeg;unrolling;1024;3;10;0.0061676711144792;True
+imagem_02;images (1).jpeg;baseline;1024;4;14;0.0093041957498646;True
+imagem_02;images (1).jpeg;unrolling;1024;4;14;0.0093041957498646;True
+imagem_02;images (1).jpeg;baseline;2304;2;10;0.0079087884457177;True
+imagem_02;images (1).jpeg;unrolling;2304;2;10;0.0079087884457177;True
+imagem_02;images (1).jpeg;baseline;2304;3;11;0.0073035371007234;True
+imagem_02;images (1).jpeg;unrolling;2304;3;11;0.0073035371007234;True
+imagem_02;images (1).jpeg;baseline;2304;4;27;0.0094153063028732;True
+imagem_02;images (1).jpeg;unrolling;2304;4;27;0.0094153063028732;True
+imagem_02;images (1).jpeg;baseline;4096;2;11;0.0075784853962596;True
+imagem_02;images (1).jpeg;unrolling;4096;2;11;0.0075784853962596;True
+imagem_02;images (1).jpeg;baseline;4096;3;14;0.0079296087247696;True
+imagem_02;images (1).jpeg;unrolling;4096;3;14;0.0079296087247696;True
+imagem_02;images (1).jpeg;baseline;4096;4;20;0.0092864989870363;True
+imagem_02;images (1).jpeg;unrolling;4096;4;20;0.0092864989870363;True

@@ -1,0 +1,10 @@
+{
+  "algoritmo": "FCM Puro sem unrolling",
+  "R": 30,
+  "limite_CV_estrito": 0.15,
+  "series": 45,
+  "aprovadas": 45,
+  "todas_homologadas": true,
+  "medicoes": 1350,
+  "pasta": "coleta_20261027_083247_010287"
+}
